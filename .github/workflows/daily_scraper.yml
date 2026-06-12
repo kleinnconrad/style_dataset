@@ -1,8 +1,6 @@
-name: Daily Fashion Analytics Pipeline
+name: Manual Fashion Analytics Pipeline
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
   workflow_dispatch:      # Allows manual execution via the GitHub UI
 
 jobs:
@@ -31,7 +29,6 @@ jobs:
     - name: Execute Pipeline
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-
         GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
         GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
       run: |
