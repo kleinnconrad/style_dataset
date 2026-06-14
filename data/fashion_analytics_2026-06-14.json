@@ -1,0 +1,279 @@
+[
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://bluecollarredlipstick.com",
+        "clothing_style": "Boho Chic",
+        "hairstyle": "Long, Straight",
+        "primary_colors": [
+            "Blue",
+            "Cream",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://bluecollarredlipstick.com",
+        "clothing_style": "Boho-chic / Cottagecore Casual",
+        "hairstyle": "Long, straight, reddish-brown",
+        "primary_colors": [
+            "Blue",
+            "Beige",
+            "Red",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.marissawearsanoutfit.com",
+        "clothing_style": "Boho Casual",
+        "hairstyle": "Long Wavy",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Red",
+            "Tan",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.marissawearsanoutfit.com",
+        "clothing_style": "Casual / Spring Everyday",
+        "hairstyle": "Long Wavy",
+        "primary_colors": [
+            "pink",
+            "brown",
+            "black",
+            "blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.outfitposts.com",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Long Blonde",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.outfitposts.com",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Straight, Shoulder-length",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.midlifechic.com",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Short Blonde Bob",
+        "primary_colors": [
+            "white",
+            "blue",
+            "beige",
+            "black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.92,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.midlifechic.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Bob",
+        "primary_colors": [
+            "white",
+            "blue",
+            "beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.midlifechic.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Blonde Bob",
+        "primary_colors": [
+            "White",
+            "Navy Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://straightastyleblog.com",
+        "clothing_style": "Feminine Summer Casual",
+        "hairstyle": "Long, wavy blonde with center part",
+        "primary_colors": [
+            "White",
+            "Red",
+            "Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://straightastyleblog.com",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long wavy blonde",
+        "primary_colors": [
+            "White",
+            "Red",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://straightastyleblog.com",
+        "clothing_style": "Feminine Summer Casual",
+        "hairstyle": "Long wavy blonde",
+        "primary_colors": [
+            "White",
+            "Red",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.jseverydayfashion.com",
+        "clothing_style": "Casual Summer",
+        "hairstyle": "Long blonde hair, straight",
+        "primary_colors": [
+            "White",
+            "Lavender",
+            "Blue",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.jseverydayfashion.com",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long and straight",
+        "primary_colors": [
+            "white",
+            "purple",
+            "blue",
+            "red",
+            "beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.jseverydayfashion.com",
+        "clothing_style": "Sporty Casual",
+        "hairstyle": "Long, straight hair worn down under a cap",
+        "primary_colors": [
+            "Lavender",
+            "Pink",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy dark hair with center part",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, center-parted",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.puttingmetogether.com",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long, wavy dark hair",
+        "primary_colors": [
+            "yellow",
+            "white"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    }
+]
