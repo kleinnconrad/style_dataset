@@ -39,12 +39,12 @@ flowchart TD
     Filter --> Vision
     Vision --> Schema
     
-    Schema -- Yes -->|FashionRecord| Main
-    Schema -- No -->|Discard| Discard([Skip])
+    Schema -->|Yes: FashionRecord| Main
+    Schema -->|No: Discard| Discard([Skip])
 
     Main -->|3. Save| Store
-    Store -- GitHub Actions --> Git
-    Store -- Local PC --> Local
+    Store -->|GitHub Actions| Git
+    Store -->|Local PC| Local
 
     classDef script fill:#2b3137,stroke:#24292e,stroke-width:2px,color:#fff;
     classDef model fill:#1a73e8,stroke:#1558d6,stroke-width:2px,color:#fff;
