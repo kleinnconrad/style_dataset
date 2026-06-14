@@ -21,7 +21,7 @@ def discover_targets() -> list[str]:
     
     try:
         response = client.models.generate_content(
-            model='gemini-3.1-pro',
+            model='gemini-3.5-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
                 tools=[{'google_search': {}}],

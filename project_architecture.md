@@ -15,9 +15,9 @@ fashion-analytics-scraper/
 │   ├── __init__.py
 │   ├── discovery.py
 │   ├── gdrive.py
+│   ├── main.py
 │   ├── parser.py
 │   └── schema.py
-├── main.py
 ├── README.md
 └── requirements.txt
 ```
@@ -77,7 +77,7 @@ jobs:
         GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
         GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
       run: |
-        python main.py
+        python src/main.py
 ```
 
 ---
@@ -303,7 +303,7 @@ def upload_to_drive(dataset: list[dict]):
             os.remove(target_filename)
 ```
 
-### `main.py`
+### `src/main.py`
 ```python
 import asyncio
 from src.discovery import discover_targets

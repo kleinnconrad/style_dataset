@@ -4,7 +4,7 @@ from datetime import datetime
 from typing import Optional
 from crawl4ai import AsyncWebCrawler
 from google import genai
-from src.schema import FashionRecord
+from schema import FashionRecord
 
 def download_image_as_bytes(url: str) -> Optional[bytes]:
     try:
@@ -38,7 +38,7 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
         prompt = f"Context: {text_context}. Enforce current date as {current_date}. Categorize the outfit and hair elements from the image strictly matching the provided schema rules."
 
         response = client.models.generate_content(
-            model='gemini-3.1-pro',
+            model='gemini-3.5-flash',
             contents=[part, prompt],
             config=genai.types.GenerateContentConfig(
                 response_mime_type="application/json",
@@ -70,12 +70,12 @@ async def scrape_and_process_url(url: str) -> list[dict]:
     parsed_results = []
     
     async with AsyncWebCrawler(verbose=False) as crawler:
-        result = await crawler.arun(url=url, bypass_cache=True)
+        result = await crawler.arun(url=url, bypass_cache=True, magic=True)
         
         if not result.success or not result.media:
             return []
             
-        valid_images = [img["src"] for img in result.media if img.get("type") == "image" and "logo" not in img.get("src", "").lower()][:3]
+        valid_images = [img["src"] for img in result.media.get("images", []) if "src" in img and "logo" not in img.get("src", "").lower()][:3]
         context_snippet = result.markdown[:1000] if result.markdown else ""
         
         for img_url in valid_images:
