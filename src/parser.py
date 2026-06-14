@@ -1,17 +1,36 @@
+"""
+Extracts images and parses them into structured records using Google Gemini.
+"""
 import os
+import logging
 import requests
 from datetime import datetime
-from typing import Optional
+from typing import List, Dict, Optional, Any
 from crawl4ai import AsyncWebCrawler
 from google import genai
+from google.genai import types
+from google.genai.errors import APIError
+from pydantic import ValidationError
 from schema import FashionRecord
 from tenacity import retry, wait_exponential, stop_after_attempt
 
+logger = logging.getLogger(__name__)
+
 @retry(wait=wait_exponential(multiplier=1, min=4, max=15), stop=stop_after_attempt(5))
-def _generate_with_retry(client, model, contents, config):
+def _generate_with_retry(client: genai.Client, model: str, contents: list, config: types.GenerateContentConfig):
+    """Executes the generate_content API call with exponential backoff retries."""
     return client.models.generate_content(model=model, contents=contents, config=config)
 
 def download_image_as_bytes(url: str) -> Optional[bytes]:
+    """
+    Downloads an image from a URL and returns it as a byte array.
+    
+    Args:
+        url (str): The URL of the image to download.
+        
+    Returns:
+        Optional[bytes]: The image content as bytes, or None if the download fails.
+    """
     try:
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -19,15 +38,25 @@ def download_image_as_bytes(url: str) -> Optional[bytes]:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         return response.content
-    except Exception as e:
-        print(f"[Error] Failed to download image {url}: {e}")
+    except requests.exceptions.RequestException as e:
+        logger.error("Failed to download image %s: %s", url, e)
         return None
 
-def parse_image_and_context(image_url: str, text_context: str, source_url: str) -> Optional[dict]:
-    """Sends image and contextual metadata to Google Gemini for structured taxonomy mapping."""
+def parse_image_and_context(image_url: str, text_context: str, source_url: str) -> Optional[Dict[str, Any]]:
+    """
+    Sends image and contextual metadata to Google Gemini for structured taxonomy mapping.
+    
+    Args:
+        image_url (str): URL of the target image.
+        text_context (str): Markdown text snippet from the page.
+        source_url (str): Origin URL of the webpage.
+        
+    Returns:
+        Optional[Dict[str, Any]]: A dictionary conforming to FashionRecord, or None if invalid/failed.
+    """
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        print("[Warning] GEMINI_API_KEY not found.")
+        logger.warning("GEMINI_API_KEY not found.")
         return None
         
     client = genai.Client(api_key=api_key)
@@ -73,12 +102,26 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
             record.image_url = None
             
         return record.model_dump(exclude={'is_valid_outfit'})
+    except APIError as e:
+        logger.error("Gemini API error during vision processing for %s: %s", image_url, e)
+        return None
+    except ValidationError as e:
+        logger.error("Schema validation failed for %s: %s", image_url, e)
+        return None
     except Exception as e:
-        print(f"[Error] Vision processing failed for {image_url}: {e}")
+        logger.error("Unexpected error processing %s: %s", image_url, e)
         return None
 
-async def scrape_and_process_url(url: str) -> list[dict]:
-    """Asynchronously executes crawls and orchestrates vision tasks per target."""
+async def scrape_and_process_url(url: str) -> List[Dict[str, Any]]:
+    """
+    Asynchronously executes crawls and orchestrates vision tasks per target.
+    
+    Args:
+        url (str): Target webpage URL to scrape.
+        
+    Returns:
+        List[Dict[str, Any]]: A list of extracted fashion records from the page.
+    """
     parsed_results = []
     
     async with AsyncWebCrawler(verbose=False) as crawler:

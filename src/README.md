@@ -2,6 +2,15 @@
 
 This directory contains the core logic for the autonomous fashion analytics scraper. The architecture is decoupled into specific functional modules that handle target discovery, data extraction, validation, and storage.
 
+## Table of Contents
+- [Files and Modules](#files-and-modules)
+  - [`main.py`](#mainpy)
+  - [`discovery.py`](#discoverypy)
+  - [`parser.py`](#parserpy)
+  - [`schema.py`](#schemapy)
+  - [`storage.py`](#storagepy)
+  - [`__init__.py`](#__init__py)
+
 ## Files and Modules
 
 ### `main.py`
@@ -16,7 +25,7 @@ Responsible for dynamically finding target websites.
 * **Key Features:** Includes an automatic `@retry` mechanism using `tenacity` with exponential backoff to handle temporary Gemini API rate limits (like `503` errors) gracefully.
 
 ### `parser.py`
-The heavy lifter for extracting and categorizing fashion data.
+Responsible for extracting and categorizing fashion data.
 * **How it works:** Uses `crawl4ai`'s `AsyncWebCrawler` with `magic=True` to bypass Cloudflare and anti-bot protections. It grabs the text context and extracts image URLs.
 * **Vision Processing:** Sends the images and context directly to the Gemini API (`gemini-3.5-flash`), instructing it to map the image contents strictly to the predefined schema. Also utilizes `tenacity` retries to stabilize API interactions.
 

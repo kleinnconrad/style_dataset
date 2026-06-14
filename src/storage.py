@@ -1,10 +1,22 @@
+"""
+Handles dataset serialization and storage execution.
+"""
 import os
 import json
+import logging
 from pathlib import Path
 from datetime import datetime
+from typing import List, Dict, Any
 
-def store_dataset(dataset: list[dict]):
-    """Stores the dataset either in GitHub's data/ folder or the local Downloads folder."""
+logger = logging.getLogger(__name__)
+
+def store_dataset(dataset: List[Dict[str, Any]]) -> None:
+    """
+    Stores the dataset either in GitHub's data/ folder or the local Downloads folder.
+    
+    Args:
+        dataset (List[Dict[str, Any]]): The aggregated list of extracted fashion records.
+    """
     date_str = datetime.now().strftime("%Y-%m-%d")
     target_filename = f"fashion_analytics_{date_str}.json"
     
@@ -20,4 +32,4 @@ def store_dataset(dataset: list[dict]):
     with open(target_path, "w", encoding="utf-8") as f:
         json.dump(dataset, f, indent=4)
         
-    print(f"[Success] Dataset securely stored to: {target_path}")
+    logger.info("Dataset securely stored to: %s", target_path)

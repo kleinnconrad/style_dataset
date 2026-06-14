@@ -1,18 +1,35 @@
+"""
+Discovers independent fashion blogs dynamically using Gemini Search Grounding.
+"""
 import os
 import json
+import logging
+from typing import List, Optional
 from google import genai
 from google.genai import types
+from google.genai.errors import APIError
 from tenacity import retry, wait_exponential, stop_after_attempt
 
+logger = logging.getLogger(__name__)
+
 @retry(wait=wait_exponential(multiplier=1, min=4, max=15), stop=stop_after_attempt(5))
-def _generate_with_retry(client, model, contents, config):
+def _generate_with_retry(client: genai.Client, model: str, contents: str, config: types.GenerateContentConfig):
+    """Executes the generate_content API call with exponential backoff retries."""
     return client.models.generate_content(model=model, contents=contents, config=config)
 
-def discover_targets(ignore_urls: list[str] = None) -> list[str]:
-    """Finds independent fashion platforms using Gemini with Google Search."""
+def discover_targets(ignore_urls: Optional[List[str]] = None) -> List[str]:
+    """
+    Finds independent fashion platforms using Gemini with Google Search.
+    
+    Args:
+        ignore_urls (Optional[List[str]]): List of URLs to exclude from results.
+        
+    Returns:
+        List[str]: A list of discovered target URLs.
+    """
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
-        print("[Warning] GEMINI_API_KEY not found. Skipping dynamic discovery.")
+        logger.warning("GEMINI_API_KEY not found. Skipping dynamic discovery.")
         return []
         
     client = genai.Client(api_key=api_key)
@@ -49,6 +66,12 @@ def discover_targets(ignore_urls: list[str] = None) -> list[str]:
         if isinstance(urls, list):
             return [str(url) for url in urls if url.startswith('http')]
         return []
+    except json.JSONDecodeError as e:
+        logger.error("Failed to parse JSON from Gemini response: %s", e)
+        return []
+    except APIError as e:
+        logger.error("Gemini API error during discovery: %s", e)
+        return []
     except Exception as e:
-        print(f"[Error] Gemini discovery failed: {e}")
+        logger.error("Unexpected error during discovery: %s", e)
         return []
