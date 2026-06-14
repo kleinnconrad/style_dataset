@@ -87,6 +87,9 @@ When Gemini processes an image and its context, it produces a structured JSON re
 * **`hairstyle`** (String): 
   * *Example*: `"Updo"`
   * *How it's populated*: Gemini analyzes the subject's hair and selects a category (e.g., Updo, Long, Short, Unidentifiable).
+* **`gender`** (String): 
+  * *Example*: `"Female"`
+  * *How it's populated*: Gemini analyzes the subject and categorizes their perceived gender (`"Male"`, `"Female"`, or `"Unidentifiable"`).
 * **`primary_colors`** (Array of Strings): 
   * *Example*: `["pink", "brown", "beige", "blue", "green"]`
   * *How it's populated*: Gemini detects the dominant colors of the outfit worn by the subject.

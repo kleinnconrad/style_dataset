@@ -14,6 +14,7 @@ class FashionRecord(BaseModel):
         source_url (str): The origin URL of the image context.
         clothing_style (str): The primary fashion style.
         hairstyle (str): The primary hairstyle of the subject.
+        gender (Literal["Male", "Female", "Unidentifiable"]): Perceived gender of the subject.
         primary_colors (list[str]): List of dominant colors in the outfit.
         is_trendsetter (bool): True if celebrity/model, False if regular person.
         region (Literal["EU", "US"]): Geographic region identified from context.
@@ -25,6 +26,7 @@ class FashionRecord(BaseModel):
     source_url: str
     clothing_style: str = Field(description="The primary fashion style, e.g., Streetwear, Casual, Minimalist, Vintage, Formal, Gorpcore, etc. Be descriptive if it doesn't fit standard categories.")
     hairstyle: str = Field(description="The primary hairstyle of the subject, e.g., Long, Short, Updo, Ponytail, Buzzcut, Bald, etc. Be descriptive.")
+    gender: Literal["Male", "Female", "Unidentifiable"] = Field(description="The perceived gender of the subject based on visual appearance.")
     primary_colors: list[str]
     is_trendsetter: bool = Field(description="True if celebrity/model/artist, False if regular person")
     region: Literal["EU", "US"]
