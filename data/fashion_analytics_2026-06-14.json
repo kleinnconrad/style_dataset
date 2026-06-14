@@ -1,0 +1,194 @@
+[
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://fashionjackson.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight with highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://fashionjackson.com",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.puttingmetogether.com",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.puttingmetogether.com",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long, wavy black hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.jseverydayfashion.com",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Lavender",
+            "Blue",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.jseverydayfashion.com",
+        "clothing_style": "Casual Summer",
+        "hairstyle": "Long",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Purple",
+            "Blue",
+            "Tan",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://www.jseverydayfashion.com",
+        "clothing_style": "Sporty Casual",
+        "hairstyle": "Long straight hair worn down under a cap",
+        "gender": "Female",
+        "primary_colors": [
+            "Lavender",
+            "Pink",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://girlwithcurves.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length dark hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Grey",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.85,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://unefemme.net",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Short Silver Bob with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Mustard",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://unefemme.net",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Short Bob with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-14",
+        "source_url": "https://unefemme.net",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Short Bob with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    }
+]
