@@ -5,6 +5,11 @@ from typing import Optional
 from crawl4ai import AsyncWebCrawler
 from google import genai
 from schema import FashionRecord
+from tenacity import retry, wait_exponential, stop_after_attempt
+
+@retry(wait=wait_exponential(multiplier=1, min=4, max=15), stop=stop_after_attempt(5))
+def _generate_with_retry(client, model, contents, config):
+    return client.models.generate_content(model=model, contents=contents, config=config)
 
 def download_image_as_bytes(url: str) -> Optional[bytes]:
     try:
@@ -37,7 +42,8 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
 
         prompt = f"Context: {text_context}. Enforce current date as {current_date}. Categorize the outfit and hair elements from the image strictly matching the provided schema rules."
 
-        response = client.models.generate_content(
+        response = _generate_with_retry(
+            client=client,
             model='gemini-3.5-flash',
             contents=[part, prompt],
             config=genai.types.GenerateContentConfig(
@@ -48,6 +54,9 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
         )
         
         record = FashionRecord.model_validate_json(response.text)
+
+        if not record.is_valid_outfit:
+            return None
 
         record.date_scraped = current_date
         record.source_url = source_url
@@ -60,7 +69,7 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
         else:
             record.image_url = None
             
-        return record.model_dump()
+        return record.model_dump(exclude={'is_valid_outfit'})
     except Exception as e:
         print(f"[Error] Vision processing failed for {image_url}: {e}")
         return None
