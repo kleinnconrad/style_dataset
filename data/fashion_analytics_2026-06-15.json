@@ -1,0 +1,246 @@
+[
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://freelancersfashion.blogspot.com/",
+        "clothing_style": "Mid-century French Workwear",
+        "hairstyle": "Short, gray and thinning",
+        "gender": "Male",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.85,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://freelancersfashion.blogspot.com/",
+        "clothing_style": "Retro Mid-Century",
+        "hairstyle": "Bouffant Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://tpfashionista.wordpress.com/",
+        "clothing_style": "Boho-Chic",
+        "hairstyle": "Long, wavy, center part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Orange",
+            "Green",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://tpfashionista.wordpress.com/",
+        "clothing_style": "Bohemian Summer",
+        "hairstyle": "Long, wavy, middle-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Green",
+            "White",
+            "Orange"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://tpfashionista.wordpress.com/",
+        "clothing_style": "Boho Chic / Resortwear",
+        "hairstyle": "Long, wavy, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Yellow",
+            "Orange",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://poorlittleitgirl.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium length wavy blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://poorlittleitgirl.com/",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Blonde Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "White",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://mysuperfluities.blogspot.com/",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Straight Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "Black",
+            "Olive Green",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://mysuperfluities.blogspot.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length straight hair pushed back with a headband",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Dark Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://sosoreillystyle.wordpress.com/",
+        "clothing_style": "Casual Summer / Resortwear",
+        "hairstyle": "Long Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://sosoreillystyle.wordpress.com/",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long and wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Sage Green",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://sosoreillystyle.wordpress.com/",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://chandraknudsen.wordpress.com/",
+        "clothing_style": "Casual Rocker Style",
+        "hairstyle": "Long, straight, dark brown",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://chandraknudsen.wordpress.com/",
+        "clothing_style": "Bohemian Casual / Rocker Chic",
+        "hairstyle": "Long, Straight, Middle-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-15",
+        "source_url": "https://chandraknudsen.wordpress.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long straight dark hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    }
+]
