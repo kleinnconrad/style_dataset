@@ -1,0 +1,97 @@
+[
+    {
+        "date_scraped": "2026-06-16",
+        "source_url": "https://stylebee.ca/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-16",
+        "source_url": "https://behindthedressingroomdoor.blogspot.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Blue",
+            "Green",
+            "White",
+            "Navy"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.85,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-16",
+        "source_url": "https://seadbeady.blogspot.com/",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Short Pixie Cut",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Orange",
+            "Black",
+            "Yellow"
+        ],
+        "is_trendsetter": true,
+        "region": "EU",
+        "confidence_score": 0.92,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhcQX47Z1oF1r3XWYV-onn0nhr1sM_llyOzWmCimy4P3XTP8XhAEaClWKVnQmcYc7_62cE4GDwMzvHCxRm2mzBhx94x0ES5dtEpLSarjUWJBkf0eyRkG8E1TNCgGjEnAUdww7kos9Vgvqzzgd4nF31-PJHmCdCZmsV2BoUloHw_CUsMjfNtM9OdW5G2WF/w357-h475/Gloojo%20yellow%20light%20filter%20glasses%209.jpg"
+    },
+    {
+        "date_scraped": "2026-06-16",
+        "source_url": "https://goodlifeforless.blogspot.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long wavy brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-16",
+        "source_url": "https://heidi-likes.blogspot.com/",
+        "clothing_style": "Preppy Chic",
+        "hairstyle": "Long, wavy strawberry blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Lavender"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-16",
+        "source_url": "https://heidi-likes.blogspot.com/",
+        "clothing_style": "Preppy Chic Tweed",
+        "hairstyle": "Wavy shoulder-length blonde with a hair clip",
+        "gender": "Female",
+        "primary_colors": [
+            "Pastel Blue",
+            "Peach",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    }
+]
