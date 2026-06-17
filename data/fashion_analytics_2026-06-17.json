@@ -1,0 +1,201 @@
+[
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://freelancersfashion.blogspot.com",
+        "clothing_style": "Vintage Workwear",
+        "hairstyle": "Short Grey",
+        "gender": "Male",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.85,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://freelancersfashion.blogspot.com",
+        "clothing_style": "Vintage Retro",
+        "hairstyle": "Blonde Bouffant Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Brown",
+            "Beige",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://www.stylishpetite.com",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Buzzcut",
+        "gender": "Female",
+        "primary_colors": [
+            "Camel",
+            "Cream",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://www.stylishpetite.com",
+        "clothing_style": "Chic Minimalist",
+        "hairstyle": "Buzzcut",
+        "gender": "Female",
+        "primary_colors": [
+            "Camel",
+            "Cream",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://www.stylishpetite.com",
+        "clothing_style": "Chic Minimalist",
+        "hairstyle": "Slicked-back Cornrows",
+        "gender": "Female",
+        "primary_colors": [
+            "Camel",
+            "Cream",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://merricksart.com",
+        "clothing_style": "Festive Smart Casual / Preppy",
+        "hairstyle": "Long brunette hair styled in soft waves and low ponytails",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Burgundy",
+            "Navy Blue",
+            "Green",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://merricksart.com",
+        "clothing_style": "Festive Classic / Holiday Preppy",
+        "hairstyle": "Long wavy / low ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Blue",
+            "Burgundy",
+            "Gold",
+            "Green",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://thatchicfashionblog.wordpress.com",
+        "clothing_style": "Glamorous",
+        "hairstyle": "Long side-swept blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": true,
+        "region": "US",
+        "confidence_score": 0.85,
+        "image_url": "https://thatchicfashionblog.wordpress.com/wp-content/uploads/2014/10/cropped-image.jpeg"
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://thatchicfashionblog.wordpress.com",
+        "clothing_style": "60s Mod Preppy",
+        "hairstyle": "Long brown hair with middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": true,
+        "region": "US",
+        "confidence_score": 0.8,
+        "image_url": "https://thatchicfashionblog.wordpress.com/wp-content/uploads/2015/12/img_3333.jpeg?w=1091"
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://dearlynoted.wordpress.com",
+        "clothing_style": "Bohemian Maternity",
+        "hairstyle": "Long, wavy blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://dearlynoted.wordpress.com",
+        "clothing_style": "Boho-chic Maternity",
+        "hairstyle": "Medium-length Blonde Waves",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Grey",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-17",
+        "source_url": "https://dearlynoted.wordpress.com",
+        "clothing_style": "Boho Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Grey",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    }
+]
