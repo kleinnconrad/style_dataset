@@ -51,7 +51,7 @@ def discover_targets(ignore_urls: Optional[List[str]] = None) -> List[str]:
     try:
         response = _generate_with_retry(
             client=client,
-            model='gemini-1.5-flash',
+            model='gemini-2.5-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
                 tools=[{'google_search': {}}],
