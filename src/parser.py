@@ -81,7 +81,7 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
 
         response = _generate_with_retry(
             client=client,
-            model='gemini-3.5-flash',
+            model='gemini-1.5-flash',
             contents=[part, prompt],
             config=genai.types.GenerateContentConfig(
                 response_mime_type="application/json",
