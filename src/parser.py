@@ -10,13 +10,18 @@ from crawl4ai import AsyncWebCrawler
 from google import genai
 from google.genai import types
 from google.genai.errors import APIError
+import asyncio
 from pydantic import ValidationError
 from schema import FashionRecord
-from tenacity import retry, wait_exponential, stop_after_attempt
+from tenacity import retry, wait_exponential_jitter, stop_after_attempt, retry_if_exception_type
 
 logger = logging.getLogger(__name__)
 
-@retry(wait=wait_exponential(multiplier=1, min=4, max=15), stop=stop_after_attempt(5))
+@retry(
+    wait=wait_exponential_jitter(initial=10, max=60),
+    stop=stop_after_attempt(7),
+    retry=retry_if_exception_type(APIError)
+)
 def _generate_with_retry(client: genai.Client, model: str, contents: list, config: types.GenerateContentConfig):
     """Executes the generate_content API call with exponential backoff retries."""
     return client.models.generate_content(model=model, contents=contents, config=config)
@@ -139,5 +144,8 @@ async def scrape_and_process_url(url: str) -> List[Dict[str, Any]]:
             parsed_record = parse_image_and_context(img_url, context_snippet, url)
             if parsed_record:
                 parsed_results.append(parsed_record)
+            
+            # Explicit rate limiting to prevent overloading the API
+            await asyncio.sleep(2)
                 
     return parsed_results
