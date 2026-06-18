@@ -27,7 +27,10 @@ jobs:
         pip install -r requirements.txt
 
     - name: Initialize Crawl4AI
+      env:
+        DEBIAN_FRONTEND: noninteractive  # Forces apt-get to skip user prompts
       run: |
+        python -m playwright install chromium --with-deps  # Explicitly installs with auto-yes flags
         crawl4ai-setup
 
     - name: Execute Pipeline
