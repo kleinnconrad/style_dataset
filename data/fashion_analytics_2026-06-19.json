@@ -1,0 +1,201 @@
+[
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Short wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long straight hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back, practical",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://heartifb.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long straight dark brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://heartifb.com/",
+        "clothing_style": "Star Wars Cosplay",
+        "hairstyle": "Under helmet",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Black",
+            "Grey",
+            "Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short blonde bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://vintagefashionguild.org/community/",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://vintagefashionguild.org/community/",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Short hair under a structured hat; Elegant Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://indieella.com/blog",
+        "clothing_style": "Bohemian",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Orange",
+            "Red",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://indieella.com/blog",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "Long, flowing",
+        "gender": "Female",
+        "primary_colors": [
+            "Rust",
+            "Pink",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-19",
+        "source_url": "https://indieella.com/blog",
+        "clothing_style": "Bohemian",
+        "hairstyle": "Medium length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Rust",
+            "Red",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    }
+]
