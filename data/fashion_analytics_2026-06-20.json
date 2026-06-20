@@ -1,0 +1,98 @@
+[
+    {
+        "date_scraped": "2026-06-20",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-20",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, slightly wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-20",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, light brown, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-20",
+        "source_url": "https://littleblankdiaries.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-20",
+        "source_url": "https://reallifestyling.com",
+        "clothing_style": "Streetwear",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Blue",
+            "Green",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-20",
+        "source_url": "https://materfamiliaswrites.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, dark hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Yellow",
+            "White",
+            "Dark Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    }
+]
