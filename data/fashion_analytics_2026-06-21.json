@@ -1,0 +1,177 @@
+[
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "http://fatshionista.livejournal.com/",
+        "clothing_style": "Playful Casual",
+        "hairstyle": "Medium-length Straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "White",
+            "Light Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "http://daily_lolita.livejournal.com/",
+        "clothing_style": "Sweet Lolita",
+        "hairstyle": "Long",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Pink",
+            "White",
+            "Pastel Yellow",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "http://daily_lolita.livejournal.com/",
+        "clothing_style": "Sweet Lolita",
+        "hairstyle": "Long",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Red",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.85,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "http://whatiworetoday.livejournal.com/",
+        "clothing_style": "19th Century Equestrian Formal",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "http://whatiworetoday.livejournal.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy red-brown hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "http://whatiworetoday.livejournal.com/",
+        "clothing_style": "Stylish Casual",
+        "hairstyle": "Short Curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Purple",
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.8,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Effortless Chic",
+        "hairstyle": "Long straight blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-21",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    }
+]
