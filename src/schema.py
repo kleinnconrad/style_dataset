@@ -32,3 +32,33 @@ class FashionRecord(BaseModel):
     region: Literal["EU", "US"]
     confidence_score: float = Field(ge=0.0, le=1.0)
     image_url: Optional[str] = Field(default=None, description="Image URL of the subject (Only stored for trendsetters, omitted for regular people to ensure GDPR compliance)")
+
+    # Granular Garment & Outfit Details
+    top_garment_type: Optional[str] = Field(default=None, description="The type of top being worn, e.g., Blazer, Graphic T-shirt, Chunky Knit Sweater.")
+    bottom_garment_type: Optional[str] = Field(default=None, description="The type of bottom being worn, e.g., Wide-leg jeans, Pleated skirt, Cargo pants.")
+    footwear_type: Optional[str] = Field(default=None, description="The type of shoes being worn, e.g., Sneakers, Boots, Loafers, Heels.")
+    accessories: list[str] = Field(default_factory=list, description="List of visible accessories like bags, sunglasses, jewelry, or hats.")
+    patterns: list[str] = Field(default_factory=list, description="Patterns visible on the clothing, e.g., Striped, Floral, Plaid, Solid.")
+    fabric_textures: list[str] = Field(default_factory=list, description="Visually inferred materials, e.g., Denim, Leather, Silk, Ribbed Knit.")
+    clothing_fit: Optional[Literal["Oversized", "Fitted/Tight", "Regular/Tailored", "Mixed"]] = Field(default=None, description="The overall fit of the clothing.")
+
+    # Environmental & Contextual Data
+    setting: Optional[Literal["Urban/Street", "Nature", "Indoors/Studio", "Event/Red Carpet", "Beach", "Unclear"]] = Field(default=None, description="The setting or background of the photo.")
+    seasonality: Optional[Literal["Spring", "Summer", "Autumn", "Winter", "Unclear"]] = Field(default=None, description="The inferred season based on clothing layers and environment.")
+    weather_conditions: Optional[str] = Field(default=None, description="Inferred weather, e.g., Sunny, Raining, Snowy, Overcast.")
+    pose_or_activity: Optional[str] = Field(default=None, description="What the subject is doing, e.g., Walking confidently, Sitting, Posing.")
+
+    # Subject Demographics & Presentation
+    age_group: Optional[Literal["Child", "Teen", "Young Adult", "Adult", "Senior", "Unidentifiable"]] = Field(default=None, description="Visually estimated age bracket.")
+    makeup_style: Optional[str] = Field(default=None, description="Subject's makeup style, e.g., Natural, Bold lips, Smokey eye, Not visible.")
+    hair_color: Optional[str] = Field(default=None, description="Subject's hair color, e.g., Blonde, Brunette, Black, Pink, Red.")
+
+    # Text-Derived Context
+    brand_mentions: list[str] = Field(default_factory=list, description="Any fashion brands explicitly mentioned in the text context.")
+    price_segment: Optional[Literal["Fast Fashion", "Mid-range", "Luxury", "Unknown"]] = Field(default=None, description="Inferred price segment based on text or brands.")
+    sentiment_or_vibe: Optional[str] = Field(default=None, description="The aesthetic vibe described in the text, e.g., Effortless chic, Grunge.")
+
+    # High-Level Aesthetics
+    color_palette_type: Optional[Literal["Monochrome", "Pastel", "Earth Tones", "Neon", "High Contrast", "Neutral"]] = Field(default=None, description="The overall color theory of the outfit.")
+    layering_complexity: Optional[int] = Field(default=None, description="Scale from 1 (simple t-shirt) to 5 (heavy layering).")
+    focal_point: Optional[str] = Field(default=None, description="The standout piece that draws the eye the most.")

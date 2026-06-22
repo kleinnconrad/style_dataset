@@ -105,6 +105,26 @@ When Gemini processes an image and its context, it produces a structured JSON re
 * **`image_url`** (String or Null): 
   * *Example*: `null`
   * *How it's populated*: For **GDPR Compliance**, the actual image URL is only retained if `is_trendsetter` is `true` (i.e., the person is a public figure or model). If they are a private citizen (`is_trendsetter = false`), the image URL is explicitly stripped and set to `null`.
+* **`top_garment_type`** (String or Null): e.g., `"Blazer"`, `"Chunky Knit Sweater"`.
+* **`bottom_garment_type`** (String or Null): e.g., `"Wide-leg jeans"`, `"Cargo pants"`.
+* **`footwear_type`** (String or Null): e.g., `"Sneakers"`, `"Loafers"`.
+* **`accessories`** (Array of Strings): e.g., `["Sunglasses", "Crossbody bag"]`.
+* **`patterns`** (Array of Strings): e.g., `["Striped", "Floral"]`.
+* **`fabric_textures`** (Array of Strings): e.g., `["Denim", "Leather"]`.
+* **`clothing_fit`** (String or Null): e.g., `"Oversized"`, `"Fitted/Tight"`.
+* **`setting`** (String or Null): e.g., `"Urban/Street"`, `"Indoors/Studio"`.
+* **`seasonality`** (String or Null): e.g., `"Summer"`, `"Winter"`.
+* **`weather_conditions`** (String or Null): e.g., `"Sunny"`, `"Overcast"`.
+* **`pose_or_activity`** (String or Null): e.g., `"Walking confidently"`.
+* **`age_group`** (String or Null): e.g., `"Young Adult"`, `"Senior"`.
+* **`makeup_style`** (String or Null): e.g., `"Natural"`, `"Bold lips"`.
+* **`hair_color`** (String or Null): e.g., `"Blonde"`, `"Brunette"`.
+* **`brand_mentions`** (Array of Strings): Extracted from text context, e.g., `["Gucci", "Zara"]`.
+* **`price_segment`** (String or Null): e.g., `"Luxury"`, `"Fast Fashion"`.
+* **`sentiment_or_vibe`** (String or Null): e.g., `"Effortless chic"`.
+* **`color_palette_type`** (String or Null): e.g., `"Monochrome"`, `"Pastel"`.
+* **`layering_complexity`** (Integer or Null): e.g., `2`.
+* **`focal_point`** (String or Null): e.g., `"Bright red handbag"`.
 
 ## Setup
 

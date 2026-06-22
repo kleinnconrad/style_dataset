@@ -22,19 +22,20 @@ logger = logging.getLogger(__name__)
     stop=stop_after_attempt(7),
     retry=retry_if_exception_type(APIError)
 )
-def _generate_with_retry(client: genai.Client, model: str, contents: list, config: types.GenerateContentConfig):
+async def _generate_with_retry(client: genai.Client, model: str, contents: list, config: types.GenerateContentConfig):
     """Executes the generate_content API call with exponential backoff retries."""
-    return client.models.generate_content(model=model, contents=contents, config=config)
+    return await client.aio.models.generate_content(model=model, contents=contents, config=config)
 
-def download_image_as_bytes(url: str) -> Optional[bytes]:
+def download_and_resize_image(url: str, max_size: tuple = (1024, 1024)) -> Optional[bytes]:
     """
-    Downloads an image from a URL and returns it as a byte array.
+    Downloads an image from a URL, resizes it using Pillow, and returns it as a byte array.
     
     Args:
         url (str): The URL of the image to download.
+        max_size (tuple): Max width and height for resizing.
         
     Returns:
-        Optional[bytes]: The image content as bytes, or None if the download fails.
+        Optional[bytes]: The resized image content as JPEG bytes, or None if it fails.
     """
     try:
         headers = {
@@ -42,12 +43,25 @@ def download_image_as_bytes(url: str) -> Optional[bytes]:
         }
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
-        return response.content
-    except requests.exceptions.RequestException as e:
-        logger.error("Failed to download image %s: %s", url, e)
+        
+        from PIL import Image
+        import io
+        img = Image.open(io.BytesIO(response.content))
+        
+        # Convert RGBA to RGB for JPEG compatibility
+        if img.mode in ('RGBA', 'P'):
+            img = img.convert('RGB')
+            
+        img.thumbnail(max_size, Image.Resampling.LANCZOS)
+        
+        img_byte_arr = io.BytesIO()
+        img.save(img_byte_arr, format='JPEG', quality=85)
+        return img_byte_arr.getvalue()
+    except Exception as e:
+        logger.error("Failed to download or resize image %s: %s", url, e)
         return None
 
-def parse_image_and_context(image_url: str, text_context: str, source_url: str) -> Optional[Dict[str, Any]]:
+async def parse_image_and_context(image_url: str, text_context: str, source_url: str) -> Optional[Dict[str, Any]]:
     """
     Sends image and contextual metadata to Google Gemini for structured taxonomy mapping.
     
@@ -71,7 +85,7 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
     region = "EU" if any(word in text_context.lower() for word in ["paris", "milan", "berlin", "london", "eu"]) else "US"
 
     try:
-        image_bytes = download_image_as_bytes(image_url)
+        image_bytes = await asyncio.to_thread(download_and_resize_image, image_url)
         if not image_bytes:
             return None
             
@@ -79,7 +93,7 @@ def parse_image_and_context(image_url: str, text_context: str, source_url: str) 
 
         prompt = f"Context: {text_context}. Enforce current date as {current_date}. Categorize the outfit and hair elements from the image strictly matching the provided schema rules."
 
-        response = _generate_with_retry(
+        response = await _generate_with_retry(
             client=client,
             model='gemini-2.5-flash',
             contents=[part, prompt],
@@ -141,11 +155,11 @@ async def scrape_and_process_url(url: str) -> List[Dict[str, Any]]:
         for img_url in valid_images:
             if not img_url.startswith("http"):
                 continue
-            parsed_record = parse_image_and_context(img_url, context_snippet, url)
+            parsed_record = await parse_image_and_context(img_url, context_snippet, url)
             if parsed_record:
                 parsed_results.append(parsed_record)
             
             # Explicit rate limiting to prevent overloading the API
-            await asyncio.sleep(2)
+            await asyncio.sleep(5)
                 
     return parsed_results
