@@ -1,219 +1,474 @@
 [
     {
         "date_scraped": "2026-06-22",
-        "source_url": "https://styleandminimalism.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Mid-length, natural",
-        "gender": "Female",
-        "primary_colors": [
-            "Light Blue",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.8,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://www.un-fancy.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Medium length, wavy, down",
-        "gender": "Female",
-        "primary_colors": [
-            "Cream",
-            "Blue"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.9,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://www.un-fancy.com/",
+        "source_url": "https://un-fancy.com",
         "clothing_style": "Minimalist Casual",
-        "hairstyle": "Short",
+        "hairstyle": "Medium length, wavy",
         "gender": "Female",
         "primary_colors": [
-            "Black",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.85,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, wavy",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long wavy",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual everyday",
-        "hairstyle": "Long wavy hair",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://j_fashion.livejournal.com/",
-        "clothing_style": "Bohemian Casual",
-        "hairstyle": "Not visible",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "Pink",
-            "Orange",
-            "Green",
-            "Blue",
-            "Gold",
-            "Red",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://j_fashion.livejournal.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, reddish-brown hair",
-        "gender": "Female",
-        "primary_colors": [
-            "White",
-            "Yellow",
-            "Green",
-            "Blue",
-            "Pink",
-            "Red"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.9,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://j_fashion.livejournal.com/",
-        "clothing_style": "Casual, Floral",
-        "hairstyle": "Long, Straight",
-        "gender": "Female",
-        "primary_colors": [
-            "Green",
-            "Yellow",
-            "Blue",
-            "Pink",
-            "Gold"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.9,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://worn_so_well.livejournal.com/",
-        "clothing_style": "Vintage Military",
-        "hairstyle": "Short, under cap",
-        "gender": "Male",
-        "primary_colors": [
-            "Cyan",
-            "Blue",
-            "Black",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.9,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://www.youlookfab.com/forum/",
-        "clothing_style": "Smart Casual",
-        "hairstyle": "Long curly hair",
-        "gender": "Female",
-        "primary_colors": [
-            "Dark Blue",
-            "White",
-            "Blue",
-            "Brown"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null
-    },
-    {
-        "date_scraped": "2026-06-22",
-        "source_url": "https://www.youlookfab.com/forum/",
-        "clothing_style": "Classic Casual",
-        "hairstyle": "Long, dark, curly hair",
-        "gender": "Female",
-        "primary_colors": [
-            "Navy",
-            "White",
-            "Brown",
-            "Dark Blue",
+            "Dark Grey",
+            "Light Blue",
+            "Cream",
             "Black"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
-        "image_url": null
+        "image_url": null,
+        "top_garment_type": "Crewneck Sweater",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Handbag",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Handbag"
     },
     {
         "date_scraped": "2026-06-22",
-        "source_url": "https://www.youlookfab.com/forum/",
-        "clothing_style": "Classic Casual",
-        "hairstyle": "Shoulder-length, straight",
+        "source_url": "https://poorlittleitgirl.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length wavy blonde hair",
         "gender": "Female",
         "primary_colors": [
-            "Dark Purple",
+            "Blue",
             "White",
-            "Black",
             "Brown"
         ],
         "is_trendsetter": false,
         "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim jacket",
+        "bottom_garment_type": "Striped midi dress",
+        "footwear_type": "White sneakers",
+        "accessories": [],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Striped midi dress"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://krpersonalstyle.com",
+        "clothing_style": "Modern Casual",
+        "hairstyle": "Long, layered, with highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Tan",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
         "confidence_score": 0.95,
-        "image_url": null
+        "image_url": null,
+        "top_garment_type": "Ribbed knit collared top",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Flip-flops",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Sitting, engaging",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://krpersonalstyle.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Shoulder-length, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Brown knit jacket",
+        "bottom_garment_type": "Blue straight-leg jeans",
+        "footwear_type": "Black flip-flops",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed professional",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Brown knit jacket"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://krpersonalstyle.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight with subtle waves, brown with highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt/cardigan",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Flip-flops",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, engaging",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://the-rosenrot.com",
+        "clothing_style": "Avant-garde Winterwear",
+        "hairstyle": "Long, straight with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shaggy Fur Coat",
+        "bottom_garment_type": "Dark Flowing Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Fur Hat"
+        ],
+        "patterns": [
+            "Solid",
+            "Textured"
+        ],
+        "fabric_textures": [
+            "Fur",
+            "Heavy Fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with Subtle Eye Makeup",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Avant-garde Winter Elegance",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Shaggy Fur Coat and Hat"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://the-rosenrot.com",
+        "clothing_style": "Avant-garde Winterwear",
+        "hairstyle": "Long, straight, dark hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Oversized fur coat",
+        "bottom_garment_type": "Dark Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Fur hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fur",
+            "Shearling"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Dramatic Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Oversized fur coat"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://the-rosenrot.com",
+        "clothing_style": "Editorial Winter Fashion",
+        "hairstyle": "Long straight hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shearling coat",
+        "bottom_garment_type": "Long skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Fur ushanka hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shearling",
+            "Faux Fur"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Editorial, Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Shearling fur coat"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy black hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeve blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large oval earrings"
+        ],
+        "patterns": [
+            "Abstract floral/dotted"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large Hoop Earrings"
+        ],
+        "patterns": [
+            "Abstract Floral"
+        ],
+        "fabric_textures": [
+            "Light Woven Fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful and Approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Printed Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop Earrings"
+        ],
+        "patterns": [
+            "Small Floral/Dot"
+        ],
+        "fabric_textures": [
+            "Lightweight Fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow Printed Blouse"
     }
 ]
