@@ -1,6 +1,6 @@
 # Fashion Analytics Scraper
 
-An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It dynamically discovers independent fashion blogs, scrapes them using `crawl4ai`, extracts fashion metadata using Google Gemini (`gemini-3.5-flash`), and saves the structured data to the repository.
+An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It dynamically discovers independent fashion blogs, scrapes them using `crawl4ai`, extracts fashion metadata using Google Gemini (`gemini-2.5-flash`), and saves the structured data to the repository.
 
 ## Table of Contents
 - [Pipeline Architecture](#pipeline-architecture)

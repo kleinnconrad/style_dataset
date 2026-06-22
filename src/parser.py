@@ -48,8 +48,13 @@ def download_and_resize_image(url: str, max_size: tuple = (1024, 1024)) -> Optio
         import io
         img = Image.open(io.BytesIO(response.content))
         
-        # Convert RGBA to RGB for JPEG compatibility
-        if img.mode in ('RGBA', 'P'):
+        # Handle transparency correctly
+        if img.mode in ('RGBA', 'LA') or (img.mode == 'P' and 'transparency' in img.info):
+            img = img.convert('RGBA')
+            bg = Image.new('RGB', img.size, (255, 255, 255))
+            bg.paste(img, mask=img.split()[3])
+            img = bg
+        elif img.mode != 'RGB':
             img = img.convert('RGB')
             
         img.thumbnail(max_size, Image.Resampling.LANCZOS)
