@@ -1,0 +1,219 @@
+[
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Mid-length, natural",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.8,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium length, wavy, down",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.85,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual everyday",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://j_fashion.livejournal.com/",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Pink",
+            "Orange",
+            "Green",
+            "Blue",
+            "Gold",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://j_fashion.livejournal.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, reddish-brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Pink",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://j_fashion.livejournal.com/",
+        "clothing_style": "Casual, Floral",
+        "hairstyle": "Long, Straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Green",
+            "Yellow",
+            "Blue",
+            "Pink",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://worn_so_well.livejournal.com/",
+        "clothing_style": "Vintage Military",
+        "hairstyle": "Short, under cap",
+        "gender": "Male",
+        "primary_colors": [
+            "Cyan",
+            "Blue",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.youlookfab.com/forum/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Long curly hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.youlookfab.com/forum/",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Long, dark, curly hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Brown",
+            "Dark Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    },
+    {
+        "date_scraped": "2026-06-22",
+        "source_url": "https://www.youlookfab.com/forum/",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Shoulder-length, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Purple",
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null
+    }
+]
