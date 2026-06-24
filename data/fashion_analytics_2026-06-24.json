@@ -1,0 +1,496 @@
+[
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Brunette, Medium length, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim button-down shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Wrist tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Denim button-down shirt"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Arm Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Wellbeing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Treatment tool and hands"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Effortless Chic",
+        "hairstyle": "Long, straight with slight waves",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "White T-shirt, Suede Trench Coat",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Kitten heel pumps",
+        "accessories": [
+            "Sunglasses",
+            "Handbag",
+            "Belt"
+        ],
+        "patterns": [
+            "Solid",
+            "Animal print (belt)"
+        ],
+        "fabric_textures": [
+            "Suede",
+            "Denim",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde, Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Suede Trench Coat"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Long Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Trench Jacket",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": "Slingback Kitten Heels",
+        "accessories": [
+            "Sunglasses",
+            "Handbag"
+        ],
+        "patterns": [
+            "Monogram"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brown",
+        "brand_mentions": [
+            "Gucci",
+            "Herm\u00e8s"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Handbag"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "White Button-Up Shirt",
+        "bottom_garment_type": "Straight-Leg Jeans",
+        "footwear_type": "Beige Loafers",
+        "accessories": [
+            "Small Shoulder Bag",
+            "Necklace",
+            "Glasses (on head)"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "White Button-Up Shirt"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Sleeveless dress",
+        "bottom_garment_type": "Dress",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black sleeveless dress with buttons"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, Layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Burgundy"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve Top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered necklace",
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, pointing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Gucci"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Smart Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Layered necklace"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck floral blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Approachable Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral blouse"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Sophisticated Casual",
+        "hairstyle": "Long, curly black hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "Brown",
+            "White",
+            "Dark Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Trench coat, Turtleneck",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": "Wedge boots",
+        "accessories": [
+            "Belt",
+            "Handbag",
+            "Earrings",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Subtle animal print (belt)",
+            "Heathered knit (socks)"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Knit",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Belted Trench Coat and Handbag"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Classic Chic",
+        "hairstyle": "Long, curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Dark Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Trench coat",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": "Wedge booties",
+        "accessories": [
+            "Belt",
+            "Handbag",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Standing, posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "The belted trench coat"
+    },
+    {
+        "date_scraped": "2026-06-24",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Classic",
+        "hairstyle": "Shoulder-length, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Purple",
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Trench Coat, Turtleneck",
+        "bottom_garment_type": "Skinny Pants",
+        "footwear_type": "Ankle Boots",
+        "accessories": [
+            "Handbag",
+            "Tortoiseshell Belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Fabric",
+            "Knit"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Fast Fashion",
+        "sentiment_or_vibe": "Polished Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Trench Coat"
+    }
+]
