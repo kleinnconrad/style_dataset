@@ -1,0 +1,307 @@
+[
+    {
+        "date_scraped": "2026-06-25",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Dark Hair (client); Pulled back/Short (therapist)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim-style button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo (mandala design)",
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala (tattoo)"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Terrycloth (towels)"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment (therapist); Lying down, receiving treatment (client)",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown (client)",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Therapeutic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The light blue denim shirt of the therapist"
+    },
+    {
+        "date_scraped": "2026-06-25",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Massage tool and client's face"
+    },
+    {
+        "date_scraped": "2026-06-25",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": null,
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Button-up Shirt"
+    },
+    {
+        "date_scraped": "2026-06-25",
+        "source_url": "https://medium.com/@anoninvogue",
+        "clothing_style": "Bohemian",
+        "hairstyle": "Long dark locs/braids, free-flowing",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patterned button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Beaded necklace"
+        ],
+        "patterns": [
+            "Abstract",
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, looking upwards",
+        "age_group": "Adult",
+        "makeup_style": "Natural, subtle bold lips",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Expressive and confident",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Hair and patterned top"
+    },
+    {
+        "date_scraped": "2026-06-25",
+        "source_url": "https://medium.com/@anoninvogue",
+        "clothing_style": "Bohemian",
+        "hairstyle": "Long braided locs, flowing in wind",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Printed blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Beaded necklace"
+        ],
+        "patterns": [
+            "Abstract/Geometric"
+        ],
+        "fabric_textures": [
+            "Light fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Breezy",
+        "pose_or_activity": "Posing, looking upwards",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Expressive, Confident",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Hair and earrings"
+    },
+    {
+        "date_scraped": "2026-06-25",
+        "source_url": "https://vintagefashionguild.org/forums",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Embellished Lace Bodice with Capelet",
+        "bottom_garment_type": "Full-length Gown Skirt",
+        "footwear_type": "Sandals",
+        "accessories": [
+            "Wide-brimmed hat",
+            "Glasses",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral embroidery"
+        ],
+        "fabric_textures": [
+            "Lace",
+            "Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Vintage Glamour",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Light blue gown with black lace cape"
+    },
+    {
+        "date_scraped": "2026-06-25",
+        "source_url": "https://vintagefashionguild.org/forums",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Short, elegantly styled",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Lace top with cape overlay",
+        "bottom_garment_type": "Full-length skirt",
+        "footwear_type": "Heels",
+        "accessories": [
+            "Wide-brimmed hat",
+            "Glasses",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid",
+            "Embroidered Floral"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Lace",
+            "Satin/Silk"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Classic makeup",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Elegant chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Light blue cape/dress"
+    }
+]
