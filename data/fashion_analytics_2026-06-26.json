@@ -1,0 +1,658 @@
+[
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Medium Length Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White Button-up Shirt",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": "White Sneakers",
+        "accessories": [
+            "Brown Crossbody Bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White Button-up Shirt"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, wavy, loose",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Crew-neck t-shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Low-top sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, natural pose",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Jeans"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://www.mappcraft.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Magenta",
+            "Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Magenta tank top",
+        "bottom_garment_type": "Blue straight-leg jeans",
+        "footwear_type": "Gold wedge sandals",
+        "accessories": [
+            "Earrings",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding a patterned dress",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Approachable chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Magenta tank top"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://www.mappcraft.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tank top",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Wedge sandals",
+        "accessories": [
+            "Drop earrings",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid",
+            "Ribbed"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding garment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Pink tank top"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://www.lovemaegan.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Grey",
+            "White",
+            "Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Cuddling pet",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Woman and pet"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://www.lovemaegan.com/",
+        "clothing_style": "Casual Boho",
+        "hairstyle": "Messy Updo with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Green",
+            "Orange",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Paisley Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Bangles",
+            "Rings"
+        ],
+        "patterns": [
+            "Paisley"
+        ],
+        "fabric_textures": [
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Playful pose",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful and Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Green lips candy"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://www.lovemaegan.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, half-updo",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped sweatshirt",
+        "bottom_garment_type": "Tiered mini skirt",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Sunglasses",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Beach",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Plaid mini skirt"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://poorlittleitgirl.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "Off-white",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Midi shirt dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Woven belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric",
+            "Textured woven belt"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Woven belt"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://poorlittleitgirl.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length wavy blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim Jacket",
+        "bottom_garment_type": "Striped Maxi Dress",
+        "footwear_type": "White Sneakers",
+        "accessories": [
+            "Coffee cup"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Striped Maxi Dress"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy black hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large oval drop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Scattered/Speckled"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual/Everyday",
+        "hairstyle": "Long, wavy black hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral print short-sleeve V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral top"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Small floral/abstract"
+        ],
+        "fabric_textures": [
+            "Woven cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://caphillstyle.com",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Black long-sleeve top",
+        "bottom_garment_type": "Black trousers",
+        "footwear_type": "Black stiletto heels",
+        "accessories": [
+            "Layered bracelet"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Suede",
+            "Woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Sitting, holding a drink and a magazine",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print item"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://caphillstyle.com",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top/jacket",
+        "bottom_garment_type": "Leopard print trousers/skirt",
+        "footwear_type": "High heels",
+        "accessories": [
+            "Bracelet",
+            "Ring",
+            "Glass"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Woven fabric",
+            "Suede"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Relaxing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print bottom"
+    },
+    {
+        "date_scraped": "2026-06-26",
+        "source_url": "https://caphillstyle.com",
+        "clothing_style": "Chic",
+        "hairstyle": "Unidentifiable",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer",
+        "bottom_garment_type": "Leopard print skirt",
+        "footwear_type": "Stiletto heels",
+        "accessories": [
+            "Gold bracelets",
+            "Glass"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [
+            "amazon",
+            "shopmy",
+            "flagship"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print skirt"
+    }
+]
