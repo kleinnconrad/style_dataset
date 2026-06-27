@@ -1,0 +1,575 @@
+[
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Light Woven",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Smiling and Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful and Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned Yellow Blouse"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved patterned blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Printed Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Earrings"
+        ],
+        "patterns": [
+            "Floral/Dot"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow top"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Classic Minimalist",
+        "hairstyle": "Long, dark brown, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Professional, Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Dress buttons"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Long, layered waves",
+        "gender": "Female",
+        "primary_colors": [
+            "Burgundy"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered gold necklace",
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, pointing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Professional, approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Simple dark knit top"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral blouse"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://mystylediaries.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, blonde with side-swept bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Beige",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Knit sweater",
+        "bottom_garment_type": "Casual pants",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Straw tote bag",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Geometric (on bag)"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Straw"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Colorful tote bag"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://www.thenewyorkstylist.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, wavy blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve T-shirt",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Flats",
+        "accessories": [
+            "Gold hoop earrings",
+            "Gold bracelet",
+            "Belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, posing with hands in pockets",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Blonde",
+        "brand_mentions": [
+            "The New York Stylist"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://www.thenewyorkstylist.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Cream",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve blouse",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://www.thenewyorkstylist.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long wavy blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Blue",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve Blouse",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sandals",
+        "accessories": [
+            "Gold hoop earrings",
+            "Bracelets",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Soft woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Mild",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Long, curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Dark Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Trench Coat, Turtleneck",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": "Wedge Boots",
+        "accessories": [
+            "Belt",
+            "Handbag",
+            "Bracelet",
+            "Earrings"
+        ],
+        "patterns": [
+            "Animal Print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Gabardine",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Belted Trench Coat"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Long, curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "Dark Blue",
+            "Brown",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Trench coat over turtleneck",
+        "bottom_garment_type": "Slim-fit jeans",
+        "footwear_type": "Wedge ankle boots",
+        "accessories": [
+            "Brown belt",
+            "Brown structured handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Cool",
+        "pose_or_activity": "Standing, posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Classic elegance",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench coat"
+    },
+    {
+        "date_scraped": "2026-06-27",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Classic Chic",
+        "hairstyle": "Long, Straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Purple",
+            "Cream",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Trench Coat",
+        "bottom_garment_type": "Skinny Pants",
+        "footwear_type": "Ankle Boots",
+        "accessories": [
+            "Structured Handbag",
+            "Tortoiseshell Belt",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid",
+            "Tortoiseshell"
+        ],
+        "fabric_textures": [
+            "Cotton Twill",
+            "Knit",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished, Smart",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Trench Coat"
+    }
+]
