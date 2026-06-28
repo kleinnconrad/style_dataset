@@ -1,0 +1,585 @@
+[
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://whaelse.com/en/",
+        "clothing_style": "Beachwear/Casual",
+        "hairstyle": "Short, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "One-piece swimsuit",
+        "bottom_garment_type": "Swimsuit bottoms (brief style)",
+        "footwear_type": null,
+        "accessories": [
+            "Small earrings",
+            "Delicate bracelet",
+            "Camcorder"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth synthetic fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Beach",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Crouching, filming",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Candid",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Camcorder and pose"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://whaelse.com/en/",
+        "clothing_style": "Minimalist Streetwear",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tube top, Leather Trench Coat",
+        "bottom_garment_type": "Long Denim Skirt",
+        "footwear_type": "Chunky Lace-up Shoes",
+        "accessories": [
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Leather",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Leather Trench Coat"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://whaelse.com/en/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length messy bob with layers",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown",
+            "Dark Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Ribbed tank top",
+        "bottom_garment_type": "Dark pants",
+        "footwear_type": null,
+        "accessories": [
+            "Silver chain necklace with pearl pendant",
+            "Rings",
+            "Beaded bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Lying on a bed, looking away",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light brown with blonde highlights",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, natural, cozy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Hair"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Dark Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing casually",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Light-wash jeans"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Medium-length straight hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "White long-sleeved shirt",
+        "bottom_garment_type": "Blue straight-leg jeans",
+        "footwear_type": "Brown loafers",
+        "accessories": [
+            "Brown leather shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The complete outfit silhouette"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long straight hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "White",
+            "Dark Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared shirt and knit sweater",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Boots",
+        "accessories": [
+            "Tote bag",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking casually",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Layered top"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://polishedpolyglot.com/",
+        "clothing_style": "Activewear",
+        "hairstyle": "Medium-length, dark, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Coral",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Workout t-shirt",
+        "bottom_garment_type": "Full-length leggings",
+        "footwear_type": "Athletic socks",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Performance fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Stretching/Yoga",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual, Active",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Coral top"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://www.mystylepill.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chunky Knit Turtleneck Sweater",
+        "bottom_garment_type": "Cropped Wide-leg Trousers",
+        "footwear_type": "Chunky Platform Boots",
+        "accessories": [
+            "Fedora Hat"
+        ],
+        "patterns": [
+            "Cable Knit"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Chunky Knit Turtleneck Sweater"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://www.mystylepill.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Low Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Brown",
+            "Pink",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Plaid Shacket, Ribbed Hoodie",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop Earrings",
+            "Crossbody Bag",
+            "Ring"
+        ],
+        "patterns": [
+            "Plaid",
+            "Ribbed"
+        ],
+        "fabric_textures": [
+            "Wool Blend",
+            "Ribbed Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, Urban Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Plaid Shacket"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://www.mystylepill.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "High Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Grey",
+            "Red",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Plaid Trench Coat, Button-up Shirt",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": "Ankle Boots",
+        "accessories": [
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Wool Blend",
+            "Cotton Blend"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Autumnal Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Red Wide-leg Trousers"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://alexandrastylist.com/blog/",
+        "clothing_style": "Elegant",
+        "hairstyle": "Medium, Wavy, Windblown",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": "White A-line Dress",
+        "footwear_type": null,
+        "accessories": [
+            "Pearl Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Reddish Brown",
+        "brand_mentions": [
+            "Alexandra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "White Dress"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Effortless Chic",
+        "hairstyle": "Long, straight/wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Suede Trench Coat",
+        "bottom_garment_type": "Cropped Straight-leg Jeans",
+        "footwear_type": "Kitten Heel Pumps",
+        "accessories": [
+            "Sunglasses",
+            "Handbag",
+            "Belt"
+        ],
+        "patterns": [
+            "Solid",
+            "Animal Print"
+        ],
+        "fabric_textures": [
+            "Suede",
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Olive Suede Trench Coat"
+    },
+    {
+        "date_scraped": "2026-06-28",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Long, wavy, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Trench Jacket",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Slingback Heels",
+        "accessories": [
+            "Sunglasses",
+            "Top-handle bag",
+            "Ring"
+        ],
+        "patterns": [
+            "Monogram"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Gucci",
+            "Hermes"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Beige Cropped Jacket and Brown Handbag"
+    }
+]
