@@ -1,0 +1,537 @@
+[
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy black hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "White shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Oval earrings"
+        ],
+        "patterns": [
+            "Abstract floral/speckled"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeved blouse",
+        "bottom_garment_type": "White slim-fit jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeve blouse",
+        "bottom_garment_type": "White skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Ditsy floral"
+        ],
+        "fabric_textures": [
+            "Lightweight cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://beauticurve.com/",
+        "clothing_style": "Feminine Chic",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Pink",
+            "Green",
+            "Nude"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": null,
+        "footwear_type": "Nude Pointed-toe Pumps",
+        "accessories": [
+            "Earrings",
+            "Rings",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Floral",
+            "Pleated"
+        ],
+        "fabric_textures": [
+            "Chiffon",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Pastel",
+        "layering_complexity": 1,
+        "focal_point": "Floral Midi Dress"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, light brown",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Suede Trench Coat",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Kitten heel pumps",
+        "accessories": [
+            "Sunglasses",
+            "Structured Handbag",
+            "Patterned Belt"
+        ],
+        "patterns": [
+            "Subtle Animal Print (belt)",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Suede",
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Olive Suede Trench Coat"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Long Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Cropped utility jacket",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Patterned slingback kitten heels",
+        "accessories": [
+            "Sunglasses",
+            "Handbag",
+            "Ring"
+        ],
+        "patterns": [
+            "Monogram"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Smooth fabric",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brunette",
+        "brand_mentions": [
+            "Gucci"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Handbag"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://caphillstyle.com/",
+        "clothing_style": "Chic",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Black Long-sleeved Top",
+        "bottom_garment_type": "Leopard Print Pants",
+        "footwear_type": "Stiletto Heels",
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Leopard Print"
+        ],
+        "fabric_textures": [
+            "Smooth Fabric",
+            "Suede"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Relaxed, holding drink",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Chic and Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print pants"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://caphillstyle.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer",
+        "bottom_garment_type": "Leopard print trousers",
+        "footwear_type": "Pointed-toe heels",
+        "accessories": [
+            "Gold bracelet"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Suede"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Relaxed sitting, holding a drink and magazine",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated, Relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print trousers"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://caphillstyle.com/",
+        "clothing_style": "Chic/Elegant",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Black long-sleeve top/jacket",
+        "bottom_garment_type": "Leopard print trousers/skirt",
+        "footwear_type": "Black stiletto heels",
+        "accessories": [
+            "Bracelets",
+            "Glass with drink"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Suede"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Not determinable",
+        "pose_or_activity": "Relaxing with a drink and a magazine",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print garment"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown",
+            "Orange"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid",
+            "Tortoiseshell"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural, Bold lips",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Sunglasses"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Sunglasses"
+    },
+    {
+        "date_scraped": "2026-06-29",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid",
+            "Tortoiseshell"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Sunglasses"
+    }
+]
