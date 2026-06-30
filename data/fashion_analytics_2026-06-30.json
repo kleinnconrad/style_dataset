@@ -1,0 +1,534 @@
+[
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, dark",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "White button-down shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Sunglasses",
+            "Black handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White button-down shirt"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sleeveless dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black sleeveless dress"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, layered dark brown hair, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Plum",
+            "Black",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve knit top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered gold necklace",
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, smiling, pointing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Professional, approachable, stylish",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black handbag in the background"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Shoulder-length, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck Blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Practical Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral V-neck Blouse"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Modern Casual Chic",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Suede Trench Coat",
+        "bottom_garment_type": "Cropped Straight-Leg Jeans",
+        "footwear_type": "Kitten Heels",
+        "accessories": [
+            "Sunglasses",
+            "Structured Handbag",
+            "Thin Belt"
+        ],
+        "patterns": [
+            "Animal Print"
+        ],
+        "fabric_textures": [
+            "Suede",
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Suede Trench Coat"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Brown",
+            "Dark Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Cropped Utility Jacket",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": "Kitten Heel Slingback Pumps",
+        "accessories": [
+            "Sunglasses",
+            "Top-handle Bag"
+        ],
+        "patterns": [
+            "Monogram"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette with Blonde Highlights",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Top-handle Bag"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://www.vintagefashionguild.org/forums/",
+        "clothing_style": "Vintage Swimwear",
+        "hairstyle": "Updo with headscarf",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Orange",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "One-piece swimsuit",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Headscarf",
+            "Flowing wrap"
+        ],
+        "patterns": [
+            "Patterned (headscarf)"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Lightweight fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Beach",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Vintage Fashion Guild"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Retro Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Flowing orange wrap"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://www.vintagefashionguild.org/forums/",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Lace Cape",
+        "bottom_garment_type": "Full-length A-line Skirt",
+        "footwear_type": "Heeled Sandals",
+        "accessories": [
+            "Ring"
+        ],
+        "patterns": [
+            "Floral Lace"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Lace"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing elegantly",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Elegant and sophisticated",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Light Blue Gown with Black Lace Cape"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://www.vintagefashionguild.org/forums/",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Midi Dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Wide-brimmed hat",
+            "Glasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Crepe"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Wide-brimmed hat"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://auxiliarymagazine.com/",
+        "clothing_style": "Gothic/Alternative",
+        "hairstyle": "Long dark hair in a half-updo with short blunt bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeve top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Chain necklace",
+            "Drop earrings",
+            "Septum piercing",
+            "Philtrum piercing",
+            "Bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Smokey eye, Bold eyeliner, Dark lips",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy, Mysterious, Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Face and accessories"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://www.devolutionmagazine.co.uk/fashion-beauty",
+        "clothing_style": "Alternative/Punk",
+        "hairstyle": "Short, curly, red hair with a tiara/headband",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Heart-shaped Gingham Apron",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Pearl necklaces",
+            "Tiara/Headband",
+            "Earrings",
+            "Bracelets",
+            "Fingerless gloves",
+            "Rings"
+        ],
+        "patterns": [
+            "Gingham",
+            "Patches"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing with arms outstretched",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Rebellious and Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Heart-shaped Gingham Apron"
+    },
+    {
+        "date_scraped": "2026-06-30",
+        "source_url": "https://www.devolutionmagazine.co.uk/fashion-beauty",
+        "clothing_style": "Alternative/Punk",
+        "hairstyle": "Short, choppy red hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Heart-shaped Gingham Apron",
+        "bottom_garment_type": "Mini Skirt (under apron)",
+        "footwear_type": null,
+        "accessories": [
+            "Necklaces",
+            "Earrings",
+            "Bracelets",
+            "Hairband"
+        ],
+        "patterns": [
+            "Gingham",
+            "Graphic patches"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Rebellious/Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Heart-shaped Gingham Apron"
+    }
+]
