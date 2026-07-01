@@ -1,0 +1,51 @@
+name: Data Notification
+
+on:
+  push:
+    paths:
+      - 'data/fashion_analytics_*.json'
+
+jobs:
+  send-notification:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v42
+        with:
+          files: data/fashion_analytics_*.json
+
+      - name: Process Data Files and Notify
+        if: steps.changed-files.outputs.any_changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BODY="@kleinnconrad - New Fashion Analytics data file(s) created/updated:\n\n"
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            FILENAME=$(basename "$file")
+            EXEC_TIME=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+            HAS_DATA="False"
+            
+            if [ -s "$file" ]; then
+               ITEMS=$(jq length "$file")
+               if [ "$ITEMS" -gt 0 ]; then
+                 HAS_DATA="True ($ITEMS items)"
+               fi
+            fi
+            
+            BODY="${BODY}- **Filename**: \`$FILENAME\`\n- **Execution Time**: $EXEC_TIME\n- **Contains Data**: $HAS_DATA\n\n"
+          done
+          
+          # Create a commit comment to trigger a GitHub notification
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/${{ github.repository }}/commits/${{ github.sha }}/comments \
+            -f body="$(echo -e "$BODY")"
