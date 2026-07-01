@@ -1,0 +1,513 @@
+[
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://polishedpolyglot.com/",
+        "clothing_style": "Activewear",
+        "hairstyle": "Short, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Athletic T-shirt",
+        "bottom_garment_type": "Leggings",
+        "footwear_type": "Athletic socks",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Stretch fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Stretching (forward bend)",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Active, sporty",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The person's active pose"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://calivintage.com/",
+        "clothing_style": "Romantic Casual",
+        "hairstyle": "Shoulder-length bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Puff sleeve blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Scrunchie",
+            "Ring"
+        ],
+        "patterns": [
+            "Dotted"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Puff sleeve top"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://calivintage.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short bob with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Grey",
+            "Light Blue",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit sweater",
+        "bottom_garment_type": "High-waisted mom jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Crossbody bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Crossbody bag"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, layered, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Tan",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit cardigan",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Black flip-flops",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, looking at laptop",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette with highlights",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed professional",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Shoulder-length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Open cardigan",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Flip-flops/Sandals",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, conversing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Brown cardigan"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Tan",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Knit cardigan",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Flip-flops",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, conversing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette with highlights",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://awake-smile.blogspot.com/",
+        "clothing_style": "Chic/Edgy",
+        "hairstyle": "Sleek Wet-look Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Leather Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Dangling Earrings",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Sheer"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold Eyes and Lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Loewe",
+            "Wolford",
+            "Cartier"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Edgy Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Statement Leather Jacket"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://awake-smile.blogspot.com/",
+        "clothing_style": "Edgy Chic",
+        "hairstyle": "Short, slicked-back bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Leather jacket",
+        "bottom_garment_type": "Tights",
+        "footwear_type": null,
+        "accessories": [
+            "Drop earrings",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Glossy"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated, edgy",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 2,
+        "focal_point": "Leather jacket"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://awake-smile.blogspot.com/",
+        "clothing_style": "High Fashion / Avant-garde",
+        "hairstyle": "Slicked back bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Leather Jacket",
+        "bottom_garment_type": "Sheer Tights",
+        "footwear_type": null,
+        "accessories": [
+            "Drop earrings",
+            "Bangle bracelets"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Sheer"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Defined Eyes, Natural Lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Cartier",
+            "Immuni"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Edgy Chic",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 2,
+        "focal_point": "Oversized Leather Jacket"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large Oval Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral/Abstract"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow Blouse"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeve blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Small floral/abstract print"
+        ],
+        "fabric_textures": [
+            "Light woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-01",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved patterned blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Cheerful, relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    }
+]
