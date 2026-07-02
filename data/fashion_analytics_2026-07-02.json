@@ -1,0 +1,171 @@
+[
+    {
+        "date_scraped": "2026-07-02",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo",
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Giving a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Denim button-up shirt"
+    },
+    {
+        "date_scraped": "2026-07-02",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim/Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, serene",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Shirt"
+    },
+    {
+        "date_scraped": "2026-07-02",
+        "source_url": "https://www.fashionshouldbefun.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, grey and brown with subtle layers",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halterneck Denim Midi Dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Black Platform Sandals",
+        "accessories": [
+            "Smartphone",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing for selfie",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Denim Midi Dress"
+    },
+    {
+        "date_scraped": "2026-07-02",
+        "source_url": "https://www.fashionshouldbefun.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Indigo",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "One-shoulder dress",
+        "bottom_garment_type": "Flowing midi dress",
+        "footwear_type": "Sandals",
+        "accessories": [
+            "Smartphone"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing for a mirror selfie",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Matching indigo dresses"
+    }
+]
