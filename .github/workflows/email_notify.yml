@@ -4,17 +4,22 @@ on:
   push:
     paths:
       - 'data/fashion_analytics_*.json'
+  workflow_run:
+    workflows: ["Manual Fashion Analytics Pipeline"]
+    types:
+      - completed
 
 jobs:
   send-notification:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
     permissions:
       contents: write
-      issues: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || github.ref }}
           fetch-depth: 2
 
       - name: Get changed files
@@ -35,21 +40,23 @@ jobs:
             HAS_DATA="False"
             
             if [ -s "$file" ]; then
-               ITEMS=$(jq length "$file")
+               ITEMS=$(jq 'if type=="array" then length elif type=="object" then 1 else 0 end' "$file" 2>/dev/null || echo 0)
                if [ "$ITEMS" -gt 0 ]; then
                  HAS_DATA="True ($ITEMS items)"
+               else
+                 HAS_DATA="False (0 items or invalid)"
                fi
+            else
+               HAS_DATA="False (File is empty)"
             fi
             
             BODY="${BODY}- **Filename**: \`$FILENAME\`\n- **Execution Time**: $EXEC_TIME\n- **Contains Data**: $HAS_DATA\n\n"
           done
           
-          # Create an issue to reliably trigger a GitHub notification and email
-          ISSUE_URL=$(gh issue create \
-            --repo ${{ github.repository }} \
-            --title "New Fashion Analytics Data: $(date -u +'%Y-%m-%d %H:%M')" \
-            --body "$(echo -e "$BODY")" \
-            --assignee "kleinnconrad")
-            
-          # Immediately close the issue so it doesn't clutter the open issues board
-          gh issue close "$ISSUE_URL"
+          # Create a commit comment to trigger a GitHub notification (simple mention method)
+          COMMIT_SHA=$(git rev-parse HEAD)
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/${{ github.repository }}/commits/${COMMIT_SHA}/comments \
+            -f body="$(echo -e "$BODY")"
