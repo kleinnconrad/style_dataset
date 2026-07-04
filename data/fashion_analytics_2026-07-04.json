@@ -1,0 +1,523 @@
+[
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://www.cellajane.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Burgundy",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Knit Cardigan",
+        "bottom_garment_type": "Satin Maxi Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Pearl earrings",
+            "Layered necklaces",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Relaxed Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [
+            "Splendid",
+            "Cella Jane"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 2,
+        "focal_point": "Satin Maxi Skirt"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://www.cellajane.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short wavy bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Brown",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized button-down shirt",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Open-toe heels",
+        "accessories": [
+            "Gold necklace",
+            "Gold earrings",
+            "Brown tote bag",
+            "Sunglasses",
+            "Scarf"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [
+            "Splendid"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo on forearm"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": null,
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Calm",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Shirt"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray button-up shirt"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Pearl Bracelet",
+            "Pearl Earrings"
+        ],
+        "patterns": [
+            "Text/Graphic Print"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Relaxed Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Graphic T-shirt"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, messy",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Text"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Graphic T-shirt"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Text/Graphic"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Relaxing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, vacation",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Graphic T-shirt"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Lace Sleeveless Top",
+        "bottom_garment_type": "Straight-leg Trousers",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Glasses",
+            "Smartphone",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Lace Pattern"
+        ],
+        "fabric_textures": [
+            "Lace",
+            "Cotton blend"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing for Selfie",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Lace Sleeveless Top"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Summer Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Metallic"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Lace Sleeveless Top",
+        "bottom_garment_type": "Straight-leg Trousers",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Eyeglasses",
+            "Bracelet",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Crochet/Lace Pattern"
+        ],
+        "fabric_textures": [
+            "Lace",
+            "Cotton blend"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Warm",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Lace Sleeveless Top"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Blouse",
+        "bottom_garment_type": "Straight-leg Pants",
+        "footwear_type": "Flat Sandals",
+        "accessories": [],
+        "patterns": [
+            "Subtle embroidery"
+        ],
+        "fabric_textures": [
+            "Textured Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual comfort",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Matching Set"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://vstyleblog.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Long, straight, dark hair with middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Green",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Draped Mini Dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small wrist tattoo",
+            "Nose ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Jersey Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, pointing with a thoughtful expression",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White draped mini dress"
+    },
+    {
+        "date_scraped": "2026-07-04",
+        "source_url": "https://vstyleblog.com/",
+        "clothing_style": "Elegant/Cocktail",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Draped Fabric",
+            "Soft Knit"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant, Playful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White Draped Dress"
+    }
+]
