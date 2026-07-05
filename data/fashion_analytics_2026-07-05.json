@@ -1,0 +1,449 @@
+[
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Smocked midi sundress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Delicate necklace",
+            "Bracelet",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White smocked midi dress"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://lensembledujour.com/",
+        "clothing_style": "Vintage Casual",
+        "hairstyle": "Long, Straight, Layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Blue",
+            "Orange"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Leather Jacket, Button-up Shirt",
+        "bottom_garment_type": "A-line Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Beret"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Vintage Inspired",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Blue Beret"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://lensembledujour.com/",
+        "clothing_style": "Casual Vintage",
+        "hairstyle": "Long, straight, blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Orange",
+            "Blue",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Leather jacket, Knit top",
+        "bottom_garment_type": "Pleated skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Beanie",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, Retro",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Blue beanie"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://lensembledujour.com/",
+        "clothing_style": "Indie Casual with Vintage elements",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Blue",
+            "Orange",
+            "Teal",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Brown Leather Jacket, Printed Button-up Shirt",
+        "bottom_garment_type": "Polka Dot Pleated Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Blue Beret"
+        ],
+        "patterns": [
+            "Subtle print",
+            "Polka dot"
+        ],
+        "fabric_textures": [
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting, looking away",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Thoughtful, Artsy",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Blue Beret"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Classic",
+        "hairstyle": "Long Curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "Brown",
+            "Dark Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Trench Coat, Turtleneck",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": "Wedge Boots",
+        "accessories": [
+            "Belt",
+            "Handbag",
+            "Bracelets",
+            "Earrings"
+        ],
+        "patterns": [
+            "Animal Print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Everyday Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench Coat"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Long, dark, curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Dark Blue",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Trench Coat",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": "Wedge Ankle Boots",
+        "accessories": [
+            "Belt",
+            "Handbag",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Practical chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench coat"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://youlookfab.com/forum/",
+        "clothing_style": "Classic Elegant",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Purple",
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Trench Coat",
+        "bottom_garment_type": "Skinny Pants",
+        "footwear_type": "Ankle Boots",
+        "accessories": [
+            "Handbag",
+            "Belt",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid",
+            "Tortoiseshell"
+        ],
+        "fabric_textures": [
+            "Gabardine",
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench Coat"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, dark, wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large oval earrings"
+        ],
+        "patterns": [
+            "Speckled/Floral"
+        ],
+        "fabric_textures": [
+            "Light woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Everyday Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Small floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow printed top"
+    },
+    {
+        "date_scraped": "2026-07-05",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeve blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    }
+]
