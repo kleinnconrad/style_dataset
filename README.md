@@ -125,6 +125,46 @@ When Gemini processes an image and its context, it produces a structured JSON re
 * **`color_palette_type`** (String or Null): e.g., `"Monochrome"`, `"Pastel"`.
 * **`layering_complexity`** (Integer or Null): e.g., `2`.
 * **`focal_point`** (String or Null): e.g., `"Bright red handbag"`.
+## Dataset Overview
+<!-- DATASET_OVERVIEW_START -->
+**Last Updated:** 2026-07-06 15:46:27 UTC
+
+- **Total Days/Files:** 23
+- **Total Outfits:** 254
+
+| Variable | Fill Rate | Distinct Values |
+|----------|-----------|-----------------|
+| `accessories` | 60.6% (154) | 113 |
+| `age_group` | 65.7% (167) | 2 |
+| `bottom_garment_type` | 44.9% (114) | 64 |
+| `brand_mentions` | 7.1% (18) | 17 |
+| `clothing_fit` | 65.7% (167) | 4 |
+| `clothing_style` | 100.0% (254) | 81 |
+| `color_palette_type` | 65.7% (167) | 5 |
+| `confidence_score` | 100.0% (254) | 7 |
+| `date_scraped` | 100.0% (254) | 23 |
+| `fabric_textures` | 65.7% (167) | 69 |
+| `focal_point` | 65.4% (166) | 122 |
+| `footwear_type` | 29.9% (76) | 53 |
+| `gender` | 100.0% (254) | 3 |
+| `hair_color` | 65.4% (166) | 21 |
+| `hairstyle` | 100.0% (254) | 155 |
+| `image_url` | 1.2% (3) | 3 |
+| `is_trendsetter` | 100.0% (254) | 2 |
+| `layering_complexity` | 65.7% (167) | 3 |
+| `makeup_style` | 65.7% (167) | 11 |
+| `patterns` | 65.7% (167) | 64 |
+| `pose_or_activity` | 65.7% (167) | 61 |
+| `price_segment` | 65.7% (167) | 4 |
+| `primary_colors` | 100.0% (254) | 46 |
+| `region` | 100.0% (254) | 2 |
+| `seasonality` | 65.7% (167) | 5 |
+| `sentiment_or_vibe` | 65.0% (165) | 88 |
+| `setting` | 65.7% (167) | 5 |
+| `source_url` | 100.0% (254) | 75 |
+| `top_garment_type` | 64.2% (163) | 117 |
+| `weather_conditions` | 44.1% (112) | 11 |
+<!-- DATASET_OVERVIEW_END -->
 
 ## Setup
 

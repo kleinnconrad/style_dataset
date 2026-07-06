@@ -38,10 +38,11 @@ jobs:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
         python src/main.py
+        python src/generate_dataset_overview.py
 
     - name: Commit and Push Data
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/
+        git add data/ README.md
         git diff --quiet && git diff --staged --quiet || (git commit -m "chore: add daily fashion data" && git push)
