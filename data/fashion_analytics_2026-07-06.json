@@ -1,0 +1,631 @@
+[
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeved blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large oval earrings"
+        ],
+        "patterns": [
+            "Speckled/Abstract"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Printed V-neck Blouse",
+        "bottom_garment_type": "White Slim-fit Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop Earrings"
+        ],
+        "patterns": [
+            "Small Abstract Print"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow Printed Blouse"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop Earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral Blouse"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://poplinstyle.com/blog/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Pale Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter Neck Dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Woven Clutch Bag"
+        ],
+        "patterns": [
+            "Woven"
+        ],
+        "fabric_textures": [
+            "Smooth Fabric",
+            "Woven Leather (inferred)"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated Elegance",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Woven Clutch Bag"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://poplinstyle.com/blog/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Pale Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter neck dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Clutch bag"
+        ],
+        "patterns": [
+            "Solid",
+            "Woven"
+        ],
+        "fabric_textures": [
+            "Lightweight fabric",
+            "Woven leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Woven clutch bag"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://poplinstyle.com/blog/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt, Knit sweater",
+        "bottom_garment_type": "Wide-leg pants",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Tote bag"
+        ],
+        "patterns": [
+            "Speckled (bag)"
+        ],
+        "fabric_textures": [
+            "Poplin",
+            "Linen",
+            "Knit"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, casual pose",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Wide-leg blue pants"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up Shirt",
+        "bottom_garment_type": "Wide-leg Pants",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Shoulder Bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "White Button-up Shirt"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White long-sleeve top",
+        "bottom_garment_type": "Light wash straight-leg jeans",
+        "footwear_type": "Flat mules",
+        "accessories": [
+            "Brown belt",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Jeans"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Oversized Tunic",
+        "bottom_garment_type": "Wide-leg Pants",
+        "footwear_type": "Flats",
+        "accessories": [
+            "Shoulder Bag",
+            "Sunglasses",
+            "Belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The oversized white tunic"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Giving a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Button-Up Shirt"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Mid-length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Gray"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.85,
+        "image_url": null,
+        "top_garment_type": "Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Button-up Shirt"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, natural",
+        "gender": "Female",
+        "primary_colors": [
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Lying down, receiving facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, peaceful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Face and treatment tool"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://busbeestyle.com/",
+        "clothing_style": "Contemporary Casual",
+        "hairstyle": "Sleek Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Denim Top",
+        "bottom_garment_type": "Wide-leg Denim Pants",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Denim Jumpsuit"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://busbeestyle.com/",
+        "clothing_style": "Modern Chic",
+        "hairstyle": "Sleek Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Denim Jumpsuit Top",
+        "bottom_garment_type": "Wide-Leg Denim Jumpsuit Pants",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Unclear",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Denim Jumpsuit"
+    },
+    {
+        "date_scraped": "2026-07-06",
+        "source_url": "https://busbeestyle.com/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Low bun/Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sleeveless denim top",
+        "bottom_garment_type": "Wide-leg denim pants",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Belt",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Denim jumpsuit-like ensemble"
+    }
+]
