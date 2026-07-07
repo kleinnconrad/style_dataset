@@ -11,8 +11,12 @@ from google import genai
 from google.genai import types
 from google.genai.errors import APIError
 import asyncio
-from pydantic import ValidationError
+from pydantic import ValidationError, BaseModel, Field
 from schema import FashionRecord
+
+class FashionExtractionResponse(BaseModel):
+    visual_analysis: str = Field(description="Step-by-step detailed visual analysis of the image. Describe the subject, demographics, setting, and break down the outfit from head to toe including fabrics, patterns, and accessories before filling the record.")
+    record: FashionRecord
 from tenacity import retry, wait_exponential_jitter, stop_after_attempt, retry_if_exception_type
 
 logger = logging.getLogger(__name__)
@@ -96,7 +100,20 @@ async def parse_image_and_context(image_url: str, text_context: str, source_url:
             
         part = genai.types.Part.from_bytes(data=image_bytes, mime_type="image/jpeg")
 
-        prompt = f"Context: {text_context}. Enforce current date as {current_date}. Categorize the outfit and hair elements from the image strictly matching the provided schema rules."
+        system_instruction = (
+            "You are an elite professional fashion ontology compiler and image analyst. "
+            "Your goal is to extract the maximum amount of granular detail from images. "
+            "Do not leave optional fields null if you can make a reasonable, confident inference from the image. "
+            "Pay special attention to fabric textures, clothing fit, patterns, accessories, and the environmental setting."
+        )
+
+        prompt = (
+            f"Context: {text_context}\n"
+            f"Enforce current date as {current_date}.\n"
+            "First, perform a detailed visual analysis of the image in the 'visual_analysis' field. "
+            "Then, categorize the outfit, hair, and contextual elements strictly matching the provided schema rules. "
+            "Attempt to fill all optional fields."
+        )
 
         response = await _generate_with_retry(
             client=client,
@@ -104,12 +121,14 @@ async def parse_image_and_context(image_url: str, text_context: str, source_url:
             contents=[part, prompt],
             config=genai.types.GenerateContentConfig(
                 response_mime_type="application/json",
-                response_schema=FashionRecord,
-                system_instruction="You are a professional fashion ontology compiler."
+                response_schema=FashionExtractionResponse,
+                system_instruction=system_instruction,
+                temperature=0.2
             )
         )
         
-        record = FashionRecord.model_validate_json(response.text)
+        extraction = FashionExtractionResponse.model_validate_json(response.text)
+        record = extraction.record
 
         if not record.is_valid_outfit:
             return None

@@ -3,41 +3,46 @@
         "date_scraped": "2026-07-07",
         "source_url": "https://styleandminimalism.com/",
         "clothing_style": "Casual",
-        "hairstyle": "Short to medium, dark, pulled back",
+        "hairstyle": "Short, pulled back",
         "gender": "Female",
         "primary_colors": [
+            "White",
             "Light Blue",
-            "White"
+            "Grey"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.9,
         "image_url": null,
-        "top_garment_type": "Denim button-up shirt",
+        "top_garment_type": "Light Blue Chambray Button-Up Shirt",
         "bottom_garment_type": null,
         "footwear_type": null,
-        "accessories": [],
+        "accessories": [
+            "Gold hoop earring",
+            "Mandala tattoo"
+        ],
         "patterns": [
-            "Solid"
+            "Solid",
+            "Mandala"
         ],
         "fabric_textures": [
-            "Denim",
-            "Cotton"
+            "Cotton",
+            "Chambray"
         ],
         "clothing_fit": "Regular/Tailored",
         "setting": "Indoors/Studio",
         "seasonality": "Unclear",
         "weather_conditions": null,
-        "pose_or_activity": "Providing a treatment",
+        "pose_or_activity": "Receiving a spa treatment",
         "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Dark Brown",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
         "brand_mentions": [],
         "price_segment": "Unknown",
-        "sentiment_or_vibe": "Wellbeing-focused",
+        "sentiment_or_vibe": "Relaxing/Wellness",
         "color_palette_type": "Neutral",
         "layering_complexity": 1,
-        "focal_point": "Denim button-up shirt"
+        "focal_point": "Herbal compress"
     },
     {
         "date_scraped": "2026-07-07",
@@ -47,159 +52,410 @@
         "gender": "Female",
         "primary_colors": [
             "Light Blue",
-            "Brown"
+            "White",
+            "Grey"
         ],
         "is_trendsetter": false,
         "region": "US",
-        "confidence_score": 0.85,
+        "confidence_score": 0.9,
         "image_url": null,
-        "top_garment_type": "Denim Button-up Shirt",
+        "top_garment_type": "Light Blue Chambray Shirt",
         "bottom_garment_type": null,
         "footwear_type": null,
         "accessories": [
-            "Tattoo"
+            "Forearm tattoo",
+            "Small hoop earring"
         ],
         "patterns": [
             "Solid"
         ],
         "fabric_textures": [
-            "Denim"
+            "Chambray",
+            "Cotton"
         ],
         "clothing_fit": "Regular/Tailored",
         "setting": "Indoors/Studio",
         "seasonality": "Unclear",
         "weather_conditions": null,
-        "pose_or_activity": "Performing a beauty treatment",
+        "pose_or_activity": "Performing a spa treatment",
         "age_group": "Adult",
         "makeup_style": "Not visible",
         "hair_color": "Brunette",
         "brand_mentions": [],
         "price_segment": "Unknown",
-        "sentiment_or_vibe": "Professional, Functional",
+        "sentiment_or_vibe": "Relaxing, Wellness",
         "color_palette_type": "Neutral",
         "layering_complexity": 1,
-        "focal_point": "Denim Button-up Shirt"
+        "focal_point": "Herbal compress"
     },
     {
         "date_scraped": "2026-07-07",
-        "source_url": "https://www.poplinstyle.com/blog",
-        "clothing_style": "Minimalist Chic",
-        "hairstyle": "Updo",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Pulled back",
         "gender": "Female",
         "primary_colors": [
+            "Light Blue",
             "White",
-            "Light Yellow"
+            "Brown"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Halter Neck Dress",
+        "top_garment_type": "Light Blue Chambray Shirt",
         "bottom_garment_type": null,
         "footwear_type": null,
         "accessories": [
-            "Woven clutch bag"
+            "Gold Hoop Earring",
+            "Gold Stud Earring",
+            "Mandala Forearm Tattoo"
         ],
         "patterns": [
             "Solid",
-            "Woven"
+            "Mandala (tattoo)"
         ],
         "fabric_textures": [
-            "Smooth",
-            "Woven"
+            "Chambray",
+            "Cotton"
         ],
         "clothing_fit": "Regular/Tailored",
         "setting": "Indoors/Studio",
-        "seasonality": "Summer",
+        "seasonality": "Unclear",
         "weather_conditions": null,
-        "pose_or_activity": "Posing",
+        "pose_or_activity": "Performing/Receiving Spa Treatment",
         "age_group": "Adult",
         "makeup_style": "Natural",
-        "hair_color": "Black",
+        "hair_color": "Brunette",
         "brand_mentions": [],
-        "price_segment": "Luxury",
-        "sentiment_or_vibe": "Effortless chic",
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness/Relaxation",
         "color_palette_type": "Neutral",
         "layering_complexity": 1,
-        "focal_point": "Woven clutch bag"
+        "focal_point": "Practitioner's chambray shirt and tattoo"
     },
     {
         "date_scraped": "2026-07-07",
-        "source_url": "https://www.poplinstyle.com/blog",
-        "clothing_style": "Minimalist",
-        "hairstyle": "Updo",
+        "source_url": "https://thatchicfashionblog.wordpress.com/",
+        "clothing_style": "Chic and Playful Glam",
+        "hairstyle": "Long, Blonde",
         "gender": "Female",
         "primary_colors": [
+            "Black",
             "White",
-            "Light Yellow"
+            "Pink",
+            "Brown",
+            "Gold",
+            "Orange"
+        ],
+        "is_trendsetter": true,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": "https://thatchicfashionblog.wordpress.com/wp-content/uploads/2014/10/cropped-image.jpeg",
+        "top_garment_type": "Pink embellished sleeveless top",
+        "bottom_garment_type": "Fluffy mini skirt",
+        "footwear_type": "Leopard print high heels",
+        "accessories": [
+            "Bunny ears",
+            "Pearl necklace",
+            "Ring",
+            "Pink handbag"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Abstract splatter"
+        ],
+        "fabric_textures": [
+            "Faux fur",
+            "Leather",
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with stylistic accent",
+        "hair_color": "Blonde",
+        "brand_mentions": [
+            "Tory Burch"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Chic and glamorous",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Pink embellished top and leopard print footwear"
+    },
+    {
+        "date_scraped": "2026-07-07",
+        "source_url": "https://thatchicfashionblog.wordpress.com/",
+        "clothing_style": "Chic",
+        "hairstyle": "Short bob with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Pink",
+            "Black"
+        ],
+        "is_trendsetter": true,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": "https://thatchicfashionblog.wordpress.com/wp-content/uploads/2015/12/img_3872-2.jpeg?w=1091",
+        "top_garment_type": "Draped off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Flowing fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Intense, Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Face"
+    },
+    {
+        "date_scraped": "2026-07-07",
+        "source_url": "http://behindthedressingroomdoor.blogspot.com/",
+        "clothing_style": "Children's Casual",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Khaki",
+            "Pink",
+            "Brown"
         ],
         "is_trendsetter": false,
         "region": "US",
-        "confidence_score": 1.0,
+        "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Halter-neck dress",
-        "bottom_garment_type": "Maxi dress",
-        "footwear_type": null,
+        "top_garment_type": "Plaid short-sleeve button-up shirt",
+        "bottom_garment_type": "Denim shorts",
+        "footwear_type": "Sandals",
         "accessories": [
-            "Woven clutch bag"
+            "Toy phone"
         ],
         "patterns": [
-            "Woven"
+            "Plaid",
+            "Solid"
         ],
         "fabric_textures": [
-            "Smooth fabric",
-            "Woven texture"
+            "Cotton",
+            "Denim"
         ],
         "clothing_fit": "Regular/Tailored",
         "setting": "Indoors/Studio",
         "seasonality": "Summer",
         "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
-        "age_group": "Adult",
+        "pose_or_activity": "Playing",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Plaid shirts"
+    },
+    {
+        "date_scraped": "2026-07-07",
+        "source_url": "https://tollydollyposhfashion.com/",
+        "clothing_style": "Eclectic Casual, Streetwear",
+        "hairstyle": "Long, straight to wavy, sometimes with a headband or half-updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Gray"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Collared shirt, Denim jacket, Blazer, Knit top, White jacket",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Round sunglasses",
+            "Cat-eye sunglasses",
+            "Chokers",
+            "Necklaces",
+            "Headband"
+        ],
+        "patterns": [
+            "Abstract",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Woven",
+            "Knit",
+            "Blazer fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling, Looking up",
+        "age_group": "Young Adult",
         "makeup_style": "Natural",
-        "hair_color": "Black",
+        "hair_color": "Dark Brown/Black",
+        "brand_mentions": [
+            "Tolly Dolly Posh",
+            "TOLLIE"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Individualistic, Expressive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Patterned shirt, Sunglasses, Chokers"
+    },
+    {
+        "date_scraped": "2026-07-07",
+        "source_url": "https://tollydollyposhfashion.com/",
+        "clothing_style": "Retro Casual Streetwear",
+        "hairstyle": "High Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Patterned Button-Up Shirt, Utility Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Round Sunglasses",
+            "Black Choker Necklace",
+            "Layered Necklaces"
+        ],
+        "patterns": [
+            "Abstract/Geometric Pattern"
+        ],
+        "fabric_textures": [
+            "Woven Fabric",
+            "Twill/Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Tolly Dolly Posh Fashion",
+            "Tolmeia Gregory"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual Chic, Retro Vibe",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Patterned Button-Up Shirt"
+    },
+    {
+        "date_scraped": "2026-07-07",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, styled down",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Black",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Knit sweater, Blazer",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing casually",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Blonde",
         "brand_mentions": [],
         "price_segment": "Unknown",
         "sentiment_or_vibe": "Effortless chic",
         "color_palette_type": "Neutral",
-        "layering_complexity": 1,
-        "focal_point": "Woven clutch bag"
+        "layering_complexity": 3,
+        "focal_point": "The blazer and light-wash jeans"
     },
     {
         "date_scraped": "2026-07-07",
-        "source_url": "https://www.poplinstyle.com/blog",
-        "clothing_style": "Casual Chic",
-        "hairstyle": "Shoulder-length, Wavy",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long, straight, dark brown, middle part",
         "gender": "Female",
         "primary_colors": [
             "White",
-            "Blue",
-            "Beige",
-            "Black"
+            "Black",
+            "Light Blue",
+            "Tan"
         ],
         "is_trendsetter": false,
         "region": "US",
-        "confidence_score": 1.0,
+        "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Button-up shirt, Knit sweater",
-        "bottom_garment_type": "Wide-leg pants",
-        "footwear_type": "Flat sandals",
+        "top_garment_type": "Long-sleeved T-shirt",
+        "bottom_garment_type": "Pleated Midi Skirt",
+        "footwear_type": "White Low-top Sneakers",
         "accessories": [
-            "Woven tote bag"
+            "Crossbody bag",
+            "Sunglasses",
+            "Watch"
         ],
         "patterns": [
-            "Speckled (on bag)"
+            "Solid"
         ],
         "fabric_textures": [
-            "Linen",
-            "Knit",
-            "Woven"
+            "Denim",
+            "Cotton",
+            "Knit"
         ],
-        "clothing_fit": "Oversized",
-        "setting": "Indoors/Studio",
-        "seasonality": "Summer",
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
         "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
+        "pose_or_activity": "Standing casually, posing",
         "age_group": "Adult",
         "makeup_style": "Natural",
         "hair_color": "Brunette",
@@ -208,260 +464,102 @@
         "sentiment_or_vibe": "Effortless chic",
         "color_palette_type": "Neutral",
         "layering_complexity": 2,
-        "focal_point": "Wide-leg pants"
+        "focal_point": "Pleated Midi Skirt and Denim Jacket"
     },
     {
         "date_scraped": "2026-07-07",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, wavy",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White",
-            "Black"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Short-sleeved blouse",
-        "bottom_garment_type": "White pants",
-        "footwear_type": null,
-        "accessories": [
-            "Hoop earrings"
-        ],
-        "patterns": [
-            "Speckled"
-        ],
-        "fabric_textures": [
-            "Lightweight fabric",
-            "Cotton"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Nature",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Black",
-        "brand_mentions": [],
-        "price_segment": "Mid-range",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Patterned yellow blouse"
-    },
-    {
-        "date_scraped": "2026-07-07",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, dark, wavy hair",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White",
-            "Black"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 1.0,
-        "image_url": null,
-        "top_garment_type": "Floral V-neck Blouse",
-        "bottom_garment_type": "White skinny jeans",
-        "footwear_type": null,
-        "accessories": [
-            "Hoop earrings"
-        ],
-        "patterns": [
-            "Floral"
-        ],
-        "fabric_textures": [
-            "Lightweight fabric",
-            "Denim"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Nature",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
-        "age_group": "Young Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Black",
-        "brand_mentions": [],
-        "price_segment": "Mid-range",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Yellow floral top"
-    },
-    {
-        "date_scraped": "2026-07-07",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long wavy hair",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Short-sleeve V-neck blouse",
-        "bottom_garment_type": "White pants",
-        "footwear_type": null,
-        "accessories": [
-            "Statement earrings"
-        ],
-        "patterns": [
-            "Floral"
-        ],
-        "fabric_textures": [
-            "Cotton"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Nature",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Black",
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cheerful",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Yellow floral top"
-    },
-    {
-        "date_scraped": "2026-07-07",
-        "source_url": "https://awellstyledlife.com/",
-        "clothing_style": "Elevated Casual",
-        "hairstyle": "Short layered bob",
-        "gender": "Female",
-        "primary_colors": [
-            "Black",
-            "Light Green"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Utility Jacket, V-neck sweater, Tank top",
-        "bottom_garment_type": "Relaxed fit trousers",
-        "footwear_type": "Slide sandals",
-        "accessories": [
-            "Eyeglasses",
-            "Necklace",
-            "Shoulder bag"
-        ],
-        "patterns": [
-            "Solid"
-        ],
-        "fabric_textures": [
-            "Cotton blend",
-            "Knit",
-            "Smooth"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Urban/Street",
-        "seasonality": "Summer",
-        "weather_conditions": "Mild",
-        "pose_or_activity": "Standing, Posing",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Blonde/Grey",
-        "brand_mentions": [],
-        "price_segment": "Mid-range",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 3,
-        "focal_point": "Utility Jacket"
-    },
-    {
-        "date_scraped": "2026-07-07",
-        "source_url": "https://awellstyledlife.com/",
+        "source_url": "https://fashionjackson.com/",
         "clothing_style": "Casual Chic",
-        "hairstyle": "Short Bob",
+        "hairstyle": "Long, straight to wavy, middle part",
         "gender": "Female",
         "primary_colors": [
-            "Black",
-            "White"
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Light Jacket",
-        "bottom_garment_type": "Straight-leg trousers",
-        "footwear_type": "Chunky sandals",
+        "top_garment_type": "Crew-neck T-shirt, Suede Trench Coat",
+        "bottom_garment_type": "Straight-leg Cropped Jeans",
+        "footwear_type": "Kitten Heels",
         "accessories": [
-            "Glasses",
-            "Necklace"
+            "Sunglasses",
+            "Top-handle Bag",
+            "Belt"
         ],
         "patterns": [
-            "Solid"
+            "Solid",
+            "Animal Print"
         ],
         "fabric_textures": [
+            "Suede",
             "Cotton",
-            "Smooth fabric"
+            "Denim",
+            "Leather"
         ],
-        "clothing_fit": "Regular/Tailored",
+        "clothing_fit": "Mixed",
         "setting": "Urban/Street",
-        "seasonality": "Spring",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
-        "age_group": "Senior",
-        "makeup_style": "Natural",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
         "hair_color": "Blonde",
         "brand_mentions": [],
         "price_segment": "Mid-range",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "Monochrome",
-        "layering_complexity": 2,
-        "focal_point": "Black jacket"
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Suede Trench Coat"
     },
     {
         "date_scraped": "2026-07-07",
-        "source_url": "https://awellstyledlife.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Chin-length bob",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long Wavy",
         "gender": "Female",
         "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Brown",
             "Black"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Black denim jacket",
-        "bottom_garment_type": "Black straight-leg pants",
-        "footwear_type": "Black sandals",
-        "accessories": [],
+        "top_garment_type": "Cropped Trench Jacket",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": "Slingback Kitten Heels",
+        "accessories": [
+            "Sunglasses",
+            "Structured Handbag",
+            "Ring"
+        ],
         "patterns": [
-            "Solid"
+            "Monogram"
         ],
         "fabric_textures": [
+            "Cotton Twill",
             "Denim",
-            "Cotton"
+            "Leather"
         ],
-        "clothing_fit": "Regular/Tailored",
+        "clothing_fit": "Mixed",
         "setting": "Urban/Street",
         "seasonality": "Spring",
         "weather_conditions": "Sunny",
-        "pose_or_activity": "Standing, posing",
+        "pose_or_activity": "Posing",
         "age_group": "Adult",
         "makeup_style": "Natural",
-        "hair_color": "Blonde/Grey",
+        "hair_color": "Blonde",
         "brand_mentions": [],
-        "price_segment": "Unknown",
+        "price_segment": "Luxury",
         "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "Monochrome",
+        "color_palette_type": "Neutral",
         "layering_complexity": 2,
-        "focal_point": null
+        "focal_point": "Structured Handbag"
     }
 ]
