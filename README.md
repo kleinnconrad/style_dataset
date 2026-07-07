@@ -6,48 +6,47 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 - [Dataset Overview](#dataset-overview)
 - [Pipeline Architecture](#pipeline-architecture)
 - [What It Scrapes](#what-it-scrapes)
-- [Data Schema & Field Definitions](#data-schema--field-definitions)
 - [Setup](#setup)
 
 ## Dataset Overview
 <!-- DATASET_OVERVIEW_START -->
-**Last Updated:** 2026-07-07 04:58:29 UTC
+**Last Updated:** 2026-07-07 11:42:23 UTC
 
 - **Total Days/Files:** 24
-- **Total Outfits:** 269
+- **Total Outfits:** 270
 
-| Variable | Fill Rate | Distinct Values |
-|----------|-----------|-----------------|
-| `accessories` | 61.0% (164) | 112 |
-| `age_group` | 67.7% (182) | 3 |
-| `bottom_garment_type` | 47.2% (127) | 72 |
-| `brand_mentions` | 6.7% (18) | 17 |
-| `clothing_fit` | 67.7% (182) | 4 |
-| `clothing_style` | 100.0% (269) | 83 |
-| `color_palette_type` | 67.7% (182) | 5 |
-| `confidence_score` | 100.0% (269) | 7 |
-| `date_scraped` | 100.0% (269) | 24 |
-| `fabric_textures` | 67.7% (182) | 68 |
-| `focal_point` | 67.3% (181) | 129 |
-| `footwear_type` | 29.7% (80) | 53 |
-| `gender` | 100.0% (269) | 3 |
-| `hair_color` | 67.3% (181) | 21 |
-| `hairstyle` | 100.0% (269) | 161 |
-| `image_url` | 1.1% (3) | 3 |
-| `is_trendsetter` | 100.0% (269) | 2 |
-| `layering_complexity` | 67.7% (182) | 3 |
-| `makeup_style` | 67.7% (182) | 11 |
-| `patterns` | 67.7% (182) | 65 |
-| `pose_or_activity` | 67.7% (182) | 64 |
-| `price_segment` | 67.7% (182) | 4 |
-| `primary_colors` | 100.0% (269) | 49 |
-| `region` | 100.0% (269) | 2 |
-| `seasonality` | 67.7% (182) | 5 |
-| `sentiment_or_vibe` | 66.9% (180) | 92 |
-| `setting` | 67.7% (182) | 5 |
-| `source_url` | 100.0% (269) | 76 |
-| `top_garment_type` | 66.5% (179) | 129 |
-| `weather_conditions` | 46.5% (125) | 10 |
+| Variable | Description | Fill Rate | Distinct Values |
+|----------|-------------|-----------|-----------------|
+| `accessories` | List of visible accessories. | 61.5% (166) | 126 |
+| `age_group` | Visually estimated age bracket. | 67.8% (183) | 3 |
+| `bottom_garment_type` | The type of bottom being worn. | 46.7% (126) | 72 |
+| `brand_mentions` | Fashion brands explicitly mentioned. | 7.8% (21) | 22 |
+| `clothing_fit` | The overall fit of the clothing. | 67.8% (183) | 4 |
+| `clothing_style` | The primary fashion style. | 100.0% (270) | 88 |
+| `color_palette_type` | The overall color theory of the outfit. | 67.8% (183) | 5 |
+| `confidence_score` | Model confidence score (0.0 to 1.0). | 100.0% (270) | 7 |
+| `date_scraped` | Automatically injected date. | 100.0% (270) | 24 |
+| `fabric_textures` | Visually inferred materials. | 67.8% (183) | 72 |
+| `focal_point` | The standout piece that draws the eye. | 67.8% (183) | 133 |
+| `footwear_type` | The type of shoes being worn. | 30.4% (82) | 52 |
+| `gender` | The perceived gender of the subject. | 100.0% (270) | 3 |
+| `hair_color` | Subject's hair color. | 67.4% (182) | 23 |
+| `hairstyle` | The primary hairstyle of the subject. | 100.0% (270) | 162 |
+| `image_url` | Image URL of the subject (GDPR compliant). | 1.9% (5) | 4 |
+| `is_trendsetter` | True if celebrity/model/artist, False if regular person. | 100.0% (270) | 2 |
+| `layering_complexity` | Scale from 1 (simple) to 5 (heavy layering). | 67.8% (183) | 3 |
+| `makeup_style` | Subject's makeup style. | 67.8% (183) | 12 |
+| `patterns` | Patterns visible on the clothing. | 67.8% (183) | 67 |
+| `pose_or_activity` | What the subject is doing. | 67.8% (183) | 70 |
+| `price_segment` | Inferred price segment. | 67.8% (183) | 4 |
+| `primary_colors` | List of dominant colors in the outfit. | 100.0% (270) | 49 |
+| `region` | Geographic region identified from context ('EU' or 'US'). | 100.0% (270) | 2 |
+| `seasonality` | The inferred season. | 67.8% (183) | 5 |
+| `sentiment_or_vibe` | The aesthetic vibe described. | 67.0% (181) | 98 |
+| `setting` | The setting or background of the photo. | 67.8% (183) | 5 |
+| `source_url` | The URL of the webpage where the image was found. | 100.0% (270) | 78 |
+| `top_garment_type` | The type of top being worn. | 66.7% (180) | 132 |
+| `weather_conditions` | Inferred weather. | 46.7% (126) | 10 |
 <!-- DATASET_OVERVIEW_END -->
 
 ## Pipeline Architecture
@@ -112,61 +111,6 @@ The scraper focuses on independent fashion blogs and forums. To ensure enough da
 4. **Context & Vision Extraction**: It takes the **first 3 viable images** and the first 1000 characters of the webpage's text. These are sent to the Gemini Vision model for AI analysis based on a strict fashion taxonomy.
 5. **Validation Check**: Images flagged as non-outfits (e.g. flat lays, products, landscapes) are explicitly rejected.
 6. **Adaptive Retries**: If the entire batch yields **10 items or less**, the pipeline automatically launches another discovery run (instructing Gemini to find *different* URLs) and crawls again. It will attempt this up to **3 times** to reach the quota before terminating.
-
-## Data Schema & Field Definitions
-
-When Gemini processes an image and its context, it produces a structured JSON record. Below is an explanation of every field in the output and how it is populated:
-
-* **`date_scraped`** (String): 
-  * *Example*: `"2026-06-14"`
-  * *How it's populated*: Automatically injected by the script (`datetime.now()`) on the day the crawl runs.
-* **`source_url`** (String): 
-  * *Example*: `"https://freelancersfashion.blogspot.com"`
-  * *How it's populated*: The URL of the webpage where the image was found.
-* **`clothing_style`** (String): 
-  * *Example*: `"Corporate"`
-  * *How it's populated*: Gemini analyzes the clothing in the image against a predefined list of styles (e.g., Casual, Haute Couture, Corporate, Streetwear) and selects the best match.
-* **`hairstyle`** (String): 
-  * *Example*: `"Updo"`
-  * *How it's populated*: Gemini analyzes the subject's hair and selects a category (e.g., Updo, Long, Short, Unidentifiable).
-* **`gender`** (String): 
-  * *Example*: `"Female"`
-  * *How it's populated*: Gemini analyzes the subject and categorizes their perceived gender (`"Male"`, `"Female"`, or `"Unidentifiable"`).
-* **`primary_colors`** (Array of Strings): 
-  * *Example*: `["pink", "brown", "beige", "blue", "green"]`
-  * *How it's populated*: Gemini detects the dominant colors of the outfit worn by the subject.
-* **`is_trendsetter`** (Boolean): 
-  * *Example*: `false`
-  * *How it's populated*: The script analyzes the 1000-character text context. If the text contains keywords like "runway", "celebrity", "red carpet", or "model", this is set to `true`. Otherwise, it defaults to `false`.
-* **`region`** (String): 
-  * *Example*: `"EU"`
-  * *How it's populated*: The script checks the text context for location keywords (like "paris", "milan", "london", "eu"). If found, it's flagged as `"EU"`, otherwise it defaults to `"US"`.
-* **`confidence_score`** (Float): 
-  * *Example*: `0.95`
-  * *How it's populated*: Gemini assigns a confidence score (from 0.0 to 1.0) based on how clearly it can identify the fashion taxonomy in the image.
-* **`image_url`** (String or Null): 
-  * *Example*: `null`
-  * *How it's populated*: For **GDPR Compliance**, the actual image URL is only retained if `is_trendsetter` is `true` (i.e., the person is a public figure or model). If they are a private citizen (`is_trendsetter = false`), the image URL is explicitly stripped and set to `null`.
-* **`top_garment_type`** (String or Null): e.g., `"Blazer"`, `"Chunky Knit Sweater"`.
-* **`bottom_garment_type`** (String or Null): e.g., `"Wide-leg jeans"`, `"Cargo pants"`.
-* **`footwear_type`** (String or Null): e.g., `"Sneakers"`, `"Loafers"`.
-* **`accessories`** (Array of Strings): e.g., `["Sunglasses", "Crossbody bag"]`.
-* **`patterns`** (Array of Strings): e.g., `["Striped", "Floral"]`.
-* **`fabric_textures`** (Array of Strings): e.g., `["Denim", "Leather"]`.
-* **`clothing_fit`** (String or Null): e.g., `"Oversized"`, `"Fitted/Tight"`.
-* **`setting`** (String or Null): e.g., `"Urban/Street"`, `"Indoors/Studio"`.
-* **`seasonality`** (String or Null): e.g., `"Summer"`, `"Winter"`.
-* **`weather_conditions`** (String or Null): e.g., `"Sunny"`, `"Overcast"`.
-* **`pose_or_activity`** (String or Null): e.g., `"Walking confidently"`.
-* **`age_group`** (String or Null): e.g., `"Young Adult"`, `"Senior"`.
-* **`makeup_style`** (String or Null): e.g., `"Natural"`, `"Bold lips"`.
-* **`hair_color`** (String or Null): e.g., `"Blonde"`, `"Brunette"`.
-* **`brand_mentions`** (Array of Strings): Extracted from text context, e.g., `["Gucci", "Zara"]`.
-* **`price_segment`** (String or Null): e.g., `"Luxury"`, `"Fast Fashion"`.
-* **`sentiment_or_vibe`** (String or Null): e.g., `"Effortless chic"`.
-* **`color_palette_type`** (String or Null): e.g., `"Monochrome"`, `"Pastel"`.
-* **`layering_complexity`** (Integer or Null): e.g., `2`.
-* **`focal_point`** (String or Null): e.g., `"Bright red handbag"`.
 
 ## Setup
 
