@@ -11,43 +11,43 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 
 ## Dataset Overview
 <!-- DATASET_OVERVIEW_START -->
-**Last Updated:** 2026-07-06 16:00:33 UTC
+**Last Updated:** 2026-07-07 04:58:29 UTC
 
 - **Total Days/Files:** 24
 - **Total Outfits:** 269
 
 | Variable | Fill Rate | Distinct Values |
 |----------|-----------|-----------------|
-| `accessories` | 61.7% (166) | 117 |
-| `age_group` | 67.7% (182) | 2 |
-| `bottom_garment_type` | 46.1% (124) | 70 |
+| `accessories` | 61.0% (164) | 112 |
+| `age_group` | 67.7% (182) | 3 |
+| `bottom_garment_type` | 47.2% (127) | 72 |
 | `brand_mentions` | 6.7% (18) | 17 |
 | `clothing_fit` | 67.7% (182) | 4 |
-| `clothing_style` | 100.0% (269) | 84 |
+| `clothing_style` | 100.0% (269) | 83 |
 | `color_palette_type` | 67.7% (182) | 5 |
 | `confidence_score` | 100.0% (269) | 7 |
-| `date_scraped` | 100.0% (269) | 23 |
-| `fabric_textures` | 67.7% (182) | 72 |
-| `focal_point` | 67.3% (181) | 130 |
-| `footwear_type` | 30.5% (82) | 54 |
+| `date_scraped` | 100.0% (269) | 24 |
+| `fabric_textures` | 67.7% (182) | 68 |
+| `focal_point` | 67.3% (181) | 129 |
+| `footwear_type` | 29.7% (80) | 53 |
 | `gender` | 100.0% (269) | 3 |
 | `hair_color` | 67.3% (181) | 21 |
-| `hairstyle` | 100.0% (269) | 163 |
+| `hairstyle` | 100.0% (269) | 161 |
 | `image_url` | 1.1% (3) | 3 |
 | `is_trendsetter` | 100.0% (269) | 2 |
 | `layering_complexity` | 67.7% (182) | 3 |
 | `makeup_style` | 67.7% (182) | 11 |
-| `patterns` | 67.7% (182) | 67 |
-| `pose_or_activity` | 67.7% (182) | 65 |
+| `patterns` | 67.7% (182) | 65 |
+| `pose_or_activity` | 67.7% (182) | 64 |
 | `price_segment` | 67.7% (182) | 4 |
-| `primary_colors` | 100.0% (269) | 48 |
+| `primary_colors` | 100.0% (269) | 49 |
 | `region` | 100.0% (269) | 2 |
 | `seasonality` | 67.7% (182) | 5 |
-| `sentiment_or_vibe` | 66.9% (180) | 91 |
+| `sentiment_or_vibe` | 66.9% (180) | 92 |
 | `setting` | 67.7% (182) | 5 |
 | `source_url` | 100.0% (269) | 76 |
-| `top_garment_type` | 66.2% (178) | 127 |
-| `weather_conditions` | 46.1% (124) | 11 |
+| `top_garment_type` | 66.5% (179) | 129 |
+| `weather_conditions` | 46.5% (125) | 10 |
 <!-- DATASET_OVERVIEW_END -->
 
 ## Pipeline Architecture
