@@ -1,0 +1,613 @@
+[
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://sewliberated.com/",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Messy double buns",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Light Blue",
+            "Dark Blue",
+            "Red",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Patchwork wide-leg cropped jeans",
+        "footwear_type": "Chunky heeled ankle boots",
+        "accessories": [
+            "Round sunglasses",
+            "Woven tote bag",
+            "Earrings"
+        ],
+        "patterns": [
+            "Floral graphic",
+            "Color block",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Woven",
+            "Leather"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Artistic, relaxed, unique",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patchwork denim pants"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://sewliberated.com/",
+        "clothing_style": "Casual Eclectic",
+        "hairstyle": "Two messy buns",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Blue",
+            "Red-brown",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Patchwork Wide-leg Cropped Denim Pants",
+        "footwear_type": "Chunky Ankle Boots",
+        "accessories": [
+            "Sunglasses",
+            "Tote bag",
+            "Earrings",
+            "Arm tattoo"
+        ],
+        "patterns": [
+            "Graphic print",
+            "Patchwork",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Woven",
+            "Smooth Leather"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [
+            "Sew Liberated"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Artistic, Comfortable, Casual Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patchwork Wide-leg Cropped Denim Pants"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://sewliberated.com/",
+        "clothing_style": "Artisanal Casual",
+        "hairstyle": "Messy Buns",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Blue",
+            "Red",
+            "Orange"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Patchwork Wide-leg Denim Pants",
+        "footwear_type": "Chunky Heeled Boots",
+        "accessories": [
+            "Sunglasses",
+            "Tote bag",
+            "Flowers"
+        ],
+        "patterns": [
+            "Graphic print",
+            "Patchwork",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Woven",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patchwork Wide-leg Denim Pants"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://trashtocouture.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Cream",
+            "White",
+            "Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Fuzzy Coat",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Woven Clutch",
+            "Tassel",
+            "Pom-poms"
+        ],
+        "patterns": [
+            "Solid",
+            "Subtle animal print"
+        ],
+        "fabric_textures": [
+            "Faux Fur",
+            "Woven Raffia"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Indoors/Studio",
+        "seasonality": "Winter",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Holding accessory",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Red Woven Clutch"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://trashtocouture.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Black",
+            "White",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Open leopard print cardigan",
+        "bottom_garment_type": "Black skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Quilted shoulder bag",
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print cardigan"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://trashtocouture.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed Knit Turtleneck Sweater",
+        "bottom_garment_type": "Plaid Mini Skirt with Tie-Waist",
+        "footwear_type": null,
+        "accessories": [
+            "Shoulder Bag"
+        ],
+        "patterns": [
+            "Plaid",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Flannel"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, Casual Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Plaid Mini Skirt"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Artistic",
+        "hairstyle": "Not applicable",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Kimono-style dress",
+        "bottom_garment_type": "Maxi dress",
+        "footwear_type": null,
+        "accessories": [
+            "Belt"
+        ],
+        "patterns": [
+            "Horizontal stripes"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": null,
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Bold and creative",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Red and black striped dress"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Artistic Casual",
+        "hairstyle": "Short with headwrap",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "Black",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Embellished Bomber Jacket",
+        "bottom_garment_type": "Dark Wash Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Headwrap",
+            "Brooch"
+        ],
+        "patterns": [
+            "Embossed Floral/Organic Pattern"
+        ],
+        "fabric_textures": [
+            "Metallic",
+            "Textured",
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Red",
+        "brand_mentions": [
+            "Issey Miyake"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Expressive, Joyful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Gold Embellished Jacket"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Eclectic",
+        "hairstyle": "Short grey hair with black fabric headwrap",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top, Long open vest",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Headwrap",
+            "Long necklace",
+            "Brooches",
+            "Crossbody bag",
+            "Glasses"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Fabric",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Artistic, Expressive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Striped vest and elaborate necklace"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://stylishmurmurs.blogspot.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Chunky Knit Cardigan",
+        "bottom_garment_type": "Cropped Slim-fit Pants",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Red nail polish",
+            "Dark nail polish"
+        ],
+        "patterns": [
+            "Snakeskin print"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Woven",
+            "Leather-like"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Snakeskin print sandals"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://www.mrsamericanmade.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Wavy, shoulder-length, brown with grey highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Brown",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved collared shirt",
+        "bottom_garment_type": "Fitted trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earrings",
+            "Magazine"
+        ],
+        "patterns": [
+            "Abstract floral/botanical"
+        ],
+        "fabric_textures": [
+            "Light woven fabric",
+            "Standard woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting and posing with a magazine",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brown",
+        "brand_mentions": [
+            "The Uncover Handbook"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The woman's smiling face and the magazine"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://www.mrsamericanmade.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Medium-length wavy layered hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patterned Button-up Blouse",
+        "bottom_garment_type": "White Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Magazine"
+        ],
+        "patterns": [
+            "Abstract Floral"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Sitting, holding a magazine, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Patterned blouse and green magazine"
+    },
+    {
+        "date_scraped": "2026-07-08",
+        "source_url": "https://www.mrsamericanmade.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length wavy brown hair, styled down",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Pink",
+            "Green",
+            "Purple"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved patterned blouse",
+        "bottom_garment_type": "Fitted white trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Magazine"
+        ],
+        "patterns": [
+            "Abstract Floral"
+        ],
+        "fabric_textures": [
+            "Smooth Woven",
+            "Cotton Blend"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Sitting and posing with a magazine",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned blouse"
+    }
+]
