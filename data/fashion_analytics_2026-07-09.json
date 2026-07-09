@@ -1,0 +1,489 @@
+[
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional/Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt and forearm tattoo"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness/Relaxation",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The herbal compress being applied to the face"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, dark brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White T-shirt, Light Blue Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Mandala tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The eye treatment"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://capitolhillstyle.com/",
+        "clothing_style": "Activewear",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Rust",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sports Bra",
+        "bottom_garment_type": "Leggings",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Knit",
+            "Stretchy Synthetic"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Yoga/Stretching",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Athletic/Wellness",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Rust-colored sports bra with criss-cross straps"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://capitolhillstyle.com/",
+        "clothing_style": "Activewear",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Rust Orange",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sports bra",
+        "bottom_garment_type": "Leggings",
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Knit",
+            "Stretchy Performance Fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Practicing yoga / Stretching",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Athletic, Focused, Minimalist",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The criss-cross strap detail of the sports bra"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://capitolhillstyle.com/",
+        "clothing_style": "Activewear",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Rust",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sports bra",
+        "bottom_garment_type": "Leggings",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Knit",
+            "Stretchy Fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Yoga/Stretching pose",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Athletic, Focused, Minimalist",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Criss-cross strap sports bra"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Beige",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Mesh knit top with camisole",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Wedge sandals",
+        "accessories": [
+            "Pendant necklace",
+            "Hoop earrings",
+            "Silver bracelet"
+        ],
+        "patterns": [
+            "Open knit"
+        ],
+        "fabric_textures": [
+            "Open knit",
+            "Linen",
+            "Cork"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, hands in pockets, smiling",
+        "age_group": "Senior",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Mesh knit top"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Layered Bob with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Dark Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Open-knit mesh top",
+        "bottom_garment_type": "Wide-leg linen trousers",
+        "footwear_type": "Open-toe wedge sandals",
+        "accessories": [
+            "Pendant necklace",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Open-knit",
+            "Linen"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Ash Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed elegance",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Open-knit mesh top"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Shoulder-length layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Nude"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sheer long-sleeved blouse",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Pointed-toe flats",
+        "accessories": [
+            "Necklace",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Subtle dot pattern",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Sheer",
+            "Textured fabric",
+            "Flowing fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated, comfortable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Sheer black blouse"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://beauticurve.com/",
+        "clothing_style": "Glamorous",
+        "hairstyle": "Long, Wavy, Down",
+        "gender": "Female",
+        "primary_colors": [
+            "Peach",
+            "Pink",
+            "Fuchsia",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Strapless Bodycon Midi Dress",
+        "bottom_garment_type": "Midi Dress",
+        "footwear_type": "Clear Strappy High Heels",
+        "accessories": [
+            "Watch",
+            "Ring",
+            "Earrings",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Ombre"
+        ],
+        "fabric_textures": [
+            "Ruched Knit",
+            "Stretchy Fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Reddish-Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Ombre Bodycon Midi Dress"
+    },
+    {
+        "date_scraped": "2026-07-09",
+        "source_url": "https://jcathell.com/",
+        "clothing_style": "Sophisticated Casual",
+        "hairstyle": "Loose Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Nude",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Peplum Tank Top",
+        "bottom_garment_type": "Wide-leg Pants",
+        "footwear_type": "Block Heels",
+        "accessories": [
+            "Gold Pendant Necklace",
+            "Patterned Clutch Bag"
+        ],
+        "patterns": [
+            "Solid",
+            "Embroidered/Eyelet"
+        ],
+        "fabric_textures": [
+            "Lightweight Cotton/Linen Blend",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Warm",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg Pants with Eyelet Details"
+    }
+]
