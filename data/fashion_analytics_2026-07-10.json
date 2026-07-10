@@ -1,0 +1,459 @@
+[
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://www.poplinstyle.com/blog/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Pale Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Clutch bag"
+        ],
+        "patterns": [
+            "Woven",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Woven leather/synthetic"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Clear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant, Modern",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Clutch bag"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://www.poplinstyle.com/blog/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Pale Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Clutch bag"
+        ],
+        "patterns": [
+            "Woven"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Woven leather",
+            "Padded leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Clutch bag"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://www.poplinstyle.com/blog/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium length, loose waves, center part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Flat thong sandals",
+        "accessories": [
+            "Tote bag",
+            "Knit sweater (draped)"
+        ],
+        "patterns": [
+            "Solid",
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Poplin",
+            "Knit",
+            "Linen blend"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg blue trousers"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being administered"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Forearm tattoo",
+            "Small hoop earring"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing and receiving a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on face"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Small stud earring",
+            "Mandala forearm tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being administered"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Artistic",
+        "hairstyle": "Not applicable",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Red",
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Kimono-style Dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Belt"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Smooth Woven",
+            "Leather-like"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Displayed on Mannequin",
+        "age_group": "Unidentifiable",
+        "makeup_style": "Not visible",
+        "hair_color": "Not applicable",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Bold and Expressive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Striped Kimono-style Dress"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Eclectic, Statement",
+        "hairstyle": "Short, Coppery Red, with Headwrap",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "Black",
+            "Red",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Gold Patterned Jacket, Crew-neck Top",
+        "bottom_garment_type": "Dark Wash Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Headwrap",
+            "Beaded Necklace"
+        ],
+        "patterns": [
+            "Abstract Organic Pattern"
+        ],
+        "fabric_textures": [
+            "Metallic Brocade",
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Red",
+        "brand_mentions": [
+            "Issey Miyake"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Confident, Expressive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Gold Patterned Jacket"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Eclectic",
+        "hairstyle": "Short, covered by headwrap",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long Open Cardigan",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Headwrap",
+            "Statement Necklace",
+            "Cross-body Bag",
+            "Glasses",
+            "Decorative Pins"
+        ],
+        "patterns": [
+            "Striped",
+            "Graphic Print",
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Denim",
+            "Leather",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Eclectic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Striped Cardigan and Statement Necklace"
+    },
+    {
+        "date_scraped": "2026-07-10",
+        "source_url": "https://beauticurve.com/",
+        "clothing_style": "Glamorous Chic",
+        "hairstyle": "Long Wavy Hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Peach",
+            "Pink",
+            "Fuchsia"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Strapless Bodycon Midi Dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Clear High-Heel Sandals",
+        "accessories": [
+            "Smartwatch",
+            "Ring",
+            "Earrings",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Ombre"
+        ],
+        "fabric_textures": [
+            "Ruched Knit",
+            "Stretchy Fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Clear/Warm",
+        "pose_or_activity": "Posing for Mirror Selfie",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Reddish Brown",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Confident Glamour",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Ombre Bodycon Midi Dress"
+    }
+]
