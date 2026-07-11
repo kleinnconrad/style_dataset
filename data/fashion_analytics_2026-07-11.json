@@ -1,0 +1,735 @@
+[
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, center part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White Button-Up Shirt",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": "Flat Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Delicate necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Canvas"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing casually",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light-wash denim jeans"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, middle-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Dark Blue",
+            "Black",
+            "Dark Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved knit top",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": "Ankle boots",
+        "accessories": [
+            "Leather belt",
+            "Crossbody bag",
+            "Necklace",
+            "Watch",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The overall silhouette and the contrast between the light top and dark jeans"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Shoulder-length bob with side part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeve button-up shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Crossbody bag",
+            "Sunglasses",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The overall clean and balanced silhouette"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://poorlittleitgirl.com/",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "Long, straight, blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Red",
+            "Navy Blue",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Embroidered striped tunic blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Straw hat",
+            "Brown shoulder bag",
+            "Red lipstick"
+        ],
+        "patterns": [
+            "Striped",
+            "Embroidered"
+        ],
+        "fabric_textures": [
+            "Woven cotton",
+            "Embroidery"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Embroidered striped tunic"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://poorlittleitgirl.com/",
+        "clothing_style": "Casual Summer",
+        "hairstyle": "Long, straight, dark hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Red",
+            "Purple",
+            "White",
+            "Pink",
+            "Navy",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Maxi Sundress",
+        "bottom_garment_type": null,
+        "footwear_type": "Flat sandals",
+        "accessories": [],
+        "patterns": [
+            "Solid",
+            "Floral",
+            "Striped",
+            "Gingham"
+        ],
+        "fabric_textures": [
+            "Lightweight cotton blend"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Old Navy"
+        ],
+        "price_segment": "Fast Fashion",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Sundress"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://vstyleblog.com/",
+        "clothing_style": "Contemporary Casual Chic",
+        "hairstyle": "Long, straight, dark brunette with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Brown",
+            "Beige",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck ruched mini-dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Nose ring",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Jersey knit",
+            "Upholstered"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, seated, gesturing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant and relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White ruched mini-dress"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://vstyleblog.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Long, straight, dark brown, middle-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Dark Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Ruched V-neck mini-dress with dolman sleeves",
+        "bottom_garment_type": "Mini-dress",
+        "footwear_type": "Heels",
+        "accessories": [
+            "Bracelet",
+            "Cushion"
+        ],
+        "patterns": [
+            "Solid",
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Ruched fabric",
+            "Draped fabric",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White ruched mini-dress"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Midi Dress, Lightweight Cardigan",
+        "bottom_garment_type": "Midi Dress",
+        "footwear_type": "Platform Sandals",
+        "accessories": [
+            "Glasses",
+            "Necklace",
+            "Beaded Bracelet",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Jersey Knit",
+            "Sheer Knit",
+            "Smooth",
+            "Synthetic"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny/Warm",
+        "pose_or_activity": "Posing",
+        "age_group": "Senior",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blue dress and cardigan combination"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Short layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless midi dress",
+        "bottom_garment_type": "Midi dress",
+        "footwear_type": "Platform sandals",
+        "accessories": [
+            "Necklace",
+            "Bracelet",
+            "Glasses",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Jersey knit",
+            "Sheer knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blue dress and cardigan ensemble"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Medium-length layered blonde hair with volume",
+        "gender": "Female",
+        "primary_colors": [
+            "Periwinkle",
+            "Light Blue",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless midi dress, Open cardigan",
+        "bottom_garment_type": "Midi dress",
+        "footwear_type": "Espadrille flat sandals",
+        "accessories": [
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Warm",
+        "pose_or_activity": "Standing, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Pastel",
+        "layering_complexity": 2,
+        "focal_point": "Periwinkle dress and cardigan ensemble"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Mandala tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The light blue chambray shirt and the facial treatment"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Administering a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray button-up shirt"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, possibly tied back (practitioner)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold Hoop Earring",
+            "Mandala Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving treatment (subject), Performing treatment (practitioner)",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The eye treatment"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://oneofastyle.com/blog/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "Silver",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Metallic Bomber Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Ring",
+            "Stud earrings"
+        ],
+        "patterns": [
+            "Textured",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Metallic",
+            "Faux Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Grey",
+        "brand_mentions": [
+            "ONE OF A STYLE"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Metallic Bomber Jacket"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://oneofastyle.com/blog/",
+        "clothing_style": "Chic Professional",
+        "hairstyle": "Short Layered Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Metallic Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Metallic",
+            "Coated Fabric",
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Blonde",
+        "brand_mentions": [
+            "ONE OF A STYLE"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident and Approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Metallic Jacket"
+    },
+    {
+        "date_scraped": "2026-07-11",
+        "source_url": "https://oneofastyle.com/blog/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Metallic Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Metallic",
+            "Textured Weave"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Metallic Jacket"
+    }
+]
