@@ -1,0 +1,503 @@
+[
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual Everyday",
+        "hairstyle": "Long Wavy Hair, Middle Part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Short-sleeve Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled",
+            "Abstract Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven Fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, Wavy, Side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral blouse"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Statement earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Small floral/dot pattern"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim/Cotton twill"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight with slight waves, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Suede trench coat, Crew-neck t-shirt",
+        "bottom_garment_type": "Straight-leg cropped jeans",
+        "footwear_type": "Kitten heel pumps",
+        "accessories": [
+            "Sunglasses",
+            "Top-handle bag",
+            "Belt",
+            "Red nail polish"
+        ],
+        "patterns": [
+            "Snake print"
+        ],
+        "fabric_textures": [
+            "Suede",
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Suede trench coat"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Cropped utility jacket",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Slingback kitten heels",
+        "accessories": [
+            "Sunglasses",
+            "Handbag",
+            "Ring"
+        ],
+        "patterns": [
+            "Monogram"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather",
+            "Coated Canvas"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [
+            "Gucci",
+            "Hermes"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Cropped utility jacket and luxury accessories"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://sustainablefashionmatterz.com/",
+        "clothing_style": "Artisanal Chic",
+        "hairstyle": "Pulled back low bun with scrunchie",
+        "gender": "Female",
+        "primary_colors": [
+            "Sage Green",
+            "Off-white",
+            "Light Brown",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Ruffled Blouse, Patterned Kimono Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Scrunchie",
+            "Ring"
+        ],
+        "patterns": [
+            "Vertical Stripes",
+            "Abstract Print"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Satin",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Examining materials",
+        "age_group": "Adult",
+        "makeup_style": "Natural with bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Artisanal, Thoughtful",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Kimono-style Jacket"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://sustainablefashionmatterz.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Pulled back (low bun or ponytail)",
+        "gender": "Female",
+        "primary_colors": [
+            "Green",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer, Crew-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Focused/Working",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Green blazer"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://sustainablefashionmatterz.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Low bun with hair tie",
+        "gender": "Female",
+        "primary_colors": [
+            "Sage Green",
+            "Cream",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Quilted jacket over striped blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hair tie"
+        ],
+        "patterns": [
+            "Striped",
+            "Quilted"
+        ],
+        "fabric_textures": [
+            "Quilted fabric",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Reviewing documents",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Focused and relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Quilted jacket"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Outdoor Casual",
+        "hairstyle": "Covered by beanie",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Black",
+            "Navy",
+            "Grey",
+            "Red",
+            "Khaki",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Padded Jacket",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Beanie",
+            "Scarf",
+            "Gloves",
+            "Crossbody Bag"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Padded",
+            "Synthetic"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Winter",
+        "weather_conditions": "Cold",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Adventurous",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "The group's colorful beanies and scarves"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Wavy, Medium-Long, Worn Down",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Camel"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Striped Knit Top, Camel Coat",
+        "bottom_garment_type": "Dark Trousers/Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Smartphone",
+            "Necklace",
+            "Shoulder Bag"
+        ],
+        "patterns": [
+            "Horizontal Stripes"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Smooth Wool Blend"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Taking a photo with a smartphone, leaning",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Camel Coat"
+    },
+    {
+        "date_scraped": "2026-07-12",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed Knit Sweater",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Shoulder Bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black Ribbed Knit Sweater"
+    }
+]
