@@ -1,0 +1,690 @@
+[
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Pulled Back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Gold stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving/Performing Wellness Treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Long-sleeved Chambray Shirt"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Unclear",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo",
+            "Small hoop earring"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, pulled back (practitioner)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being performed"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Professional Chic",
+        "hairstyle": "Long, dark brown, wavy, parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver",
+            "Brown",
+            "Pink",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless button-front dress",
+        "bottom_garment_type": "Dress",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Pink structured tote bag",
+            "Black pebbled leather shoulder bag",
+            "Beige saddle bag",
+            "Black quilted shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric",
+            "Pebbled leather",
+            "Smooth leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, arms crossed",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Gucci",
+            "Chlo\u00e9"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Professional, Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black sleeveless dress with silver-rimmed buttons"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, wavy, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Plum",
+            "Gold",
+            "Black",
+            "White",
+            "Light Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve knit top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered gold necklace",
+            "Gold hoop earrings",
+            "Structured black shoulder bag",
+            "Structured light pink tote bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Pebbled leather",
+            "Smooth leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, pointing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Gucci"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Professional chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black structured shoulder bag"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, straight dark brown hair, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Silver hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Practical Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral V-neck blouse"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, dark brown, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Blue",
+            "Light Grey",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Crossbody bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Mild",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Long cardigan"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, middle-part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Blue",
+            "Light Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved T-shirt",
+        "bottom_garment_type": "A-line Midi Skirt",
+        "footwear_type": "Low-top Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Sunglasses",
+            "Necklace",
+            "Watch"
+        ],
+        "patterns": [
+            "Subtle Vertical Stripe",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Smooth Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny/Mild",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "A-line Midi Skirt"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top",
+        "bottom_garment_type": "Pleated midi skirt",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven",
+            "Canvas",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Pleated midi skirt"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, dark hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeve blouse",
+        "bottom_garment_type": "White shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Oval earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled/Abstract"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Cotton/Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, dark, wavy, styled down",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck short-sleeved blouse",
+        "bottom_garment_type": "White skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Small floral/abstract dot pattern"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim/Cotton twill"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual Summer",
+        "hairstyle": "Long, dark, wavy, middle-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "Fitted white pants",
+        "footwear_type": null,
+        "accessories": [
+            "Statement earrings"
+        ],
+        "patterns": [
+            "Floral/Dotted"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Cotton twill"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Outdoor/Adventure Casual",
+        "hairstyle": "Covered by Beanie",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Dark Blue",
+            "Grey",
+            "Red",
+            "Black",
+            "Olive Green",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Padded Jacket",
+        "bottom_garment_type": "Cargo Pants",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Beanie",
+            "Scarf",
+            "Gloves",
+            "Baseball Cap",
+            "Cross-body Bag"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knitted",
+            "Padded",
+            "Quilted",
+            "Synthetic"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Winter",
+        "weather_conditions": "Cold, Overcast, Steamy",
+        "pose_or_activity": "Posing, Crouching",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Adventurous",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 4,
+        "focal_point": "The group of people and their winter accessories"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Camel"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Striped Knit Top, Camel Coat",
+        "bottom_garment_type": "Black Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Necklace",
+            "Shoulder Bag",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Wool"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Taking a photo with a smartphone, leaning on a railing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Camel Coat"
+    },
+    {
+        "date_scraped": "2026-07-14",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck ribbed knit sweater",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Understated elegance",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black ribbed knit sweater"
+    }
+]
