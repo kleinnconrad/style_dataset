@@ -1,0 +1,8 @@
+crawl4ai==0.9.1
+google-genai==1.0.0
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv==1.0.0
+tenacity==9.1.4
+Pillow==12.3.0
