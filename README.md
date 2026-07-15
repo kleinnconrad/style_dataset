@@ -6,6 +6,7 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 - [Dataset Overview](#dataset-overview)
 - [Pipeline Architecture](#pipeline-architecture)
 - [What It Scrapes](#what-it-scrapes)
+- [Dependency Management](#dependency-management)
 - [Setup](#setup)
 
 ## Dataset Overview
@@ -111,6 +112,19 @@ The scraper focuses on independent fashion blogs and forums. To ensure enough da
 4. **Context & Vision Extraction**: It takes the **first 3 viable images** and the first 1000 characters of the webpage's text. These are sent to the Gemini Vision model for AI analysis based on a strict fashion taxonomy.
 5. **Validation Check**: Images flagged as non-outfits (e.g. flat lays, products, landscapes) are explicitly rejected.
 6. **Adaptive Retries**: If the entire batch yields **10 items or less**, the pipeline automatically launches another discovery run (instructing Gemini to find *different* URLs) and crawls again. It will attempt this up to **3 times** to reach the quota before terminating.
+
+## Dependency Management
+
+This project uses the "Lockfile Pattern" via `pip-tools` for reproducible builds and streamlined dependency updates.
+
+1. **Top-Level Dependencies**: Defined in `requirements.in`. This file only lists direct dependencies required by the project.
+2. **Pinned Dependencies**: `requirements.txt` is generated automatically from `requirements.in` using `pip-compile`. This locks all dependencies and sub-dependencies to specific versions.
+3. **Automated Updates**: Dependabot is configured (`.github/dependabot.yml`) to automatically check for updates weekly and group all Python dependency updates into a single pull request.
+
+To update dependencies locally, modify `requirements.in` and run:
+```bash
+pip-compile requirements.in
+```
 
 ## Setup
 
