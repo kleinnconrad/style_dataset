@@ -1,0 +1,507 @@
+[
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Long, layered, straight; Medium-length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
+            "Tan",
+            "Cream",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed Knit Cardigan, Blazer",
+        "bottom_garment_type": "Wide-leg Jeans, Cropped Jeans",
+        "footwear_type": "Flip-flops, Leopard Print Slingback Flats",
+        "accessories": [
+            "Layered Necklaces"
+        ],
+        "patterns": [
+            "Solid",
+            "Leopard Print"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Denim",
+            "Smooth Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Sitting, interacting with laptop",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Collaborative",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard Print Slingback Flats"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Shoulder-length, styled",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Cardigan, T-shirt",
+        "bottom_garment_type": "Jeans, Fitted Trousers",
+        "footwear_type": "Flip-flops, Flat shoes",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, working/discussing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, collaborative",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Black blazer"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Long, layered, wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Black",
+            "Blue",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Button-up shirt",
+        "bottom_garment_type": "Wide-leg jeans, Slim-fit jeans",
+        "footwear_type": "Flip-flops, Pointed-toe flats",
+        "accessories": [
+            "Laptop",
+            "Necklace",
+            "Flower arrangement"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, interacting with a laptop",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Collaborative",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The laptop and the interaction between the two women"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short layered pixie cut",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "Silver",
+            "Blonde",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Knit Polo Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Pearl drop earrings",
+            "Layered necklaces",
+            "Ring",
+            "Plastic cup"
+        ],
+        "patterns": [
+            "Tortoiseshell",
+            "Textured knit"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, looking up, smiling, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Textured knit polo shirt"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Bob/Pixie Cut",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Collared Knit Top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Earrings",
+            "Necklace",
+            "Drink"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Clear Sky",
+        "pose_or_activity": "Posing, enjoying the sun",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Joyful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and sunglasses"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, layered, side-parted bob with blonde/platinum highlights and darker roots",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Navy",
+            "Blonde",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared knit top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Pearl drop earrings",
+            "Pendant necklace",
+            "Drink cup"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, looking up, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The subject's face and sunglasses"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "http://vintagevixon.blogspot.com/",
+        "clothing_style": "Vintage",
+        "hairstyle": "High Bun Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Red",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sheer Nightgown",
+        "bottom_garment_type": null,
+        "footwear_type": "Barefoot",
+        "accessories": [
+            "Dangling Earrings",
+            "Bangle Bracelet",
+            "Cuff Bracelet",
+            "Ring",
+            "Rotary Phone"
+        ],
+        "patterns": [
+            "Subtle Geometric",
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Sheer",
+            "Lace"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing with phone on bed",
+        "age_group": "Adult",
+        "makeup_style": "Bold Eyeliner",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Vintage Glamour",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Sheer Nightgown"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Gorpcore/Outdoor Adventure",
+        "hairstyle": "Not visible",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Grey",
+            "Red",
+            "Olive Green",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Puffer jacket",
+        "bottom_garment_type": "Hiking pants",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Beanie",
+            "Scarf",
+            "Gloves",
+            "Cross-body bag"
+        ],
+        "patterns": [
+            "Solid",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Puffer",
+            "Knit",
+            "Synthetic"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Winter",
+        "weather_conditions": "Cold, Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Adventurous, Practical",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Red beanies"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-long, wavy, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Camel"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Camel Coat, Striped Knit Top",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Smartphone",
+            "Gold Pendant Necklace",
+            "Chain Strap Shoulder Bag"
+        ],
+        "patterns": [
+            "Horizontal Stripes"
+        ],
+        "fabric_textures": [
+            "Wool Blend",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Taking a photo, leaning",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Camel coat and striped top"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://www.fashionandfrappes.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Crew-neck sweater",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black sweater"
+    },
+    {
+        "date_scraped": "2026-07-15",
+        "source_url": "https://stylebee.ca/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, dark brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chunky Knit Sweater",
+        "bottom_garment_type": "Light Wash Jeans",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chunky Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Leaning over a table, arranging architectural plans",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Focused, comfortable, productive",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chunky Knit Sweater"
+    }
+]
