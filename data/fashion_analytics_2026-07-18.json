@@ -1,0 +1,290 @@
+[
+    {
+        "date_scraped": "2026-07-18",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Minimalist Summer Casual",
+        "hairstyle": "Long",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Midi Sundress",
+        "bottom_garment_type": null,
+        "footwear_type": "Sandals",
+        "accessories": [
+            "Necklace",
+            "Bracelet",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Shirred Fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White Midi Sundress"
+    },
+    {
+        "date_scraped": "2026-07-18",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual Streetwear",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": "Distressed straight-leg jeans",
+        "footwear_type": "Low-top sneakers",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": null,
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Distressed denim jeans"
+    },
+    {
+        "date_scraped": "2026-07-18",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, dark brown, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Navy"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved T-shirt",
+        "bottom_garment_type": "Polka dot midi A-line skirt",
+        "footwear_type": "White low-top sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Watch",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Polka dot",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing confidently",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Polka dot midi skirt"
+    },
+    {
+        "date_scraped": "2026-07-18",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long, straight, dark brown, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved knit top",
+        "bottom_garment_type": "High-waisted wide-leg jeans",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Woven tote bag",
+            "Sunglasses",
+            "Delicate necklace",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing casually",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-07-18",
+        "source_url": "https://breakfastwithaudrey.com.au/personal-style/",
+        "clothing_style": "High Fashion Street Style",
+        "hairstyle": "Medium length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Orange",
+            "Navy",
+            "Red",
+            "Yellow",
+            "Black",
+            "Gold",
+            "Green",
+            "White",
+            "Silver",
+            "Bronze"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Utility Jacket, Velvet Trench Coat, Midi Dress",
+        "bottom_garment_type": "Flowy Midi Skirt",
+        "footwear_type": "Strappy Stiletto Heels",
+        "accessories": [
+            "Choker Necklace",
+            "Bracelet",
+            "Belt",
+            "Handbag",
+            "Dangling Earrings",
+            "Clutch",
+            "Hoop Earrings"
+        ],
+        "patterns": [
+            "Embroidered",
+            "Abstract Floral/Animal Print",
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Textured Cotton",
+            "Chiffon",
+            "Velvet",
+            "Silk/Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently, interacting",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Chic, Confident, Vibrant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "The vibrant and distinct individual outfits"
+    },
+    {
+        "date_scraped": "2026-07-18",
+        "source_url": "https://breakfastwithaudrey.com.au/personal-style/",
+        "clothing_style": "Chic Street Style",
+        "hairstyle": "Medium-length wavy bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Orange",
+            "Rust",
+            "Olive Green",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Embroidered Utility Jacket",
+        "bottom_garment_type": "Flowy Midi Skirt",
+        "footwear_type": "Strappy Heeled Sandals",
+        "accessories": [
+            "Choker necklace",
+            "Bracelet",
+            "Structured handbag",
+            "Wide belt"
+        ],
+        "patterns": [
+            "Embroidered",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Sheer",
+            "Metallic"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny, Mild",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Orange embroidered utility jacket"
+    }
+]
