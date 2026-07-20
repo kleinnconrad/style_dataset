@@ -1,0 +1,506 @@
+[
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://www.poplinstyle.com/blog/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Braided",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck dress",
+        "bottom_garment_type": "Not visible (part of dress)",
+        "footwear_type": null,
+        "accessories": [
+            "Woven clutch bag"
+        ],
+        "patterns": [
+            "Woven pattern",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Woven leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Warm",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated, Effortless",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Woven clutch bag"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://www.poplinstyle.com/blog/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top/dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Woven clutch bag"
+        ],
+        "patterns": [
+            "Woven",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Woven leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing, holding a bag",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Woven clutch bag"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://www.poplinstyle.com/blog/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, loose waves, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "White button-down shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Flat thong sandals",
+        "accessories": [
+            "Knit sweater (draped)",
+            "Tote bag"
+        ],
+        "patterns": [
+            "Solid",
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Poplin",
+            "Knit",
+            "Chambray",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg blue trousers"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic, Travel Style",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Beige",
+            "Pale Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Textured cropped jacket, Textured knit top",
+        "bottom_garment_type": "Wide-leg linen trousers",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Eyeglasses",
+            "Pearl drop earrings",
+            "Smartphone",
+            "Tote bag",
+            "Rolling luggage",
+            "Water bottle"
+        ],
+        "patterns": [
+            "Solid",
+            "Textured"
+        ],
+        "fabric_textures": [
+            "Textured knit",
+            "Linen",
+            "Woven fabric",
+            "Nylon"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Not visible",
+        "pose_or_activity": "Posing for a mirror selfie, holding luggage",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable elegance, Travel-ready",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The combination of the textured black top and jacket with the light linen pants"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short blonde bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Off-white",
+            "Light Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped jacket over knit top",
+        "bottom_garment_type": "Wide-leg linen pants",
+        "footwear_type": "Slide sandals",
+        "accessories": [
+            "Earrings",
+            "Smartphone",
+            "Rolling suitcase",
+            "Duffel bag"
+        ],
+        "patterns": [
+            "Textured",
+            "Subtle vertical stripe"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Linen",
+            "Structured fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Standing, posing with luggage and phone",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Travel-ready, comfortable, chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The overall travel-ready ensemble"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, Layered Blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Beige",
+            "Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved cardigan over crew neck top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Slide sandals",
+        "accessories": [
+            "Smartphone",
+            "Rolling suitcase",
+            "Tote bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight knit",
+            "Linen blend",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Mild",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg trousers"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual Workwear",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Mandala forearm tattoo",
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium length, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Mandala tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving and administering a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Facial treatment being performed"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo (mandala on forearm)",
+            "Gold hoop earring",
+            "Gold stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, professional, wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Shirt"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Medium-length, loose waves, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved T-shirt",
+        "bottom_garment_type": "High-waisted straight-leg jeans",
+        "footwear_type": "White sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton knit",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light-wash straight-leg jeans"
+    },
+    {
+        "date_scraped": "2026-07-20",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Long, straight, dark brown, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved t-shirt",
+        "bottom_garment_type": "Button-front midi skirt",
+        "footwear_type": "White low-top sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Delicate necklace",
+            "Watch",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Jersey knit",
+            "Structured cotton",
+            "Canvas",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Button-front midi skirt"
+    }
+]
