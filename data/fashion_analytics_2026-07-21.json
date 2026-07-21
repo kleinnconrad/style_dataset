@@ -1,0 +1,571 @@
+[
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://stylebee.ca",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chunky Knit Sweater",
+        "bottom_garment_type": "High-waisted denim jeans",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chunky Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Examining architectural plans",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable and professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chunky Knit Sweater"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy dark hair, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "Casual white pants",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled",
+            "Abstract"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny/Bright",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy, Down",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck Blouse",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Oval Hoop Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven Fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral top"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Statement earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium Dark Hair (recipient), Short/Pulled Back (practitioner)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a wellness treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, professional, wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The light blue chambray shirt of the practitioner"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue button-up shirt"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, styled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Mandala tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing and receiving spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray button-up shirt"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://www.stylebysavina.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Medium-length wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Oversized Blazer, Turtleneck top",
+        "bottom_garment_type": "Skinny pants",
+        "footwear_type": "Over-the-knee lug-sole boots",
+        "accessories": [
+            "Sunglasses",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Wool",
+            "Leather",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing, looking over shoulder",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brown with highlights",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic, Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Over-the-knee lug-sole boots"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://fatshionista.livejournal.com/",
+        "clothing_style": "Whimsical Casual",
+        "hairstyle": "Shoulder-length wavy, side-parted with subtle pink/purple highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "White",
+            "Light Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved knit top",
+        "bottom_garment_type": "Tulle skirt, Leggings",
+        "footwear_type": "Ballet flats",
+        "accessories": [
+            "Glasses",
+            "Pendant necklace",
+            "Harry Potter book"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Tulle",
+            "Cotton blend"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Standing, holding a book",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde with subtle pink/purple highlights",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Whimsical and comfortable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "White voluminous tulle skirt"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://fatshionista.livejournal.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Grey",
+            "Pink",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Graphic V-neck T-shirt",
+        "bottom_garment_type": "Floral A-line Skirt",
+        "footwear_type": "Floral Ankle-Strap Sandals",
+        "accessories": [
+            "Buckle"
+        ],
+        "patterns": [
+            "Floral",
+            "Graphic Print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven",
+            "Wood"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Feminine Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral A-line Skirt"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://newestwrinkle.livejournal.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Brown",
+            "Khaki"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.7,
+        "image_url": null,
+        "top_garment_type": "Flowing garment",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Fabric texture and drape"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://newestwrinkle.livejournal.com/",
+        "clothing_style": "Classic",
+        "hairstyle": "Not visible",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Brown",
+            "Cream",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": null,
+        "footwear_type": "Brogue shoes",
+        "accessories": [
+            "Wicker handbag"
+        ],
+        "patterns": [
+            "Brogue perforations",
+            "Woven",
+            "Ribbed"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Wicker",
+            "Ribbed knit"
+        ],
+        "clothing_fit": null,
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Unidentifiable",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Vintage",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Brogue shoes and wicker handbag"
+    },
+    {
+        "date_scraped": "2026-07-21",
+        "source_url": "https://newestwrinkle.livejournal.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short layered bob with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Grey",
+            "Dark Brown",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved t-shirt with bow detail",
+        "bottom_garment_type": "Knee-length pencil skirt with pockets",
+        "footwear_type": "Mary Jane low-heel shoes",
+        "accessories": [],
+        "patterns": [
+            "Subtle polka dot",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven",
+            "Hosiery",
+            "Smooth leather"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Standing, hands in pockets, looking down",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Modest, everyday chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Mary Jane shoes with white cap toes"
+    }
+]
