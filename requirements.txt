@@ -82,7 +82,7 @@ google-api-core==2.31.0
     # via google-api-python-client
 google-api-python-client==2.198.0
     # via -r requirements.in
-google-auth[requests]==2.56.0
+google-auth[requests]==2.55.2
     # via
     #   google-api-core
     #   google-api-python-client
@@ -95,7 +95,7 @@ google-auth-httplib2==0.4.0
     #   google-api-python-client
 google-auth-oauthlib==1.4.0
     # via -r requirements.in
-google-genai==2.11.0
+google-genai==2.12.1
     # via -r requirements.in
 googleapis-common-protos==1.75.0
     # via google-api-core
@@ -117,7 +117,7 @@ httplib2==0.32.0
     # via
     #   google-api-python-client
     #   google-auth-httplib2
-httpx==0.28.1
+httpx[http2]==0.28.1
     # via
     #   crawl4ai
     #   google-genai
