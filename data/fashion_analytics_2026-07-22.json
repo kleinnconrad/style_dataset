@@ -1,0 +1,624 @@
+[
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered pixie cut, side-swept",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Grey",
+            "Silver",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed tank top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Pearl drop earrings",
+            "Necklace",
+            "Glass jar"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde, Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Healthy, Casual, Approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and smile"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered bob with side part, grey with blonde highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue-Grey",
+            "Grey",
+            "Blonde"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Ring",
+            "Glass bottle"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Ribbed knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and smile"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short layered bob with side-swept bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Grey",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit tank top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Glass jar"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding a jar",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde and Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and hair"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Short/Medium, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a wellness treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on the client's eye"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small gold hoop earring",
+            "Mandala tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment with the herbal compress"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Forearm Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Button-Up Shirt"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Long, straight, parted in the middle",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Dark Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White T-shirt",
+        "bottom_garment_type": "A-line midi skirt",
+        "footwear_type": "White Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Gabardine",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brown/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench coat"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved fitted top",
+        "bottom_garment_type": "Plaid midi skirt",
+        "footwear_type": "White sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Sunglasses",
+            "Necklace",
+            "Watch"
+        ],
+        "patterns": [
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Long trench coat"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://youlookfab.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Unidentifiable",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "White",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed Knit Tank Top",
+        "bottom_garment_type": "Floral Midi Skirt",
+        "footwear_type": "Flat Sandals",
+        "accessories": [],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Soft Knit",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Unidentifiable",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Feminine, Light, Effortless",
+        "color_palette_type": "Pastel",
+        "layering_complexity": 1,
+        "focal_point": "Floral Midi Skirt"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://youlookfab.com/blog/",
+        "clothing_style": "Cocktail",
+        "hairstyle": "Long, straight, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Nude"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "V-neck cap-sleeve dress bodice",
+        "bottom_garment_type": "A-line midi skirt",
+        "footwear_type": "Ankle-strap high-heeled sandals",
+        "accessories": [],
+        "patterns": [
+            "Solid",
+            "Lace Trim"
+        ],
+        "fabric_textures": [
+            "Smooth Knit",
+            "Flowing Fabric",
+            "Lace"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal Blue Midi Dress"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://youlookfab.com/blog/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Basic T-shirt/Tank Top",
+        "bottom_garment_type": "Pleated A-line skirt",
+        "footwear_type": "Kitten heel pumps",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Leather-like material"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Classic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Pleated A-line skirt"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://insideoutstyleblog.com/",
+        "clothing_style": "Creative Professional",
+        "hairstyle": "Short bob, light grey",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Pink",
+            "Purple",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin button-up shirt",
+        "bottom_garment_type": "Patterned flowy skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Floral/Abstract",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Silk",
+            "Woven",
+            "Velvet"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal blue satin shirt"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://insideoutstyleblog.com/",
+        "clothing_style": "Elegant Chic",
+        "hairstyle": "Short bob, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Pink",
+            "Purple",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin Button-up Shirt",
+        "bottom_garment_type": "Patterned Skirt",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Abstract",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [
+            "Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal Blue Satin Button-up Shirt"
+    },
+    {
+        "date_scraped": "2026-07-22",
+        "source_url": "https://insideoutstyleblog.com/",
+        "clothing_style": "Professional Chic",
+        "hairstyle": "Short bob, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Multi-color",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin button-up shirt",
+        "bottom_garment_type": "Patterned skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Floral/Abstract",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Smooth",
+            "Velvet (draped fabric)"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident, Stylish, Professional",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal blue satin shirt"
+    }
+]
