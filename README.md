@@ -69,7 +69,7 @@ flowchart LR
         direction TB
         Parse[parser.py] --> Crawl[Crawl4AI<br>Anti-bot bypass]
         Crawl --> Filter[Filter Logos &<br>Select Top 3 Images]
-        Filter --> Vision{{Gemini 3.5 Flash<br>Vision Analysis}}
+        Filter --> Vision{{Gemini 2.5 Flash<br>Vision Analysis}}
         Vision --> Schema{schema.py<br>Is Valid Outfit?}
         Schema -->|No: Discard| Discard([Skip])
     end

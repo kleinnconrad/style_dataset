@@ -27,7 +27,7 @@ Responsible for dynamically finding target websites.
 ### `parser.py`
 Responsible for extracting and categorizing fashion data.
 * **How it works:** Uses `crawl4ai`'s `AsyncWebCrawler` with `magic=True` to bypass Cloudflare and anti-bot protections. It grabs the text context and extracts image URLs.
-* **Vision Processing:** Sends the images and context directly to the Gemini API (`gemini-3.5-flash`), instructing it to map the image contents strictly to the predefined schema. Also utilizes `tenacity` retries to stabilize API interactions.
+* **Vision Processing:** Sends the images and context directly to the Gemini API (`gemini-2.5-flash`), instructing it to map the image contents strictly to the predefined schema. Also utilizes `tenacity` retries to stabilize API interactions.
 
 ### `schema.py`
 Defines the strict structural rules for the AI's output.
