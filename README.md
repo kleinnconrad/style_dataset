@@ -53,53 +53,34 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 ## Pipeline Architecture
 
 ```mermaid
-flowchart TD
-    subgraph Orchestration
-        Main[main.py<br>Pipeline Orchestrator]
-    end
+flowchart LR
+    Main[main.py<br>Pipeline Orchestrator]
 
-    subgraph Discovery Phase
-        Disc[discovery.py]
-        GemSearch{{Gemini Search<br>Dynamic URL Discovery}}
-    end
-
-    subgraph Extraction Phase
-        Parse[parser.py]
-        Crawl[Crawl4AI<br>Anti-bot bypass]
-        Filter[Filter Logos &<br>Select Top 3 Images]
-        Vision{{Gemini 3.5 Flash<br>Vision Analysis}}
-        Schema{schema.py<br>Is Valid Outfit?}
-    end
-
-    subgraph Storage Phase
-        Store[storage.py]
-        Git[(GitHub 'data/' Folder)]
-        Local[(Local Downloads)]
-    end
-
-    %% Define main branches 1, 2, 3
     Main -->|1. Init| Disc
-    Main -->|2. Scrape| Parse
-    Main -->|3. Save| Store
-    
-    Disc --> GemSearch
-    
-    Parse --> Crawl
-    Crawl -->|Images & Context| Filter
-    Filter --> Vision
-    Vision --> Schema
-    Schema -->|No: Discard| Discard([Skip])
 
-    Store -->|GitHub Actions| Git
-    Store -->|Local PC| Local
+    subgraph Phase1 [1. Discovery Phase]
+        direction TB
+        Disc[discovery.py] --> GemSearch{{Gemini Search<br>Dynamic URL Discovery}}
+    end
 
-    %% Back edges for Discovery and Extraction
-    GemSearch -->|Target URLs| Main
-    Schema -->|Yes: FashionRecord| Main
+    GemSearch -->|Target URLs| Parse
 
-    %% Invisible back edges for Storage to balance Dagre's cycle resolution
-    Git ~~~ Main
-    Local ~~~ Main
+    subgraph Phase2 [2. Extraction Phase]
+        direction TB
+        Parse[parser.py] --> Crawl[Crawl4AI<br>Anti-bot bypass]
+        Crawl --> Filter[Filter Logos &<br>Select Top 3 Images]
+        Filter --> Vision{{Gemini 3.5 Flash<br>Vision Analysis}}
+        Vision --> Schema{schema.py<br>Is Valid Outfit?}
+        Schema -->|No: Discard| Discard([Skip])
+    end
+
+    Schema -->|Yes: FashionRecord| Store
+
+    subgraph Phase3 [3. Storage Phase]
+        direction TB
+        Store[storage.py] --> Git[(GitHub 'data/' Folder)]
+        Store --> Local[(Local Downloads)]
+    end
 
     classDef script fill:#2b3137,stroke:#24292e,stroke-width:2px,color:#fff;
     classDef model fill:#1a73e8,stroke:#1558d6,stroke-width:2px,color:#fff;
