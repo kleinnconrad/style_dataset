@@ -77,13 +77,12 @@ flowchart TD
         Local[(Local Downloads)]
     end
 
-    %% Define main branches in reverse order to force Dagre to render them left-to-right (1, 2, 3)
-    Main -->|3. Save| Store
-    Main -->|2. Scrape| Parse
+    %% Define main branches 1, 2, 3
     Main -->|1. Init| Disc
-
-    Store -->|GitHub Actions| Git
-    Store -->|Local PC| Local
+    Main -->|2. Scrape| Parse
+    Main -->|3. Save| Store
+    
+    Disc --> GemSearch
     
     Parse --> Crawl
     Crawl -->|Images & Context| Filter
@@ -91,9 +90,16 @@ flowchart TD
     Vision --> Schema
     Schema -->|No: Discard| Discard([Skip])
 
-    Disc --> GemSearch
+    Store -->|GitHub Actions| Git
+    Store -->|Local PC| Local
+
+    %% Back edges for Discovery and Extraction
     GemSearch -->|Target URLs| Main
     Schema -->|Yes: FashionRecord| Main
+
+    %% Invisible back edges for Storage to balance Dagre's cycle resolution
+    Git ~~~ Main
+    Local ~~~ Main
 
     classDef script fill:#2b3137,stroke:#24292e,stroke-width:2px,color:#fff;
     classDef model fill:#1a73e8,stroke:#1558d6,stroke-width:2px,color:#fff;
