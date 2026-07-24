@@ -77,26 +77,24 @@ flowchart TD
         Local[(Local Downloads)]
     end
 
-    %% Force horizontal ordering of the phases
-    Disc ~~~ Parse
-    Parse ~~~ Store
-
     Main -->|1. Init| Disc
-    Disc --> GemSearch
-    GemSearch -->|Target URLs| Main
-    
     Main -->|2. Scrape| Parse
+    Main -->|3. Save| Store
+
+    Disc --> GemSearch
+    
     Parse --> Crawl
     Crawl -->|Images & Context| Filter
     Filter --> Vision
     Vision --> Schema
-    
-    Schema -->|Yes: FashionRecord| Main
     Schema -->|No: Discard| Discard([Skip])
 
-    Main -->|3. Save| Store
     Store -->|GitHub Actions| Git
     Store -->|Local PC| Local
+
+    %% Define backward edges last so they don't break horizontal ordering
+    GemSearch -->|Target URLs| Main
+    Schema -->|Yes: FashionRecord| Main
 
     classDef script fill:#2b3137,stroke:#24292e,stroke-width:2px,color:#fff;
     classDef model fill:#1a73e8,stroke:#1558d6,stroke-width:2px,color:#fff;
