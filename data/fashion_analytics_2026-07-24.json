@@ -1,0 +1,842 @@
+[
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy, Middle Part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled",
+            "Abstract Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Casual Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck Blouse",
+        "bottom_garment_type": "White Fitted Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Oval Hoop Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Casual Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow Floral Blouse"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, down",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White pants",
+        "footwear_type": null,
+        "accessories": [
+            "Statement earrings"
+        ],
+        "patterns": [
+            "Floral",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim/Twill"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral blouse"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered pixie cut, side-swept",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Grey",
+            "Silver",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit tank top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings with pearl drops",
+            "Delicate necklace",
+            "Clear glass jar"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling, holding a jar",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde and Grey/Silver",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual, approachable, healthy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and smile"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short layered bob with volume",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Glass bottle"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Ribbed knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey, Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Approachable, friendly",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short layered bob with side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Grey",
+            "Grey",
+            "Blonde"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless ribbed tank top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Glass jar"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Approachable chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and top"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Pulled Back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold Hoop Earring",
+            "Mandala Tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving and Performing Facial Treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal Compress and Facial Treatment"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Administering a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Calm, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Button-Up Shirt"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Pulled Back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton",
+            "Terry cloth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness/Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal eye compress"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.poplinstyle.com/blog",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Braided",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Pale Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Clutch bag"
+        ],
+        "patterns": [
+            "Woven",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric",
+            "Woven leather/faux leather",
+            "Puffed leather/faux leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Clutch bag"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.poplinstyle.com/blog",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Pale Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Clutch bag"
+        ],
+        "patterns": [
+            "Woven (on bag)",
+            "Solid (on top)"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric",
+            "Woven leather",
+            "Padded leather"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Clear/Studio lighting",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Clutch bag"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.poplinstyle.com/blog",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Medium-length, casual bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White button-down shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Tote bag",
+            "Draped knit sweater"
+        ],
+        "patterns": [
+            "Solid",
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Poplin",
+            "Knit",
+            "Chambray",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg blue trousers"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://curatedbykirsten.com/",
+        "clothing_style": "Cozy Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Teal",
+            "Green",
+            "Cream",
+            "Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chunky Knit Sweater",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Nose ring"
+        ],
+        "patterns": [
+            "Marled"
+        ],
+        "fabric_textures": [
+            "Chunky Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Reddish-brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, Accomplished",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Chunky Knit Sweater"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://curatedbykirsten.com/",
+        "clothing_style": "Casual Bohemian Festival",
+        "hairstyle": "Long wavy brown hair, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Orange",
+            "Red",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sleeveless collared crop top",
+        "bottom_garment_type": "Wide-leg patterned trousers",
+        "footwear_type": "Flats",
+        "accessories": [
+            "Smartphone"
+        ],
+        "patterns": [
+            "Abstract geometric"
+        ],
+        "fabric_textures": [
+            "Woven cotton",
+            "Flowy woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing for a mirror selfie",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned wide-leg trousers"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://curatedbykirsten.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, multi-toned (dark brown/black to reddish-pink)",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Dark Grey",
+            "Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Red Sleeveless Crop Top",
+        "bottom_garment_type": "Panelled Shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Color-block",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Multi-toned (Dark Brown/Black and Reddish-Pink)",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual, Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red Sleeveless Crop Top"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://stockyardstyle.com/",
+        "clothing_style": "Western Bohemian",
+        "hairstyle": "Long, dark, wavy hair, down",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless lace top",
+        "bottom_garment_type": "Flowy maxi skirt",
+        "footwear_type": "Boots",
+        "accessories": [
+            "Cowboy hat",
+            "Earrings",
+            "Necklace"
+        ],
+        "patterns": [
+            "Floral",
+            "Paisley",
+            "Lace"
+        ],
+        "fabric_textures": [
+            "Lace",
+            "Lightweight woven fabric",
+            "Straw"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark brown",
+        "brand_mentions": [
+            "Stockyard Style"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Western chic, rustic, bohemian",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Cowboy hat and patterned maxi skirt"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://stockyardstyle.com/",
+        "clothing_style": "Western Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "White",
+            "Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": "Distressed denim shorts",
+        "footwear_type": "Embroidered cowboy boots",
+        "accessories": [],
+        "patterns": [
+            "Embroidered"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Denim"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, relaxed",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, authentic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Cowboy boots"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://stockyardstyle.com/",
+        "clothing_style": "Casual Western",
+        "hairstyle": "Long, straight/wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Silver",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Beaded necklace",
+            "Beaded bracelet"
+        ],
+        "patterns": [
+            "Ornate scrollwork"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Distressed denim",
+            "Beaded"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Stockyard Style"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Rustic chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Silver necklace pendant"
+    },
+    {
+        "date_scraped": "2026-07-24",
+        "source_url": "https://www.polishedpolyglot.com/",
+        "clothing_style": "Athleisure",
+        "hairstyle": "Pulled back ponytail/bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Coral",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved athletic top",
+        "bottom_garment_type": "Full-length leggings",
+        "footwear_type": "Athletic sneakers",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Performance Knit",
+            "Stretchy Athletic Fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Performing yoga (forward fold)",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Active",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The person's active pose"
+    }
+]
