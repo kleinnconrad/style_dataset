@@ -125,9 +125,11 @@ To update dependencies locally, modify `requirements.in` and run:
 ```bash
 pip-compile requirements.in
 ```
-Copyright (c) 2026 Conrad Kleinn. All rights reserved.
+
 ## Setup
 
 1. Create a `.env` file for local development or configure GitHub Secrets.
 2. Provide your `GEMINI_API_KEY`.
 3. The GitHub Actions workflow (`daily_scraper.yml`) runs daily at 00:00 UTC and automatically pushes new data to the `data/` folder.
+
+Copyright (c) 2026 Conrad Kleinn. All rights reserved.
