@@ -125,7 +125,7 @@ To update dependencies locally, modify `requirements.in` and run:
 ```bash
 pip-compile requirements.in
 ```
-
+Copyright (c) 2026 Conrad Kleinn. All rights reserved.
 ## Setup
 
 1. Create a `.env` file for local development or configure GitHub Secrets.
