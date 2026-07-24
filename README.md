@@ -77,6 +77,10 @@ flowchart TD
         Local[(Local Downloads)]
     end
 
+    %% Force horizontal ordering of the phases
+    Disc ~~~ Parse
+    Parse ~~~ Store
+
     Main -->|1. Init| Disc
     Disc --> GemSearch
     GemSearch -->|Target URLs| Main
