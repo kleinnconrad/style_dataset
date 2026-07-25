@@ -1,0 +1,494 @@
+[
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Medium-long, straight, parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless button-front top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, arms crossed",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, confident",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Silver-rimmed buttons"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length wavy hair with side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Plum",
+            "Black",
+            "Gold",
+            "Light Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve knit top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered necklace",
+            "Hoop earrings",
+            "Shoulder bag (in background)",
+            "Tote bag (in background)"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine Knit",
+            "Pebbled Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, pointing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Professional, Approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The black shoulder bag"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, straight, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, looking thoughtfully",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Thoughtful, approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral blouse"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "http://garypeppervintage.blogspot.com/",
+        "clothing_style": "Sporty Casual",
+        "hairstyle": "Short, neat",
+        "gender": "Male",
+        "primary_colors": [
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Polo shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Soccer ball"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Pique knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sporty, Enthusiastic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Polo shirt"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "http://garypeppervintage.blogspot.com/",
+        "clothing_style": "Casual, Sporty",
+        "hairstyle": "Short, neat, wavy",
+        "gender": "Male",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Polo shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Soccer ball"
+        ],
+        "patterns": [
+            "Solid",
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Pique knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, holding a soccer ball, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brown",
+        "brand_mentions": [
+            "8XBET"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sporty, promotional, inviting",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The man's face and the soccer ball"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "http://garypeppervintage.blogspot.com/",
+        "clothing_style": "Sporty Casual",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Polo shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Ball"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, holding a ball",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [
+            "8Xbet"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sporty, Promotional",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and the blue ball"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "http://troprouge.blogspot.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length bob with waves",
+        "gender": "Female",
+        "primary_colors": [
+            "Orange",
+            "Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Spaghetti strap crop top",
+        "bottom_garment_type": "High-waisted paperbag denim skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Aviator sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Trop Rouge"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "High-waisted paperbag denim skirt"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "https://prettybigbutterflies.com/",
+        "clothing_style": "School Uniform",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Red",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Polo shirt, V-neck sweater",
+        "bottom_garment_type": "Tailored shorts, Cargo shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Backpack",
+            "Baseball cap"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Pique",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Back-to-school, Friendly",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "The boys' school uniforms"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "https://prettybigbutterflies.com/",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "Long, wavy blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Black",
+            "Brown",
+            "Pink",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-shoulder maxi dress",
+        "bottom_garment_type": "Maxi dress",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Crochet cross-body bag"
+        ],
+        "patterns": [
+            "Abstract"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Crochet"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, sitting, looking up",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, vacation, summery",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Patterned maxi dress"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "https://messymom.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Mixed: Half-up pigtails with loose waves and medium-length curly hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patterned T-shirt, Solid T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Glasses",
+            "Continuous Glucose Monitor"
+        ],
+        "patterns": [
+            "Subtle print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding animals",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Red, Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wholesome, Joyful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The girls and the chickens"
+    },
+    {
+        "date_scraped": "2026-07-25",
+        "source_url": "https://messymom.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, curly hair; one styled with two small buns, the other worn loose",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Light Grey",
+            "White",
+            "Black",
+            "Yellow",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved T-shirts",
+        "bottom_garment_type": "Shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Eyeglasses",
+            "Continuous Glucose Monitors"
+        ],
+        "patterns": [
+            "Small celestial/nature motifs",
+            "Plaid",
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding chickens, smiling",
+        "age_group": "Teen",
+        "makeup_style": "Not visible",
+        "hair_color": "Red, Light Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wholesome, joyful, natural",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Patterned shorts"
+    }
+]
