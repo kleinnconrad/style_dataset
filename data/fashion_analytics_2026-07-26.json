@@ -1,0 +1,638 @@
+[
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Vibrant Chic",
+        "hairstyle": "Short, layered, swept-back",
+        "gender": "Female",
+        "primary_colors": [
+            "Fuchsia",
+            "Teal",
+            "Lime Green",
+            "Yellow",
+            "Light Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sequined Halter-neck Dress",
+        "bottom_garment_type": "Sequined Dress",
+        "footwear_type": null,
+        "accessories": [
+            "Layered gold necklaces",
+            "Earrings"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Sequins",
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Vibrant, Joyful, Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Multi-colored sequined dress"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Chic",
+        "hairstyle": "Short, layered, swept-back",
+        "gender": "Female",
+        "primary_colors": [
+            "Fuchsia",
+            "Gold",
+            "Blue",
+            "Turquoise"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Necklace",
+            "Earrings"
+        ],
+        "patterns": [
+            "Geometric",
+            "Chevron"
+        ],
+        "fabric_textures": [
+            "Sequined",
+            "Shimmer"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Senior",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Festive, Vibrant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Multi-colored sequined dress"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Glamorous Party Wear",
+        "hairstyle": "Short, layered silver-grey",
+        "gender": "Female",
+        "primary_colors": [
+            "Hot Pink",
+            "Blue",
+            "Yellow",
+            "Green",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck sequin dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Necklace"
+        ],
+        "patterns": [
+            "Chevron",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Sequined",
+            "Flowing Fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, Festive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Multi-colored sequin dress"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://seadbeady.blogspot.com/",
+        "clothing_style": "Feminine Casual",
+        "hairstyle": "Messy bun with loose strands",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Pink",
+            "White"
+        ],
+        "is_trendsetter": true,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOhTAGmxw76Q3QT9C03sZN3hd7lIyIvJzho0bU4JgccFDCBiG0CyqyrGA6FXdvuWZE7Y3guYpJY2tlE7PzA7LXbakYnTqkiUQJqJa89Hz2Ha6EjH85bNNknshtSNQ595Pf6pQ2-h6fMwI2KpMrBWGXS6MqJ9-0Op2O7mYP4aKZ_6oTFXwylqlJBtED6yYi/w354-h533/IQiJh3z8wrs1RFPTs82h--0--1521P.jpg",
+        "top_garment_type": "Long-sleeved V-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Pink mug",
+            "Lit candle",
+            "Vase with pink roses",
+            "Notebook",
+            "Stack of pink books"
+        ],
+        "patterns": [
+            "Solid",
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Soft cotton/linen",
+            "Ceramic",
+            "Glass",
+            "Paper"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing thoughtfully at a desk",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Dreamy, contemplative, inspiring",
+        "color_palette_type": "Pastel",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and glowing laptop screen"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://seadbeady.blogspot.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Messy bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Brown",
+            "Pink"
+        ],
+        "is_trendsetter": true,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHUcdfcGMncAzpLPOiGA2-Lrm8_2fhfO3fuSW2MIw3ai_xV9HZSeCzfr6y7veFd-YtzaJ-Gmj_uAn_TNlSHUaVo0hgwgxY_aPCCVbzrDvRSFTGsJf0K0o_nU9r-O6MWTi9IsNK4-IrZsvJvjHBNC3cJ9DIiut1yiACxhfVS3e2JJ4mlVN0Cmb3AkFeuPkR/w355-h534/wKHldwzk62kG5BJUaOwh--0--t4d8N.jpg",
+        "top_garment_type": "Crew neck sweater",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Typing on a laptop, pensive",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Creative, thoughtful, cozy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and the thought bubble"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://seadbeady.blogspot.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Neat Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Cream",
+            "Brown"
+        ],
+        "is_trendsetter": true,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAJ3UzeZ-_1CylzMhIU4SDpKa_F5Gh-98tmSC5WoZptoLAPkl49tEtzdEfLacTJAXJ7A1fwJnPL1MC30fMY3qTKZ3PNR_9ZpaMGWD0FK8OxakDnOrj4qgWFejpWY_RsmxrB7tuFir8_A35ulUbljegwCR8TVjbPV71PiBQlMH4Orv2RER2pu90n5h1afN7/w359-h540/4BVmfgPpOlNVWp17UYxy--0--6E04R.jpg",
+        "top_garment_type": "Collared button-up shirt",
+        "bottom_garment_type": "High-waisted trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Belt",
+            "Earrings",
+            "Notebook"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Standing, holding a notebook, looking upwards thoughtfully",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Thoughtful, professional, creative",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The woman's face and the notebook"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "http://thecurvyfashionista.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Voluminous curly afro",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": true,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": "https://thecurvyfashionista.com/wp-content/uploads/2014/01/Blog-200x300.png",
+        "top_garment_type": "Short-sleeved t-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton/Jersey Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "The Curvy Fashionista"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Informative/Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Voluminous hair"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "http://thecurvyfashionista.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Voluminous curly, shoulder-length",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Yellow",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": true,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": "https://thecurvyfashionista.com/wp-content/uploads/2014/01/Blog-300x450.png",
+        "top_garment_type": "Short-sleeved t-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Glasses",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Talking/Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blue",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Informative",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Voluminous blue hair"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "http://thecurvyfashionista.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Voluminous curly hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": true,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": "https://thecurvyfashionista.com/wp-content/uploads/2014/01/Blog-683x1024.png",
+        "top_garment_type": "Short-sleeved crew-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Glasses",
+            "Rings",
+            "Bracelets",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid",
+            "Abstract/Floral"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing/Speaking",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "The Curvy Fashionista"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Informative, Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and hair"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Effortless Chic",
+        "hairstyle": "Long, straight to wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Olive Green",
+            "White",
+            "Light Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White Crew-neck T-shirt",
+        "bottom_garment_type": "Light Wash Straight-leg Jeans",
+        "footwear_type": "Kitten Heels",
+        "accessories": [
+            "Sunglasses",
+            "Handbag",
+            "Belt"
+        ],
+        "patterns": [
+            "Subtle Snakeskin (belt)",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Suede",
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Suede Trench Coat"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://fashionjackson.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, Wavy, Ombre",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue",
+            "Taupe",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Cropped Utility Jacket",
+        "bottom_garment_type": "Straight-leg Jeans",
+        "footwear_type": "Slingback Kitten Heels",
+        "accessories": [
+            "Sunglasses",
+            "Top-handle Bag",
+            "Ring"
+        ],
+        "patterns": [
+            "Monogram"
+        ],
+        "fabric_textures": [
+            "Cotton Twill",
+            "Denim",
+            "Canvas",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [
+            "Gucci",
+            "Hermes"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Top-handle Bag"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, dark, wavy hair with a center part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral blouse"
+    },
+    {
+        "date_scraped": "2026-07-26",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White fitted pants",
+        "footwear_type": null,
+        "accessories": [
+            "Statement earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Small floral/abstract"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Cotton twill"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh, approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    }
+]
