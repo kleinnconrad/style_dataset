@@ -1,0 +1,550 @@
+[
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, layered, swept-back grey hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Blue",
+            "Black",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chunky Knit Sweater layered over a Collared Shirt",
+        "bottom_garment_type": "Cropped Straight-leg Jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Sunglasses",
+            "Cross-body bag",
+            "Hoop earrings",
+            "Coffee cup"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chunky knit",
+            "Denim",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently, holding a coffee cup",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Cross-body bag with striped strap"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, layered, light blonde/grey",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck sweater layered over a collared shirt",
+        "bottom_garment_type": "Cropped straight-leg jeans",
+        "footwear_type": "Slip-on loafers",
+        "accessories": [
+            "Sunglasses",
+            "Cross-body bag",
+            "Coffee cup",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid",
+            "Patterned (bag strap)"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Cotton",
+            "Smooth leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking casually, holding a coffee",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Dark navy sweater"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, layered blonde/white hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "Blue",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck sweater over collared shirt",
+        "bottom_garment_type": "Cropped denim jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Sunglasses",
+            "Crossbody bag",
+            "Drink glass"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking casually, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde/White",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The layered top combination"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Long, straight, parted in the middle",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Crew-neck T-shirt, Denim Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Camera",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Holding a camera, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Denim Jacket"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Relaxed Professional",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Mandala tattoo",
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Spa treatment on the client's face"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual Professional",
+        "hairstyle": "Short/Medium length, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being performed"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small gold hoop earring",
+            "Small gold stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing/Receiving Facial Treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Facial treatment being applied"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy, Side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Leather",
+            "Cord"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Reddish-brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Friendly",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Subject's face and necklaces"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, dark hair, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Teal",
+            "Black",
+            "White",
+            "Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Cropped knit cardigan",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Canvas sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Canvas"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Mild",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Teal cropped cardigan"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long, straight, worn down, partially covered by beanie",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Beige",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crewneck sweater",
+        "bottom_garment_type": "Cargo pants",
+        "footwear_type": "White sneakers",
+        "accessories": [
+            "Beanie",
+            "Crossbody bucket bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton twill"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, standing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The cohesive neutral color palette"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, dark hair, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Beige",
+            "Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized button-down shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Ballet flats",
+        "accessories": [
+            "Knit sweater (draped)",
+            "Top-handle bag",
+            "Delicate necklace"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Mild",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Striped knit sweater"
+    },
+    {
+        "date_scraped": "2026-07-28",
+        "source_url": "https://www.stylebysavina.com/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Medium-length wavy hair with highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Blazer, Turtleneck Top",
+        "bottom_garment_type": "Skinny Pants/Leggings",
+        "footwear_type": "Over-the-knee Chunky Boots",
+        "accessories": [
+            "Sunglasses",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Wool",
+            "Leather",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Over-the-knee chunky boots"
+    }
+]
