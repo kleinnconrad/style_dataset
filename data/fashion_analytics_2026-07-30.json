@@ -1,0 +1,540 @@
+[
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "http://www.reneeruin.com/",
+        "clothing_style": "Edgy/Rock Chic",
+        "hairstyle": "Long, wavy black hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patent Leather Biker Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Rings",
+            "Dark Nail Polish"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Patent Leather",
+            "Faux Leather"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, winking",
+        "age_group": "Adult",
+        "makeup_style": "Bold eye makeup",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "Renee Ruin"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy, confident, rebellious",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Leather biker jacket"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "http://www.reneeruin.com/",
+        "clothing_style": "Gothic Industrial",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Dark Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Structured blazer",
+        "bottom_garment_type": "Shorts",
+        "footwear_type": "Pointed-toe high heels",
+        "accessories": [
+            "Wheelchair"
+        ],
+        "patterns": [
+            "Distressed"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Sheer"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "Boy Harsher"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Dark, Edgy, Mysterious",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Distressed legwear"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "http://www.reneeruin.com/",
+        "clothing_style": "Alternative/Gothic Chic",
+        "hairstyle": "Long, straight, dark hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Ankle boots with heels",
+        "accessories": [
+            "Leg garter/harness"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Suiting fabric",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Dark eye makeup",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy/Mysterious",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Blazer dress and leg garter/harness"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://styleandenergy.com/",
+        "clothing_style": "Streetwear",
+        "hairstyle": "Straight, shoulder-length, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Pink",
+            "Purple",
+            "Blue",
+            "Orange",
+            "Tan",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped bomber jacket",
+        "bottom_garment_type": "Biker shorts",
+        "footwear_type": "Over-the-knee boots",
+        "accessories": [
+            "Sunglasses",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Floral",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Textured knit",
+            "Suede",
+            "Smooth knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Bold, confident, edgy",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Multi-colored floral cropped jacket"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://styleandenergy.com/",
+        "clothing_style": "Streetwear",
+        "hairstyle": "Straight bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Pink",
+            "Purple",
+            "Blue",
+            "Orange",
+            "Tan",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped floral bomber jacket",
+        "bottom_garment_type": "Biker shorts",
+        "footwear_type": "Over-the-knee stiletto boots",
+        "accessories": [
+            "Sunglasses",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Floral",
+            "Abstract"
+        ],
+        "fabric_textures": [
+            "Boucle knit",
+            "Suede",
+            "Smooth knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Energetic chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Colorful floral bomber jacket"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://styleandenergy.com/",
+        "clothing_style": "Casual, Infantwear",
+        "hairstyle": "Short, curly, styled up",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved onesie",
+        "bottom_garment_type": null,
+        "footwear_type": "None",
+        "accessories": [],
+        "patterns": [
+            "Graphic",
+            "Leaf print"
+        ],
+        "fabric_textures": [
+            "Cotton knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Lying down, looking at camera",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Empowering, Cute",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The graphic onesie"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://messymom.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Girl 1: Two small buns with loose waves; Girl 2: Long, curly, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Green",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Glasses",
+            "Continuous Glucose Monitor (CGM)"
+        ],
+        "patterns": [
+            "Subtle print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding animals",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Red, Light Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wholesome, natural, happy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The girls and their chickens"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://messymom.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long curly hair, one styled in half-up pigtails, the other worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Grey",
+            "Black",
+            "White",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved T-shirts",
+        "bottom_garment_type": "Shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Glasses",
+            "Continuous Glucose Monitors"
+        ],
+        "patterns": [
+            "Celestial motifs",
+            "Plaid",
+            "Animal print"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding chickens, smiling",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Red, Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Wholesome",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The patterned shorts and the chickens"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, Pulled Back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small Hoop Earring",
+            "Forearm Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional and Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, pulled back (recipient)",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Light Blue Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Gold stud earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Treatment compress on eye"
+    },
+    {
+        "date_scraped": "2026-07-30",
+        "source_url": "https://thoughtfulflamingo.com/",
+        "clothing_style": "Couture/Avant-garde",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Nude"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Structured bustier gown bodice",
+        "bottom_garment_type": "Voluminous tulle skirt",
+        "footwear_type": "Not visible",
+        "accessories": [
+            "Dangle earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Tulle"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Elegant, Dramatic, Artistic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Structured white bodice with sculptural detail"
+    }
+]
