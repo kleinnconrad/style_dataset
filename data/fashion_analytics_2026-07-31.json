@@ -1,0 +1,492 @@
+[
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Unidentifiable",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Unidentifiable",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional and calming",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium length, loose (practitioner); Pulled back (recipient)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Light blue chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala tattoo"
+        ],
+        "fabric_textures": [
+            "Chambray/Denim",
+            "Smooth cotton",
+            "Terry cloth"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing/receiving a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, professional, wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being applied"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual Professional",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Brown",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Therapist's shirt"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, parted in the middle",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top",
+        "bottom_garment_type": "Button-front midi skirt",
+        "footwear_type": "White low-top sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Sunglasses",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Knit",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing casually",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Denim jacket"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Long, straight, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Tan",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck T-shirt, Chunky Knit Cardigan",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Ring",
+            "Mug"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting, holding a mug",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Chunky knit cardigan"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short Wavy with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "Charcoal Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer",
+        "bottom_garment_type": "Straight-leg Trousers",
+        "footwear_type": "Mary Jane Flats",
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Woven",
+            "Smocked Knit",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blazer"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Polished Casual",
+        "hairstyle": "Short Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "Charcoal Grey",
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Knit Tank Top",
+        "bottom_garment_type": "Straight-leg pants",
+        "footwear_type": "Mary Jane Flats",
+        "accessories": [
+            "Sunglasses",
+            "Long Pendant Necklace",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid",
+            "Textured Knit"
+        ],
+        "fabric_textures": [
+            "Woven Fabric",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, leaning",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blazer"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Medium length, wavy, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tailored Blazer, Tank Top",
+        "bottom_garment_type": "Straight-leg trousers",
+        "footwear_type": "Mary Jane flats",
+        "accessories": [
+            "Sunglasses",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished, Classic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Dark blue blazer"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://lemonstripes.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Low Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Color-blocked Bikini Top",
+        "bottom_garment_type": "Color-blocked High-waisted Bikini Bottom",
+        "footwear_type": null,
+        "accessories": [
+            "Baseball Cap",
+            "Necklace",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid",
+            "Color-blocked"
+        ],
+        "fabric_textures": [
+            "Smooth Synthetic"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Vacation",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Color-blocked Bikini"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://lemonstripes.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Low Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Bikini Top",
+        "bottom_garment_type": "Bikini Bottom",
+        "footwear_type": null,
+        "accessories": [
+            "Baseball Cap",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid",
+            "Color Block"
+        ],
+        "fabric_textures": [
+            "Smooth Swimwear Fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Relaxing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Summer Vacation",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The swimsuit"
+    },
+    {
+        "date_scraped": "2026-07-31",
+        "source_url": "https://lemonstripes.com/",
+        "clothing_style": "Swimwear",
+        "hairstyle": "Low Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Color-block bikini top",
+        "bottom_garment_type": "Color-block high-waisted bikini bottom",
+        "footwear_type": null,
+        "accessories": [
+            "Baseball cap",
+            "Necklace",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth synthetic"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Vacation",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Color-block swimsuit"
+    }
+]
