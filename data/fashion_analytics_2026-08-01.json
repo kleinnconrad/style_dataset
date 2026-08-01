@@ -1,0 +1,677 @@
+[
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, dark hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, dark",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral print"
+        ],
+        "fabric_textures": [
+            "Woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral print blouse"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://puttingmetogether.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, dark hair, parted in the middle",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White fitted pants",
+        "footwear_type": null,
+        "accessories": [
+            "Statement earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral/Dotted"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral top"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://styleandenergy.com",
+        "clothing_style": "Streetwear Glam",
+        "hairstyle": "Straight, Shoulder-length",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Pink",
+            "Purple",
+            "Blue",
+            "Orange",
+            "Tan",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Floral Bomber Jacket",
+        "bottom_garment_type": "Black Leggings",
+        "footwear_type": "Over-the-knee Boots",
+        "accessories": [
+            "Aviator Sunglasses",
+            "Quilted Shoulder Bag",
+            "Hoop Earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Textured Applique",
+            "Suede",
+            "Quilted",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Bold, Playful, Glamorous",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Colorful Floral Bomber Jacket"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://styleandenergy.com",
+        "clothing_style": "Streetwear Chic",
+        "hairstyle": "Straight, shoulder-length",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Pink",
+            "Brown",
+            "Purple",
+            "Blue",
+            "Orange",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped bomber jacket",
+        "bottom_garment_type": "Fitted leggings",
+        "footwear_type": "Over-the-knee boots",
+        "accessories": [
+            "Sunglasses",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Floral/Abstract"
+        ],
+        "fabric_textures": [
+            "Textured knit",
+            "Stretch fabric",
+            "Suede"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident, Vibrant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Colorful cropped jacket"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://styleandenergy.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Short curly hair",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved onesie",
+        "bottom_garment_type": null,
+        "footwear_type": "Barefoot",
+        "accessories": [],
+        "patterns": [
+            "Text print"
+        ],
+        "fabric_textures": [
+            "Cotton knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Lying down, looking at camera",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Empowering",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Text on the onesie"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://prettybigbutterflies.com",
+        "clothing_style": "School Uniform",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Royal Blue",
+            "Light Blue",
+            "Dark Grey",
+            "Red",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Polo shirt, V-neck sweater",
+        "bottom_garment_type": "Tailored shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Backpack",
+            "Baseball cap",
+            "Sweater tied around waist"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Child",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Friendly",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "School uniforms"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://prettybigbutterflies.com",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "Wavy, Medium-length",
+        "gender": "Female",
+        "primary_colors": [
+            "Mustard Yellow",
+            "Black",
+            "White",
+            "Pink",
+            "Olive Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Maxi Dress",
+        "bottom_garment_type": "Maxi Dress",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Crossbody Bag"
+        ],
+        "patterns": [
+            "Abstract",
+            "Multi-colored"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Woven/Crocheted"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Vacation, Effortless",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned Maxi Dress"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual Professional",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Mandala forearm tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back brunette hair (recipient)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Gold stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton",
+            "Terry cloth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being performed"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, pulled back (practitioner); Short/Medium (recipient)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earrings",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala (tattoo)"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The spa treatment being administered"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy, Worn Down",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Red",
+            "Berry"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Friendly, Approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Subject's face and necklaces"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://lemonstripes.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Low Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Bikini Top",
+        "bottom_garment_type": "High-waisted Bikini Bottoms",
+        "footwear_type": null,
+        "accessories": [
+            "Baseball Cap",
+            "Necklace",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Color-blocked"
+        ],
+        "fabric_textures": [
+            "Smooth Swimwear Fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting by the pool, relaxing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, summery, vacation",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Color-blocked swimsuit"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://lemonstripes.com/",
+        "clothing_style": "Swimwear",
+        "hairstyle": "Low Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Bikini Top",
+        "bottom_garment_type": "Bikini Bottoms",
+        "footwear_type": null,
+        "accessories": [
+            "Baseball Cap",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Color-block"
+        ],
+        "fabric_textures": [
+            "Smooth Knit"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting relaxed",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Vacation",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The swimsuit"
+    },
+    {
+        "date_scraped": "2026-08-01",
+        "source_url": "https://lemonstripes.com/",
+        "clothing_style": "Swimwear",
+        "hairstyle": "Low Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Bikini Top",
+        "bottom_garment_type": "Bikini Bottom",
+        "footwear_type": null,
+        "accessories": [
+            "Baseball Cap",
+            "Necklace",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid",
+            "Color-blocked"
+        ],
+        "fabric_textures": [
+            "Smooth Swimwear Fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Relaxing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Vacation",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Color-blocked swimsuit"
+    }
+]
