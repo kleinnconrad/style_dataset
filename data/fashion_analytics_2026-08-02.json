@@ -1,0 +1,557 @@
+[
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Calm",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue button-up shirt"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving/Performing a wellness treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on face"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Wellness Attire",
+        "hairstyle": "Short/Medium, styled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Gold stud earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness/Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress application"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://caphillstyle.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Mixed, medium to long length",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "White",
+            "Light Pink",
+            "Gold",
+            "Black",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.85,
+        "image_url": null,
+        "top_garment_type": "White Ruffled Top, Light Pink Blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold-toned watch",
+            "Black/Clear-cased watch",
+            "Rings",
+            "Green beaded bracelet",
+            "Clear-framed sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Linen"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Clear Sky",
+        "pose_or_activity": "Toasting/Celebrating",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Celebratory, Joyful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Champagne flutes"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://caphillstyle.com/",
+        "clothing_style": "Resort Casual",
+        "hairstyle": "Partially visible, Pulled back",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "White",
+            "Light Pink",
+            "Gold",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Loose-fitting shirt, Blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Watches",
+            "Ring",
+            "Beaded bracelet",
+            "Glasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Linen",
+            "Metal"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Clear sky",
+        "pose_or_activity": "Toasting, Celebrating",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Celebratory, Joyful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Champagne flutes"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://caphillstyle.com/",
+        "clothing_style": "Resort Wear",
+        "hairstyle": "Mixed (Updo, Bangs, Short)",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Gold",
+            "Black",
+            "Pink",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Relaxed Blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Watches",
+            "Rings",
+            "Beaded bracelet",
+            "Sunglasses",
+            "Glasses",
+            "Champagne flutes"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton/Linen",
+            "Metal",
+            "Leather",
+            "Glass"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Unclear",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Toasting/Socializing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Celebratory",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Champagne flutes and hands"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Alternative Chic",
+        "hairstyle": "Long Braided Pigtails with Teal Streaks",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Teal",
+            "Red",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Chain necklace",
+            "Pendant necklace",
+            "Nose piercing",
+            "Tattoo",
+            "Manicured nails"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Woven Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold eye makeup",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "Phyrra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Beauty blogger",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Face and product"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Eclectic",
+        "hairstyle": "Long pigtail braids with teal highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Teal",
+            "Silver",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Collared button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Chain necklace",
+            "Tattoo",
+            "Metallic blue nail polish"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, holding a product",
+        "age_group": "Adult",
+        "makeup_style": "Bold",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "Phyrra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Hair and Necklace"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Edgy Casual",
+        "hairstyle": "Long braided pigtails with teal/blue streaks",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Teal",
+            "Red",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared button-down shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Chunky chain necklace",
+            "Foundation bottle",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Woven cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, holding a product",
+        "age_group": "Adult",
+        "makeup_style": "Bold/Dramatic",
+        "hair_color": "Dark with teal/blue streaks",
+        "brand_mentions": [
+            "Phyrra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy, confident, beauty-focused",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and the foundation bottle"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Playful Casual",
+        "hairstyle": "Medium-length wavy/curly hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Fuchsia",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Striped Cardigan",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball",
+            "Earrings"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Chunky Knit",
+            "Chambray"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing joyfully, holding a disco ball",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Joyful, Retro",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped Chunky Knit Cardigan"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Vibrant Casual",
+        "hairstyle": "Medium-length wavy hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Fuchsia"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped Chunky Knit Cardigan, Collared Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Chunky Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing cheerfully with a disco ball",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful and vibrant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped chunky knit cardigan"
+    },
+    {
+        "date_scraped": "2026-08-02",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Playful Retro Casual",
+        "hairstyle": "Medium-length curly with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Pink",
+            "Fuchsia",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped Chunky Knit Cardigan, Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball",
+            "Earrings"
+        ],
+        "patterns": [
+            "Horizontal Stripes"
+        ],
+        "fabric_textures": [
+            "Chunky Knit",
+            "Chambray"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing cheerfully, holding a disco ball",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped Chunky Knit Cardigan and Disco Ball"
+    }
+]
