@@ -1,0 +1,469 @@
+[
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Gold stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being applied"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton",
+            "Terry cloth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional and relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Black choker",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric",
+            "Leather/Faux leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Friendly, approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Face and necklaces"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Summer Chic",
+        "hairstyle": "Short, swept-back",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "White",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Gold Halter Neck Cowl Top",
+        "bottom_garment_type": "White Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Black oval sunglasses",
+            "Gold hoop earrings",
+            "Layered gold necklaces",
+            "Wide brown leather studded belt",
+            "Gold bangles",
+            "Black rectangular sunglasses",
+            "Black cross-body pouch",
+            "Black belt"
+        ],
+        "patterns": [
+            "Solid",
+            "Textured",
+            "Studded"
+        ],
+        "fabric_textures": [
+            "Metallic knit",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light grey/blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Gold Halter Neck Cowl Top and layered necklaces"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short blonde bob/pixie",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter neck cowl top",
+        "bottom_garment_type": "Fitted trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Cross-body bag",
+            "Watch",
+            "Belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Jersey",
+            "Cotton",
+            "Cotton Twill"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Halter neck cowl top"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Summer Chic",
+        "hairstyle": "Short, layered blonde/grey bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter neck cowl top",
+        "bottom_garment_type": "White shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Layered necklaces",
+            "Hoop earrings",
+            "Bracelets",
+            "Brown belt",
+            "Black cross-body bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Soft knit",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, cheerful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Layered necklaces and cowl neck top"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://stockyardstyle.com/",
+        "clothing_style": "Western Bohemian",
+        "hairstyle": "Long, dark, wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless lace top",
+        "bottom_garment_type": "Pleated maxi skirt",
+        "footwear_type": "Western Boots",
+        "accessories": [
+            "Cowboy hat",
+            "Earrings",
+            "Necklace"
+        ],
+        "patterns": [
+            "Floral",
+            "Lace"
+        ],
+        "fabric_textures": [
+            "Lace",
+            "Woven fabric",
+            "Straw"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "Stockyard Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Rustic chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Cowboy hat and patterned maxi skirt"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://stockyardstyle.com/",
+        "clothing_style": "Western Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": "Distressed denim shorts",
+        "footwear_type": "Cowboy boots",
+        "accessories": [
+            "Ring"
+        ],
+        "patterns": [
+            "Embroidered"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, relaxed",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [
+            "Stockyard Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Country",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Cowboy boots"
+    },
+    {
+        "date_scraped": "2026-08-03",
+        "source_url": "https://stockyardstyle.com/",
+        "clothing_style": "Western Casual",
+        "hairstyle": "Long, straight/wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Silver",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Necklace",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid",
+            "Filigree"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Metal"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Stockyard Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Rustic Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Silver necklace and bracelet"
+    }
+]
