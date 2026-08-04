@@ -1,0 +1,638 @@
+[
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://forums.thefashionspot.com/",
+        "clothing_style": "Formal, Vintage, Elegant",
+        "hairstyle": "Updo/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sleeveless dress/gown",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Glasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing/Being fitted",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Unidentifiable",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Elegant, Classic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The woman's dress"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://forums.thefashionspot.com/",
+        "clothing_style": "High Fashion Formal",
+        "hairstyle": "Short, slicked-back white hair",
+        "gender": "Male",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Suit jacket, collared shirt, high-neck top",
+        "bottom_garment_type": "Suit trousers (implied)",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Gold chain necklace"
+        ],
+        "patterns": [
+            "Striped (tie)"
+        ],
+        "fabric_textures": [
+            "Smooth wool",
+            "Cotton",
+            "Silk"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "White/Silver, Black",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated, Iconic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Karl Lagerfeld's face and sunglasses"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, swept-back (female); Short, neat (male)",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Metallic Halter Neck Cowl Top",
+        "bottom_garment_type": "White Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Layered necklaces",
+            "Wide embellished belt",
+            "Bangles",
+            "Cross-body bag"
+        ],
+        "patterns": [
+            "Solid",
+            "Embellished"
+        ],
+        "fabric_textures": [
+            "Metallic knit",
+            "Textured knit",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Summer Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Female's metallic top and layered necklaces"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short Blonde Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Cowl Neck Halter Top",
+        "bottom_garment_type": "White Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Cross-body bag",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Draped fabric",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Female's cowl neck halter top"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Summer Chic",
+        "hairstyle": "Short, layered, casual (female)",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "White",
+            "Brown",
+            "Gold",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter neck cowl top",
+        "bottom_garment_type": "White shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Layered necklaces",
+            "Hoop earrings",
+            "Brown leather belt",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, cheerful, summery",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Halter neck cowl top and layered necklaces"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back, dark hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving and administering a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The spa treatment on the client's face"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back (client), Medium length, brown (practitioner, partially visible)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt (practitioner), T-shirt (client)",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earrings",
+            "Mandala tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala (tattoo)"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving a treatment (client), Performing a treatment (practitioner)",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The beauty treatment being performed"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Gold stud earring",
+            "Mandala forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on eye"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Edgy Casual",
+        "hairstyle": "Long braided pigtails with colored streaks",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Teal",
+            "Red",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared button-down shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Chain necklace",
+            "Nose piercing"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Metal"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, holding product",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips, Winged eye",
+        "hair_color": "Black, Teal",
+        "brand_mentions": [
+            "Phyrra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident, Edgy",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Face and product"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Alternative Casual",
+        "hairstyle": "Long, braided pigtails with teal streaks",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Teal",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared button-down shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Chain necklace",
+            "Nail polish",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Black",
+        "brand_mentions": [
+            "Phyrra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Friendly",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Foundation bottle"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Alternative Casual",
+        "hairstyle": "Two braided pigtails with dark hair and teal/blue streaks",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Teal",
+            "Red",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Chain necklace",
+            "Pendant",
+            "Nail polish",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, holding a product",
+        "age_group": "Adult",
+        "makeup_style": "Bold eye makeup, bold lips, prominent blush",
+        "hair_color": "Dark with teal/blue highlights",
+        "brand_mentions": [
+            "PHYRRA"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Beauty Blogger Aesthetic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and the foundation bottle"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White pants",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled pattern"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Oval hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-08-04",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Everyday Casual",
+        "hairstyle": "Long, Wavy, Down",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck Blouse",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral/Abstract Dot"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim/Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    }
+]

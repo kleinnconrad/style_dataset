@@ -11,43 +11,43 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 
 ## Dataset Overview
 <!-- DATASET_OVERVIEW_START -->
-**Last Updated:** 2026-08-03 04:34:21 UTC
+**Last Updated:** 2026-08-04 04:16:31 UTC
 
-- **Total Days/Files:** 51
-- **Total Outfits:** 606
+- **Total Days/Files:** 52
+- **Total Outfits:** 620
 
 | Variable | Description | Fill Rate | Distinct Values |
 |----------|-------------|-----------|-----------------|
-| `accessories` | List of visible accessories. | 78.1% (473) | 283 |
-| `age_group` | Visually estimated age bracket. | 85.6% (519) | 6 |
-| `bottom_garment_type` | The type of bottom being worn. | 51.3% (311) | 176 |
-| `brand_mentions` | Fashion brands explicitly mentioned. | 8.7% (53) | 40 |
-| `clothing_fit` | The overall fit of the clothing. | 85.5% (518) | 4 |
-| `clothing_style` | The primary fashion style. | 100.0% (606) | 156 |
-| `color_palette_type` | The overall color theory of the outfit. | 85.6% (519) | 5 |
-| `confidence_score` | Model confidence score (0.0 to 1.0). | 100.0% (606) | 8 |
-| `date_scraped` | Automatically injected date. | 100.0% (606) | 51 |
-| `fabric_textures` | Visually inferred materials. | 85.6% (519) | 198 |
-| `focal_point` | The standout piece that draws the eye. | 85.6% (519) | 363 |
-| `footwear_type` | The type of shoes being worn. | 33.0% (200) | 110 |
-| `gender` | The perceived gender of the subject. | 100.0% (606) | 3 |
-| `hair_color` | Subject's hair color. | 85.0% (515) | 52 |
-| `hairstyle` | The primary hairstyle of the subject. | 100.0% (606) | 344 |
+| `accessories` | List of visible accessories. | 78.5% (487) | 288 |
+| `age_group` | Visually estimated age bracket. | 86.0% (533) | 6 |
+| `bottom_garment_type` | The type of bottom being worn. | 51.3% (318) | 177 |
+| `brand_mentions` | Fashion brands explicitly mentioned. | 9.0% (56) | 41 |
+| `clothing_fit` | The overall fit of the clothing. | 85.8% (532) | 4 |
+| `clothing_style` | The primary fashion style. | 100.0% (620) | 159 |
+| `color_palette_type` | The overall color theory of the outfit. | 86.0% (533) | 5 |
+| `confidence_score` | Model confidence score (0.0 to 1.0). | 100.0% (620) | 8 |
+| `date_scraped` | Automatically injected date. | 100.0% (620) | 52 |
+| `fabric_textures` | Visually inferred materials. | 86.0% (533) | 200 |
+| `focal_point` | The standout piece that draws the eye. | 86.0% (533) | 370 |
+| `footwear_type` | The type of shoes being worn. | 32.3% (200) | 110 |
+| `gender` | The perceived gender of the subject. | 100.0% (620) | 3 |
+| `hair_color` | Subject's hair color. | 85.3% (529) | 55 |
+| `hairstyle` | The primary hairstyle of the subject. | 100.0% (620) | 353 |
 | `image_url` | Image URL of the subject (GDPR compliant). | 2.1% (13) | 12 |
-| `is_trendsetter` | True if celebrity/model/artist, False if regular person. | 100.0% (606) | 2 |
-| `layering_complexity` | Scale from 1 (simple) to 5 (heavy layering). | 85.6% (519) | 4 |
-| `makeup_style` | Subject's makeup style. | 85.6% (519) | 20 |
-| `patterns` | Patterns visible on the clothing. | 85.6% (519) | 134 |
-| `pose_or_activity` | What the subject is doing. | 85.6% (519) | 164 |
-| `price_segment` | Inferred price segment. | 85.6% (519) | 4 |
-| `primary_colors` | List of dominant colors in the outfit. | 100.0% (606) | 72 |
-| `region` | Geographic region identified from context ('EU' or 'US'). | 100.0% (606) | 2 |
-| `seasonality` | The inferred season. | 85.6% (519) | 5 |
-| `sentiment_or_vibe` | The aesthetic vibe described. | 85.3% (517) | 244 |
-| `setting` | The setting or background of the photo. | 85.6% (519) | 5 |
-| `source_url` | The URL of the webpage where the image was found. | 100.0% (606) | 124 |
-| `top_garment_type` | The type of top being worn. | 84.5% (512) | 301 |
-| `weather_conditions` | Inferred weather. | 66.3% (402) | 27 |
+| `is_trendsetter` | True if celebrity/model/artist, False if regular person. | 100.0% (620) | 2 |
+| `layering_complexity` | Scale from 1 (simple) to 5 (heavy layering). | 86.0% (533) | 4 |
+| `makeup_style` | Subject's makeup style. | 86.0% (533) | 22 |
+| `patterns` | Patterns visible on the clothing. | 86.0% (533) | 138 |
+| `pose_or_activity` | What the subject is doing. | 86.0% (533) | 168 |
+| `price_segment` | Inferred price segment. | 86.0% (533) | 4 |
+| `primary_colors` | List of dominant colors in the outfit. | 100.0% (620) | 72 |
+| `region` | Geographic region identified from context ('EU' or 'US'). | 100.0% (620) | 2 |
+| `seasonality` | The inferred season. | 86.0% (533) | 5 |
+| `sentiment_or_vibe` | The aesthetic vibe described. | 85.6% (531) | 250 |
+| `setting` | The setting or background of the photo. | 86.0% (533) | 5 |
+| `source_url` | The URL of the webpage where the image was found. | 100.0% (620) | 125 |
+| `top_garment_type` | The type of top being worn. | 84.8% (526) | 306 |
+| `weather_conditions` | Inferred weather. | 66.5% (412) | 27 |
 <!-- DATASET_OVERVIEW_END -->
 
 ## Pipeline Architecture
