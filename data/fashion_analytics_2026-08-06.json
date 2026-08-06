@@ -1,0 +1,1021 @@
+[
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Gold stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on eye"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Stud earring",
+            "Hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, professional, wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being performed"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual Professional",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Mandala Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Calm and professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Button-Up Shirt"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Long, straight, dark brown hair, middle-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved knit sweater",
+        "bottom_garment_type": "Straight-leg trousers",
+        "footwear_type": "White sneakers",
+        "accessories": [
+            "Cross-body bag",
+            "Sunglasses",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Smooth woven fabric",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Long trench coat"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, dark brown, middle-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Blue",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved T-shirt",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "White sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Sunglasses",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Smooth Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Beige trench coat"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, Straight, Middle Part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Navy",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved t-shirt",
+        "bottom_garment_type": "Striped A-line midi skirt",
+        "footwear_type": "Low-top sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Watch"
+        ],
+        "patterns": [
+            "Vertical stripes"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Woven cotton",
+            "Canvas"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Standing, posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Striped A-line midi skirt"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Playful Casual",
+        "hairstyle": "Shoulder-length Wavy with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Fuchsia",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Striped Knit Cardigan, Collared Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball",
+            "Earrings",
+            "Pink Lipstick"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Chambray"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, Laughing, Holding object",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, Playful, Festive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped Knit Cardigan"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length Wavy with Bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Bright Pink",
+            "Light Pink",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped Knit Cardigan, Button-up Shirt/Shacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Disco Ball"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chunky Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing cheerfully, holding an object",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Joyful, Festive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped Cardigan"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Casual, Playful",
+        "hairstyle": "Curly, shoulder-length with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Fuchsia",
+            "Light Pink",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped Chunky Knit Cardigan, Collared Utility Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball",
+            "Earrings"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Chunky Knit",
+            "Chambray"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing cheerfully, holding a disco ball",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Joyful, Retro",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped Chunky Knit Cardigan"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://www.stylebysavina.com/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Medium-length wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Oversized black blazer, Black turtleneck",
+        "bottom_garment_type": "Black skinny pants",
+        "footwear_type": "Black over-the-knee lug-sole boots",
+        "accessories": [
+            "Black structured handbag",
+            "Dark rectangular sunglasses"
+        ],
+        "patterns": [
+            "Solid",
+            "Subtle side stripe"
+        ],
+        "fabric_textures": [
+            "Wool blend",
+            "Smooth leather",
+            "Knit",
+            "Stretch fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing, walking",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic, Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Over-the-knee lug-sole boots"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://insideoutstyleblog.com",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short, styled bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Pink",
+            "Purple",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin button-up shirt",
+        "bottom_garment_type": "Patterned skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral/Abstract",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Woven",
+            "Velvet"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing confidently, smiling, holding fabric",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/White",
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The vibrant royal blue satin shirt"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://insideoutstyleblog.com",
+        "clothing_style": "Sophisticated Casual",
+        "hairstyle": "Short layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Pink",
+            "Purple",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin button-up shirt",
+        "bottom_garment_type": "Patterned skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Necklace"
+        ],
+        "patterns": [
+            "Abstract/Floral"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Printed Fabric",
+            "Velvet (draped fabric)"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Silver",
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal blue satin shirt"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://insideoutstyleblog.com",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short bob, light grey",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Pink",
+            "Purple",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin button-up shirt",
+        "bottom_garment_type": "Patterned skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet",
+            "Ring"
+        ],
+        "patterns": [
+            "Abstract floral"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Woven",
+            "Velvet"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, smiling, holding fabric",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Vibrant blue satin shirt"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://thewelldressedlife.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, blonde with grey highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Beige",
+            "Camel"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved striped top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Choosing an outfit",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde with grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Organized, Classic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The white knit garment being held"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://thewelldressedlife.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, side-parted blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Navy",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved striped top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Glasses"
+        ],
+        "patterns": [
+            "Striped",
+            "Ribbed/Pleated"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Ribbed Knit",
+            "Wool"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Selecting clothing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Practical",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White sleeveless dress"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://thewelldressedlife.com",
+        "clothing_style": "Casual Classic",
+        "hairstyle": "Long, straight blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved striped top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Choosing an outfit",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Classic, organized, thoughtful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White knit garment"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://midlifechic.com",
+        "clothing_style": "Summer Casual Chic",
+        "hairstyle": "Female: Short, swept-back; Male: Short crop",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Halter neck cowl top",
+        "bottom_garment_type": "White trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Gold hoop earrings",
+            "Layered gold necklaces",
+            "Gold bangles",
+            "Brown leather belt"
+        ],
+        "patterns": [
+            "Solid",
+            "Embroidered"
+        ],
+        "fabric_textures": [
+            "Metallic Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, relaxed, summery",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Layered gold necklaces and shimmering top"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://midlifechic.com",
+        "clothing_style": "Casual Summer Chic",
+        "hairstyle": "Short blonde bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter neck cowl neck top",
+        "bottom_garment_type": "Fitted white trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Delicate necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Soft knit",
+            "Cotton twill"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Cowl neck halter top"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://midlifechic.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "White",
+            "Brown",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Halter neck cowl top",
+        "bottom_garment_type": "White shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Layered necklaces",
+            "Hoop earrings",
+            "Bracelets",
+            "Ring",
+            "Brown leather belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Soft knit",
+            "Twill",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Summery Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Halter neck cowl top with layered gold necklaces"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://phyrra.net",
+        "clothing_style": "Alternative/Gothic Beauty",
+        "hairstyle": "Long, straight, vibrant blue and purple ombre",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Purple",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Low-cut camisole/top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Pendant necklace (rose)",
+            "Ring",
+            "Bracelet",
+            "Nose ring",
+            "Makeup palettes"
+        ],
+        "patterns": [
+            "Solid",
+            "Holographic",
+            "Image print"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Metallic"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, presenting products",
+        "age_group": "Adult",
+        "makeup_style": "Dramatic, Gothic-inspired, Cool-toned",
+        "hair_color": "Blue",
+        "brand_mentions": [
+            "Smashbox"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Edgy, Glamorous, Beauty-focused",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face, hair, and the makeup palettes"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://phyrra.net",
+        "clothing_style": "Gothic Alternative",
+        "hairstyle": "Long, straight, blue and purple ombre/dyed hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Purple"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Camisole/Tank Top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered necklaces",
+            "Heart pendant",
+            "Rose pendant",
+            "Black ring",
+            "Beaded bracelet",
+            "Nose piercing"
+        ],
+        "patterns": [
+            "Solid",
+            "Holographic/Iridescent"
+        ],
+        "fabric_textures": [
+            "Smooth knit",
+            "Metal",
+            "Beaded"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold eye makeup, Bold lips",
+        "hair_color": "Blue, Purple",
+        "brand_mentions": [
+            "Smashbox"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Gothic, Beauty-focused, Alternative",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Face and eyeshadow palettes"
+    },
+    {
+        "date_scraped": "2026-08-06",
+        "source_url": "https://phyrra.net",
+        "clothing_style": "Gothic/Alternative",
+        "hairstyle": "Long, straight, side-parted, dark blue/purple dyed hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Dark Blue",
+            "Dark Purple",
+            "Silver",
+            "Dark Red"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Necklace",
+            "Rings",
+            "Makeup palettes"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, holding products",
+        "age_group": "Adult",
+        "makeup_style": "Bold eye makeup, dark lips",
+        "hair_color": "Dark Blue/Purple",
+        "brand_mentions": [
+            "Phyrra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Alternative, confident, beauty-focused",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Makeup palettes and subject's face"
+    }
+]
