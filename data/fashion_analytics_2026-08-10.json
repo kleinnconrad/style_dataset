@@ -1,0 +1,518 @@
+[
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Short layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "White",
+            "Gold",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared V-neck dress",
+        "bottom_garment_type": "Midi A-line skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Pendant necklace",
+            "Stacked bracelets"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight woven",
+            "Crepe-like"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, standing with hand in pocket",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short Blonde Hair, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved Shirt Dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Unclear",
+        "accessories": [
+            "Sunglasses",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight Cotton/Linen blend"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The Red Dress"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, styled blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Gold",
+            "Silver",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared V-neck dress",
+        "bottom_garment_type": "A-line midi dress",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Gold necklace",
+            "Watch",
+            "Bracelets",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Cotton blend"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, standing with hands in pockets",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Smocked Jumpsuit",
+        "bottom_garment_type": "Wide-leg Jumpsuit",
+        "footwear_type": "Glitter Flat Sandals",
+        "accessories": [
+            "Glasses",
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Crinkled Cotton",
+            "Smocked"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing with hands in pockets",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable, relaxed, cheerful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Navy smocked jumpsuit"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Smocked Jumpsuit Bodice",
+        "bottom_garment_type": "Wide-leg Jumpsuit Pants",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Glasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smocked",
+            "Lightweight Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Warm/Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable, Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Dark Blue Smocked Jumpsuit"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short Wavy Blonde Hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Jumpsuit Bodice",
+        "bottom_garment_type": "Wide-leg Jumpsuit Pants",
+        "footwear_type": "Barefoot",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Linen Blend",
+            "Textured Weave"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Standing, hands in pockets, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Comfortable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Navy Wide-leg Jumpsuit"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Calm, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Relaxed Professional",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earring",
+            "Stud earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being performed"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual Professional",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, wavy, middle-part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White pants",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled/Dotted"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "Fitted white jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Large hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral print"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow floral blouse"
+    },
+    {
+        "date_scraped": "2026-08-10",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy, Side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral Print"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven Fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow Floral Blouse"
+    }
+]
