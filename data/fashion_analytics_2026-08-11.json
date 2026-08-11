@@ -1,0 +1,587 @@
+[
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving/Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Facial treatment with poultice"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton",
+            "Terry cloth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Treatment tool and hands"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Calm, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Long, straight, dark brown hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Light Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White long-sleeved button-up shirt, Black tank top",
+        "bottom_garment_type": "Light-wash straight-leg jeans",
+        "footwear_type": "White sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Necklace",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton",
+            "Linen",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing casually, posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Light-wash straight-leg jeans"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Medium-length, straight, dark brown hair with a slight off-center part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless black dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Gucci Dionysus-style handbag",
+            "Chlo\u00e9 Marcie-style handbag",
+            "Structured tote bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Professional chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Sleeveless black dress with silver-rimmed buttons"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Long, Wavy, Side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Plum",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved Knit Top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered Gold Necklace",
+            "Gold Hoop Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, pointing upwards",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Delicate layered necklace"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, straight/wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck Blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Silver hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing thoughtfully",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral V-neck Blouse"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Gold",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared shirt dress",
+        "bottom_garment_type": "Midi dress skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Pendant necklace",
+            "Beaded bracelets"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight woven",
+            "Subtle pleating"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short Blonde Hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved Shirt Dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Earrings",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Short, styled blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared V-neck dress",
+        "bottom_garment_type": "A-line skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Necklace",
+            "Watch",
+            "Bracelets",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, dark",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Teal",
+            "White",
+            "Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Cardigan",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Canvas sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Bracelets/Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Canvas"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Not visible",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Teal cropped cardigan"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Beige",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crewneck Sweater",
+        "bottom_garment_type": "Cargo pants",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Knit beanie",
+            "Crossbody bucket bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Cool",
+        "pose_or_activity": "Standing, posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Cargo pants"
+    },
+    {
+        "date_scraped": "2026-08-11",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Long, straight, dark",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Beige",
+            "Tan",
+            "Cream",
+            "Light Brown",
+            "Blue",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt, Knit top, T-shirt, Trench coat",
+        "bottom_garment_type": "Wide-leg trousers, Straight-leg jeans",
+        "footwear_type": "Ballet flats, Sneakers",
+        "accessories": [
+            "Structured top-handle bag",
+            "Crossbody bag",
+            "Knit sweater (draped/tied)",
+            "Belt",
+            "Gold necklace",
+            "Gold bracelet"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Mild, Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic, Polished casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench coat"
+    }
+]
