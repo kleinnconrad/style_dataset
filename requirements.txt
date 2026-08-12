@@ -89,13 +89,13 @@ google-auth[requests]==2.56.2
     #   google-auth-httplib2
     #   google-auth-oauthlib
     #   google-genai
-google-auth-httplib2==0.4.0
+google-auth-httplib2==0.4.1
     # via
     #   -r requirements.in
     #   google-api-python-client
 google-auth-oauthlib==1.4.0
     # via -r requirements.in
-google-genai==2.16.0
+google-genai==2.17.0
     # via -r requirements.in
 googleapis-common-protos==1.75.0
     # via google-api-core
