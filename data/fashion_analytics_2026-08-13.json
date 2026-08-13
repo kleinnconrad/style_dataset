@@ -1,0 +1,593 @@
+[
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, dark brown, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved knit top",
+        "bottom_garment_type": "Midi A-line skirt",
+        "footwear_type": "Low-top sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Necklace",
+            "Watch",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit",
+            "Fine knit",
+            "Canvas",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The overall minimalist aesthetic"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim jacket over crew-neck t-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light brown",
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Denim jacket"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Classic",
+        "hairstyle": "Medium-length straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Erica Ball Style"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Professional Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Silver-rimmed black buttons"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Plum",
+            "Black",
+            "Light Pink",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Layered gold necklace",
+            "Gold hoop earrings",
+            "Light pink tote bag",
+            "Black shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Pebbled leather",
+            "Smooth leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, smiling, pointing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "Gucci"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black structured shoulder bag"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight with slight waves, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Thoughtful, approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral blouse"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Short layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "White",
+            "Gold",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shirt dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Pendant necklace",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight woven",
+            "Crepe-like"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, textured blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved shirt dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Earrings",
+            "Watch",
+            "Small handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Short, styled blonde/grey",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Gold",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared V-neck dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Necklace",
+            "Watch",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant, confident, summery",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Red dress"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://sincerelyashley.com/",
+        "clothing_style": "Bohemian/Ethereal",
+        "hairstyle": "Long, wavy, voluminous",
+        "gender": "Female",
+        "primary_colors": [
+            "Peach",
+            "Orange",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sheer flowing wrap",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Abstract",
+            "Botanical"
+        ],
+        "fabric_textures": [
+            "Sheer",
+            "Lightweight",
+            "Flowing"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Breezy",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with bold lips",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Ethereal, Serene",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "The flowing sheer wrap"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://sincerelyashley.com/",
+        "clothing_style": "Bohemian",
+        "hairstyle": "Wavy, shoulder-length",
+        "gender": "Female",
+        "primary_colors": [
+            "Peach",
+            "Terracotta",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Draped sheer wrap",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Abstract motifs"
+        ],
+        "fabric_textures": [
+            "Sheer",
+            "Lightweight"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural, bold lips",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Ethereal, artistic, serene",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "The flowing draped fabric and the subject's face"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://offbeatlook.com/",
+        "clothing_style": "Alternative Streetwear",
+        "hairstyle": "Long, curly, dyed hair (vibrant green fading to pale green/blonde)",
+        "gender": "Female",
+        "primary_colors": [
+            "Green",
+            "Blue",
+            "Yellow",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim jacket, T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker",
+            "Septum ring",
+            "Nose stud",
+            "Earrings",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Lace",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Mixed",
+        "hair_color": "Green",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy, Expressive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "The vibrant green hair"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://offbeatlook.com/",
+        "clothing_style": "Offbeat Casual",
+        "hairstyle": "Long, curly, dyed green/faded green",
+        "gender": "Female",
+        "primary_colors": [
+            "Green",
+            "Blue",
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim jacket, Crew-neck top, T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Nose ring",
+            "Choker necklace",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Unclear",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Green",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Expressive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "The green hair"
+    },
+    {
+        "date_scraped": "2026-08-13",
+        "source_url": "https://offbeatlook.com/",
+        "clothing_style": "Streetwear",
+        "hairstyle": "Long, curly, bright red",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Black",
+            "Grey",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Layered necklaces",
+            "Septum piercing"
+        ],
+        "patterns": [
+            "Solid",
+            "Chain-link"
+        ],
+        "fabric_textures": [
+            "Faux Leather",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy, confident, vibrant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Bright red curly hair"
+    }
+]
