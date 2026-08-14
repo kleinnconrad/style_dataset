@@ -1,0 +1,557 @@
+[
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Face and layered necklaces"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Playful Casual",
+        "hairstyle": "Wavy bob with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Fuchsia",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Striped chunky knit cardigan, Button-up shirt",
+        "bottom_garment_type": "Jumpsuit",
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball",
+            "Earrings"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Chambray"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, joyful, holding a disco ball",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, playful, retro-inspired",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped chunky knit cardigan"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length wavy hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Fuchsia"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped knit cardigan, Collared shirt",
+        "bottom_garment_type": "Not visible (possibly part of a jumpsuit)",
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball",
+            "Earrings"
+        ],
+        "patterns": [
+            "Horizontal stripes"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton blend"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, holding an object, laughing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Dark brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped knit cardigan"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Playful Casual",
+        "hairstyle": "Medium-length curly hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Fuchsia",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Striped Chunky Knit Cardigan, Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Disco ball",
+            "Earrings"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Chambray-like"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing joyfully, holding a disco ball",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Joyful, Celebratory",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped chunky knit cardigan"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long, Straight, Middle Part",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Dark Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved T-shirt",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": "Low-top Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Crossbody bag"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Navy",
+            "Light Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved t-shirt",
+        "bottom_garment_type": "Polka dot A-line midi skirt",
+        "footwear_type": "White low-top sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Watch",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Polka dot",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton",
+            "Woven",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing casually",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Polka dot midi skirt"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, dark, parted in the middle",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Grey",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved crew-neck top, Draped sweater",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Ankle boots",
+        "accessories": [
+            "Small top-handle bag",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Knit",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Draped sweater"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long, straight, tucked under beanie",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Beige",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Long-sleeve knit top",
+        "bottom_garment_type": "Cargo pants",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Beanie",
+            "Bucket bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, standing with hand in pocket",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Cargo pants"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://hersimplesole.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, dark hair, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Beige",
+            "Cream",
+            "Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Oversized button-down shirt, Striped knit sweater",
+        "bottom_garment_type": "Wide-leg cropped trousers",
+        "footwear_type": "Ballet flats",
+        "accessories": [
+            "Small structured handbag",
+            "Delicate necklace"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Striped knit sweater"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://ourfashiondiarysl.wordpress.com/",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "High voluminous textured bun/updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Red",
+            "Green",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Strapless sundress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Eyeglasses",
+            "Smartphone",
+            "Nail polish",
+            "Earrings"
+        ],
+        "patterns": [
+            "Mosaic",
+            "Geometric",
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing for a selfie, playful",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Reddish-brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, vibrant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The patterned dresses"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://ourfashiondiarysl.wordpress.com/",
+        "clothing_style": "Edgy Western",
+        "hairstyle": "Long, wavy reddish-brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver",
+            "Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Strapless crop top, One-shoulder striped crop top",
+        "bottom_garment_type": "Shiny form-fitting pants",
+        "footwear_type": "Cowboy boots",
+        "accessories": [
+            "Cowboy hat",
+            "Sunglasses",
+            "Choker necklace",
+            "Wristband"
+        ],
+        "patterns": [
+            "Solid",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Shiny",
+            "Smooth"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Reddish-brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Rodeo Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Shiny pants and cowboy hats"
+    },
+    {
+        "date_scraped": "2026-08-14",
+        "source_url": "https://ourfashiondiarysl.wordpress.com/",
+        "clothing_style": "Western Chic",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Dark Grey",
+            "Gold",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Strapless crop top",
+        "bottom_garment_type": "Faux leather skinny pants",
+        "footwear_type": "Cowboy boots",
+        "accessories": [
+            "Cowboy hats",
+            "Sunglasses",
+            "Choker necklaces",
+            "Wrist cuffs",
+            "Belts with ornate buckles"
+        ],
+        "patterns": [
+            "Solid",
+            "Striped",
+            "Embroidered"
+        ],
+        "fabric_textures": [
+            "Faux leather",
+            "Smooth knit",
+            "Felt"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, interacting with horses",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Reddish-brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Rodeo Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Shiny faux leather pants and cowboy hats"
+    }
+]
