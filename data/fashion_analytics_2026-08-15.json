@@ -1,0 +1,548 @@
+[
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Professional, Wellness-focused",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Shirt"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual Professional",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing and receiving a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing and professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being administered"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Light Brown",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Mandala forearm tattoo",
+            "Gold hoop earring",
+            "Gold stud earring"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light Brown/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing and professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The herbal compress being applied to the eye"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual, Festival Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Halter-neck dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Beverage can"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Lightweight synthetic"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Clear sky",
+        "pose_or_activity": "Enjoying event, looking up, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, Relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal blue halter-neck dress"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual Festival",
+        "hairstyle": "Short, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Enjoying event",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, festive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Blue halter-neck top"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Festival Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Earrings",
+            "Beverage can"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Looking up, smiling, enjoying a concert",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, relaxed, festive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Blue halter neck top"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://insideoutstyleblog.com",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Multi-colored",
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin button-up shirt",
+        "bottom_garment_type": "Patterned midi skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Floral/Abstract",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Textured Weave",
+            "Velvet"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, smiling, holding fabric",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Grey",
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Vibrant blue satin shirt"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://insideoutstyleblog.com",
+        "clothing_style": "Polished Casual",
+        "hairstyle": "Short bob, smooth",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Pink",
+            "Purple",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin blouse",
+        "bottom_garment_type": "Patterned skirt",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Abstract",
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Grey",
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Vibrant blue satin blouse"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://insideoutstyleblog.com",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short Straight Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Pink",
+            "Purple",
+            "White",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin Button-up Shirt",
+        "bottom_garment_type": "Patterned Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Multi-colored Abstract Pattern"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Smooth",
+            "Soft"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver",
+        "brand_mentions": [
+            "Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal Blue Satin Shirt"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://offbeatlook.com",
+        "clothing_style": "Streetwear",
+        "hairstyle": "Long, curly/kinky",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Septum piercing",
+            "Choker",
+            "Shark tooth necklace",
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Green",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Vibrant green curly hair"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://offbeatlook.com",
+        "clothing_style": "Casual Streetwear",
+        "hairstyle": "Long, curly, dyed green fading to light green/blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Green",
+            "Blue",
+            "White",
+            "Yellow",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim jacket, T-shirt, Crew-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold chain necklace",
+            "Septum piercing",
+            "Nostril piercing",
+            "Black choker necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips (left), Natural (right)",
+        "hair_color": "Green (left), Faded green/Blonde (right)",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Expressive, Offbeat",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Dyed green hair"
+    },
+    {
+        "date_scraped": "2026-08-15",
+        "source_url": "https://offbeatlook.com",
+        "clothing_style": "Edgy Casual",
+        "hairstyle": "Long, voluminous, tightly curled, vibrant red",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Black",
+            "Grey",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Crew-neck T-shirt, Moto Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Layered necklace",
+            "Septum piercing"
+        ],
+        "patterns": [
+            "Solid",
+            "Quilted"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Cotton",
+            "Metal"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Vibrant, confident, edgy",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Vibrant red curly hair"
+    }
+]
