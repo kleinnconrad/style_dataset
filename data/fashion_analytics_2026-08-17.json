@@ -1,0 +1,484 @@
+[
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://whatiworetoday.livejournal.com/",
+        "clothing_style": "Historical Formal (Regency/Victorian Riding Attire)",
+        "hairstyle": "Short",
+        "gender": "Male",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tailcoat",
+        "bottom_garment_type": "Fitted trousers",
+        "footwear_type": "Riding boots",
+        "accessories": [
+            "Top hat",
+            "Riding crop"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth wool",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "setting": "Nature",
+        "seasonality": "Unclear",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Standing, interacting with a fallen horse",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Formal, historical, dramatic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "The man's top hat and the interaction with the horse"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://whatiworetoday.livejournal.com/",
+        "clothing_style": "Costume",
+        "hairstyle": "Long, straight hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Police cap",
+            "Fingerless glove"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Leather",
+            "Metal",
+            "Fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, pointing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Police cap"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://whatiworetoday.livejournal.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length curly hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Purple",
+            "Black",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patterned Tunic Dress",
+        "bottom_garment_type": "Opaque Tights",
+        "footwear_type": "Over-the-knee Boots",
+        "accessories": [
+            "Earrings",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Patterned Tunic Dress"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Long, straight, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt, T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Camera"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Linen",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, holding a camera",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Subject's face and camera"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Brown",
+            "Navy",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved T-shirt",
+        "bottom_garment_type": "Plaid midi skirt",
+        "footwear_type": "White low-top sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Necklace",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Plaid midi skirt"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long, straight, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved T-shirt",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing casually",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://sewdiy.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, curly, dark",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Green",
+            "Dark Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Crew-neck Sweatshirt with Kangaroo Pocket",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fleece",
+            "Ribbed Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Oversized",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [
+            "Sew DIY"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable, Relaxed",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Dark green oversized sweatshirt"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://fatshionista.livejournal.com/",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Shoulder-length wavy with subtle pink/purple highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Light Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved scoop neck top",
+        "bottom_garment_type": "Tulle skirt, Leggings",
+        "footwear_type": "Ballet flats",
+        "accessories": [
+            "Glasses",
+            "Pendant necklace",
+            "Harry Potter book"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Tulle",
+            "Cotton",
+            "Smooth synthetic"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Mild Indoor",
+        "pose_or_activity": "Standing, holding a book",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde with pink/purple highlights",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "White voluminous tulle skirt"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://fatshionista.livejournal.com/",
+        "clothing_style": "Feminine Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Grey",
+            "Pink",
+            "Blue",
+            "Green",
+            "Peach",
+            "Yellow",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Graphic V-neck T-shirt",
+        "bottom_garment_type": "Floral A-line Skater Skirt",
+        "footwear_type": "Floral Ankle-Strap Sandals",
+        "accessories": [],
+        "patterns": [
+            "Floral",
+            "Text/Graphic Print"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven",
+            "Wood"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral A-line Skater Skirt"
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://stitchtowhere.livejournal.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, dark hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.3,
+        "image_url": null,
+        "top_garment_type": "T-shirt",
+        "bottom_garment_type": "Pants",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Unclear",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Standing",
+        "age_group": "Unidentifiable",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": null
+    },
+    {
+        "date_scraped": "2026-08-17",
+        "source_url": "https://stitchtowhere.livejournal.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Light Pink",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.1,
+        "image_url": null,
+        "top_garment_type": null,
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [],
+        "fabric_textures": [],
+        "clothing_fit": null,
+        "setting": "Unclear",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": null,
+        "age_group": "Unidentifiable",
+        "makeup_style": "Not visible",
+        "hair_color": null,
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": null,
+        "color_palette_type": "Pastel",
+        "layering_complexity": null,
+        "focal_point": null
+    }
+]
