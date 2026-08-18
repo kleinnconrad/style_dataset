@@ -1,0 +1,793 @@
+[
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://styleandminimalism.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Forearm tattoo",
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Button-up Shirt"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://styleandminimalism.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Serene",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The treatment tool on the client's eye"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://styleandminimalism.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton",
+            "Terry cloth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, Professional, Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being performed"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://poplinstyle.com/blog/",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Medium-length wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Black",
+            "White",
+            "Light Grey",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt, Denim Jacket",
+        "bottom_garment_type": "Striped Midi Skirt",
+        "footwear_type": "Mary Jane Flats",
+        "accessories": [
+            "Small Handbag"
+        ],
+        "patterns": [
+            "Striped",
+            "Graphic Print"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful Casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Red Mary Jane Flats"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://poplinstyle.com/blog/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Shoulder-length wavy hair with highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
+            "White",
+            "Red",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Striped Midi Skirt",
+        "footwear_type": "Mary Jane Flats",
+        "accessories": [
+            "Denim Jacket",
+            "Small Clutch"
+        ],
+        "patterns": [
+            "Striped",
+            "Graphic"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful and comfortable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Red Mary Jane flats"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://poplinstyle.com/blog/",
+        "clothing_style": "Contemporary Casual",
+        "hairstyle": "Long, wavy, center-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Dark Brown",
+            "Reddish Brown",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Crew-neck Sweater",
+        "bottom_garment_type": "Abstract Patterned Skirt",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid",
+            "Ombr\u00e9/Gradient",
+            "Abstract Swirl"
+        ],
+        "fabric_textures": [
+            "Boucl\u00e9 Knit",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Earthy Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Textured Ombr\u00e9 Sweater"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://www.styledumonde.com/",
+        "clothing_style": "High Fashion, Avant-garde",
+        "hairstyle": "Wet-look, slicked back, medium length",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Cream",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit turtleneck sweater",
+        "bottom_garment_type": "Black trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earrings",
+            "Rings",
+            "Black embellished handbag",
+            "Wide belt with padlock buckle"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed knit",
+            "Ruffled fabric",
+            "Satin",
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural glam",
+        "hair_color": "Brunette with highlights",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Glamorous, Avant-garde",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "White ruffled jacket"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://www.styledumonde.com/",
+        "clothing_style": "High Fashion",
+        "hairstyle": "Slicked back low bun",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Cream",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Turtleneck sweater",
+        "bottom_garment_type": "Fitted trousers",
+        "footwear_type": "Heels",
+        "accessories": [
+            "Gold hoop earrings",
+            "Structured handbag",
+            "Wide belt with gold buckle"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Textured fabric",
+            "Knit",
+            "Patent leather",
+            "Metal"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Full glam",
+        "hair_color": "Brunette",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Glamorous, Bold",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Voluminous white textured coat"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://www.styledumonde.com/",
+        "clothing_style": "High Fashion",
+        "hairstyle": "Sleek wet-look bob with side part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Cream",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit turtleneck sweater",
+        "bottom_garment_type": "Tailored trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earrings",
+            "Rings",
+            "Structured handbag with gold hardware",
+            "Belt (partially visible)"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ruffled fabric",
+            "Ribbed knit",
+            "Satin",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural with defined eyes and lips",
+        "hair_color": "Brunette with blonde highlights",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Glamorous chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Ruffled white coat"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://awellstyledlife.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, Blonde (under hat)",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Blue",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White collared shirt, Black double-breasted jacket",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Fedora hat",
+            "Glasses",
+            "Fanny pack",
+            "Beaded necklace",
+            "Bracelet",
+            "Tote bag"
+        ],
+        "patterns": [
+            "Solid",
+            "Bandana pattern"
+        ],
+        "fabric_textures": [
+            "Wool blend",
+            "Cotton",
+            "Denim",
+            "Smooth leather",
+            "Canvas"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, Posing, Holding a bag",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable, Practical, Travel-ready, Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Fedora hat"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://awellstyledlife.com",
+        "clothing_style": "Travel Chic",
+        "hairstyle": "Short Blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Grey",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared button-down shirt, Lightweight jacket",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Slip-on shoes",
+        "accessories": [
+            "Fedora hat",
+            "Crossbody fanny pack",
+            "Tote bag",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Felt"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, holding a bag",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Fedora hat"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://awellstyledlife.com",
+        "clothing_style": "Travel Chic",
+        "hairstyle": "Short, light blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Blue",
+            "Black",
+            "Grey",
+            "Yellow"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White button-down shirt, Dark utility jacket",
+        "bottom_garment_type": "Dark blue straight-leg jeans",
+        "footwear_type": "White flat sneakers",
+        "accessories": [
+            "Felt fedora hat",
+            "Sunglasses",
+            "Crossbody fanny pack",
+            "Tote bag",
+            "Drink glass"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Felt",
+            "Twill"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, standing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Dark utility jacket and fedora hat"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://thoughtfulflamingo.com",
+        "clothing_style": "Haute Couture Gown",
+        "hairstyle": "Long Wavy Hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Off-white",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Sculptural Deep V-neck Bodice",
+        "bottom_garment_type": "Voluminous Tulle Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Tulle",
+            "Sheer"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Ethereal Elegance",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Sculptural Bodice and Flowing Skirt"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://lifewithlilred.com",
+        "clothing_style": "Feminine Casual",
+        "hairstyle": "Half-updo with floral headband",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Pink",
+            "Green",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Lace-trim camisole",
+        "bottom_garment_type": "Floral midi skirt",
+        "footwear_type": "Ballet flats",
+        "accessories": [
+            "Floral headband",
+            "Tattoos"
+        ],
+        "patterns": [
+            "Floral",
+            "Lace"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Woven",
+            "Lace",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Red",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Feminine",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral midi skirt"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://midlifechic.com",
+        "clothing_style": "Festival Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Gold",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Layered necklace",
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Silky"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Looking up, smiling, enjoying a concert",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, Relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal blue halter-neck top"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://midlifechic.com",
+        "clothing_style": "Festival",
+        "hairstyle": "Short, layered, styled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Drink can"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, enjoying event, holding a drink",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Festive, Relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Blue halter-neck top"
+    },
+    {
+        "date_scraped": "2026-08-18",
+        "source_url": "https://midlifechic.com",
+        "clothing_style": "Festival Chic",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Halter neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Beverage can"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Looking up, smiling, enjoying a concert",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The woman's face and blue top"
+    }
+]
