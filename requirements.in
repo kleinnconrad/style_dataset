@@ -6,3 +6,4 @@ google-auth-oauthlib
 python-dotenv==1.2.2
 tenacity==9.1.4
 Pillow==12.3.0
+pydantic

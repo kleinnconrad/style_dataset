@@ -41,6 +41,13 @@ class FashionRecord(BaseModel):
     patterns: list[str] = Field(default_factory=list, description="Patterns visible on the clothing, e.g., Striped, Floral, Plaid, Solid.")
     fabric_textures: list[str] = Field(default_factory=list, description="Visually inferred materials, e.g., Denim, Leather, Silk, Ribbed Knit.")
     clothing_fit: Optional[Literal["Oversized", "Fitted/Tight", "Regular/Tailored", "Mixed"]] = Field(default=None, description="The overall fit of the clothing.")
+    silhouette: Optional[Literal["Oversized", "Fitted/Bodycon", "A-line", "Boxy", "Hourglass", "Draped"]] = Field(default=None, description="The overall outline or shape of the outfit.")
+    hemline_length: Optional[Literal["Micro-mini", "Mini", "Midi", "Maxi", "Floor-length", "Ankle-crop"]] = Field(default=None, description="The hemline length for skirts, dresses, or shorts.")
+    neckline_style: Optional[Literal["Crew", "V-neck", "Turtleneck", "Off-the-shoulder", "Square", "Halter", "Asymmetric"]] = Field(default=None, description="The cut of the top/dress around the neck.")
+    waistline_rise: Optional[Literal["High-rise", "Mid-rise", "Low-rise"]] = Field(default=None, description="The rise of the bottoms.")
+    embellishments: list[str] = Field(default_factory=list, description="Visible decorative details, e.g., Ruffles, Fringe, Sequins, Embroidery.")
+    hardware_details: list[str] = Field(default_factory=list, description="Visible metal or structural components, e.g., Chains, Oversized buckles, Studs.")
+    material_finish: Optional[Literal["Matte", "Glossy/Patent", "Metallic", "Sheer/Translucent"]] = Field(default=None, description="The optical quality of the fabrics.")
 
     # Environmental & Contextual Data
     setting: Optional[Literal["Urban/Street", "Nature", "Indoors/Studio", "Event/Red Carpet", "Beach", "Unclear"]] = Field(default=None, description="The setting or background of the photo.")
@@ -52,6 +59,9 @@ class FashionRecord(BaseModel):
     age_group: Optional[Literal["Child", "Teen", "Young Adult", "Adult", "Senior", "Unidentifiable"]] = Field(default=None, description="Visually estimated age bracket.")
     makeup_style: Optional[str] = Field(default=None, description="Subject's makeup style, e.g., Natural, Bold lips, Smokey eye, Not visible.")
     hair_color: Optional[str] = Field(default=None, description="Subject's hair color, e.g., Blonde, Brunette, Black, Pink, Red.")
+    hair_parting: Optional[Literal["Middle part", "Side part", "Deep side part", "No part/Swept back", "Bangs/Fringe", "Unclear"]] = Field(default=None, description="How the hair is parted.")
+    hair_finish: Optional[Literal["Sleek/Smooth", "Textured/Messy", "Voluminous/Blowout", "Wet look", "Natural", "Unclear"]] = Field(default=None, description="The styling finish of the hair.")
+    hair_accessories: list[str] = Field(default_factory=list, description="Specific hair accessories like bows, clips, or headbands.")
 
     # Text-Derived Context
     brand_mentions: list[str] = Field(default_factory=list, description="Any fashion brands explicitly mentioned in the text context.")
@@ -62,3 +72,6 @@ class FashionRecord(BaseModel):
     color_palette_type: Optional[Literal["Monochrome", "Pastel", "Earth Tones", "Neon", "High Contrast", "Neutral"]] = Field(default=None, description="The overall color theory of the outfit.")
     layering_complexity: Optional[int] = Field(default=None, description="Scale from 1 (simple t-shirt) to 5 (heavy layering).")
     focal_point: Optional[str] = Field(default=None, description="The standout piece that draws the eye the most.")
+    occasion: Optional[Literal["Everyday casual", "Office/Professional", "Night out/Party", "Formal/Event", "Activewear/Athleisure"]] = Field(default=None, description="The perceived event or setting the outfit is intended for.")
+    subculture_aesthetic: Optional[str] = Field(default=None, description="Specific internet aesthetics or micro-trends, e.g., Y2K, Cottagecore, Gorpcore.")
+    color_contrast_strategy: Optional[Literal["Monochrome", "Color-blocking", "Neutral with a pop of color", "Tonal/Gradient", "Clashing/Maximalist"]] = Field(default=None, description="How colors are paired.")
