@@ -1,0 +1,586 @@
+[
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://poplinstyle.com/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Short Pixie Cut",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Teal",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Jacket/Blouse",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": "Pointed-toe Heels",
+        "accessories": [
+            "Dangling Earrings",
+            "Clutch Bag"
+        ],
+        "patterns": [
+            "Iridescent/Sequined"
+        ],
+        "fabric_textures": [
+            "Crisp Cotton",
+            "Structured Fabric",
+            "Metallic"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg Trousers"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://poplinstyle.com/",
+        "clothing_style": "Modern Chic",
+        "hairstyle": "Short Pixie Cut",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "Teal",
+            "Gold",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Collared Shirt",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": "Stiletto Heels",
+        "accessories": [
+            "Clutch Bag",
+            "Dangle Earrings"
+        ],
+        "patterns": [
+            "Solid",
+            "Iridescent/Sequined (clutch)"
+        ],
+        "fabric_textures": [
+            "Cotton Blend",
+            "Structured Fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated, Polished",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg Trousers"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Earrings",
+            "Beverage can"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Satin-like"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Clear Sky",
+        "pose_or_activity": "Enjoying outdoor concert",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Blonde/Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Festive, Joyful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal blue halter-neck top"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual, Festival",
+        "hairstyle": "Short, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Halter-neck top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Drink can"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, enjoying event",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Grey",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Festival vibe",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Blue halter-neck top"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://midlifechic.com/",
+        "clothing_style": "Casual Festival",
+        "hairstyle": "Short layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless V-neck top",
+        "bottom_garment_type": "Not visible (likely part of a dress or jumpsuit)",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Beverage can"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny, Clear sky",
+        "pose_or_activity": "Enjoying a concert/festival, looking up, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey/Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Joyful, Festive, Relaxed",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "The bright blue top and the subject's smiling face"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long wavy hair with a center part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Oval earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, fresh",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "White Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Oval Hoop Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight Woven Fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, Fresh, Summery",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow Floral Blouse"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved blouse",
+        "bottom_garment_type": "Fitted jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, casual",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned top"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://awake-smile.blogspot.com/",
+        "clothing_style": "Edgy Chic",
+        "hairstyle": "Sleek Wet-Look Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Black Leather Jacket",
+        "bottom_garment_type": "Sheer Tights",
+        "footwear_type": null,
+        "accessories": [
+            "Dangling Earrings",
+            "Multi-band Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Sheer"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Defined Eyes and Lips",
+        "hair_color": "Brunette",
+        "brand_mentions": [
+            "LOEWE",
+            "Cartier",
+            "Wolford"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated, Edgy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Black Leather Jacket"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://awake-smile.blogspot.com/",
+        "clothing_style": "Edgy Chic",
+        "hairstyle": "Short, sleek bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Leather peplum jacket",
+        "bottom_garment_type": "Sheer tights",
+        "footwear_type": null,
+        "accessories": [
+            "Drop earrings",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated, Edgy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leather peplum jacket"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://awake-smile.blogspot.com/",
+        "clothing_style": "Edgy High Fashion",
+        "hairstyle": "Short, slicked-back bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Oversized leather jacket with peplum waist",
+        "bottom_garment_type": "Sheer black tights",
+        "footwear_type": null,
+        "accessories": [
+            "Dangling earrings",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid",
+            "Sheer"
+        ],
+        "fabric_textures": [
+            "Leather",
+            "Sheer"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Defined eyes, Natural lips",
+        "hair_color": "Dark Brown",
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Edgy, sophisticated, powerful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Oversized leather jacket"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://oudailyfashion.wordpress.com/",
+        "clothing_style": "Festival Wear",
+        "hairstyle": "Long, Wavy, Blonde",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Tank Dress Bodice",
+        "bottom_garment_type": "Asymmetrical Mini Skirt",
+        "footwear_type": "Ugg Boots",
+        "accessories": [
+            "Small Handbag",
+            "Bracelet",
+            "Cocktail Glass"
+        ],
+        "patterns": [
+            "Solid",
+            "Textured"
+        ],
+        "fabric_textures": [
+            "Flowy Fabric",
+            "Suede",
+            "Sheepskin"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Dancing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Festival, Relaxed, Bohemian",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Flowy Mini Dress"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://oudailyfashion.wordpress.com/",
+        "clothing_style": "Festival",
+        "hairstyle": "Long, blonde, windblown",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Tan",
+            "Brown",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Mini dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Ugg boots",
+        "accessories": [
+            "Handbag",
+            "Bracelet",
+            "Drink"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight knit",
+            "Suede",
+            "Shearling",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Dancing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "brand_mentions": [
+            "Ugg"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Festive, Carefree",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Black asymmetrical mini dress"
+    }
+]
