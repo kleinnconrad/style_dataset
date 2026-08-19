@@ -1,107 +1,399 @@
 [
     {
         "date_scraped": "2026-08-19",
-        "source_url": "https://poplinstyle.com/",
-        "clothing_style": "Contemporary Chic",
-        "hairstyle": "Short Pixie Cut",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Medium to Long Wavy",
         "gender": "Female",
         "primary_colors": [
-            "Dark Blue",
-            "Teal",
+            "Blue",
+            "Black",
+            "Tan",
+            "White",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Ribbed Knit Cardigan",
+        "bottom_garment_type": "Wide-leg Jeans, Straight-leg Jeans",
+        "footwear_type": "Flip-flops, Pointed-toe Slingback Flats",
+        "accessories": [
+            "Layered necklaces",
+            "Laptop",
+            "Handbag",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid",
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Ribbed knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Posing, Interacting with laptop",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print shoes",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Shoulder-length, one straight with side part, one wavy with middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Cardigan, T-shirt",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": "Flip-flops, Flats",
+        "accessories": [
+            "Watch",
+            "Laptop"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Knit",
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Sitting, Posing, Consulting",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, approachable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The interaction between the two women",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Long, layered, with a mix of straight and soft waves",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Tan",
+            "Light Green",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer, Collared shirt, T-shirt",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": "Flip-flops, Pointed-toe flats",
+        "accessories": [
+            "Necklace",
+            "Laptop"
+        ],
+        "patterns": [
+            "Solid",
+            "Leopard"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Woven",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Sitting, interacting",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, collaborative",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The laptop and the interaction between the two women",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, bob-length, with a side part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey",
+            "Black",
+            "Navy"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Fanny pack",
+            "Fedora hat",
+            "Sunglasses",
+            "Tote bag",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Knit",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons",
+            "Zippers"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The hat and sunglasses",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Grey",
+            "Navy",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Fedora hat",
+            "Sunglasses",
+            "Fanny pack",
+            "Tote bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, swept back (under hat)",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "White button-down shirt",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Fedora hat",
+            "Sunglasses",
+            "Belt",
+            "Fanny pack",
+            "Tote bag",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Felt"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Belt buckle"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde/Grey",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Festival Chic",
+        "hairstyle": "Short, layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
             "Gold"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Cropped Jacket/Blouse",
-        "bottom_garment_type": "Wide-leg Trousers",
-        "footwear_type": "Pointed-toe Heels",
-        "accessories": [
-            "Dangling Earrings",
-            "Clutch Bag"
-        ],
-        "patterns": [
-            "Iridescent/Sequined"
-        ],
-        "fabric_textures": [
-            "Crisp Cotton",
-            "Structured Fabric",
-            "Metallic"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Urban/Street",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Walking confidently",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Blonde",
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Sophisticated",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 2,
-        "focal_point": "Wide-leg Trousers"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://poplinstyle.com/",
-        "clothing_style": "Modern Chic",
-        "hairstyle": "Short Pixie Cut",
-        "gender": "Female",
-        "primary_colors": [
-            "Navy",
-            "Teal",
-            "Gold",
-            "Green"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Cropped Collared Shirt",
-        "bottom_garment_type": "Wide-leg Trousers",
-        "footwear_type": "Stiletto Heels",
-        "accessories": [
-            "Clutch Bag",
-            "Dangle Earrings"
-        ],
-        "patterns": [
-            "Solid",
-            "Iridescent/Sequined (clutch)"
-        ],
-        "fabric_textures": [
-            "Cotton Blend",
-            "Structured Fabric"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Urban/Street",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Walking confidently",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Blonde",
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Sophisticated, Polished",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 2,
-        "focal_point": "Wide-leg Trousers"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://midlifechic.com/",
-        "clothing_style": "Casual Chic",
-        "hairstyle": "Short Bob",
-        "gender": "Female",
-        "primary_colors": [
-            "Royal Blue"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.9,
         "image_url": null,
         "top_garment_type": "Halter-neck top",
         "bottom_garment_type": null,
@@ -109,8 +401,7 @@
         "accessories": [
             "Sunglasses",
             "Necklace",
-            "Earrings",
-            "Beverage can"
+            "Earrings"
         ],
         "patterns": [
             "Solid"
@@ -119,35 +410,48 @@
             "Smooth",
             "Satin-like"
         ],
-        "clothing_fit": "Regular/Tailored",
-        "setting": "Urban/Street",
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Halter",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
         "seasonality": "Summer",
-        "weather_conditions": "Sunny, Clear Sky",
-        "pose_or_activity": "Enjoying outdoor concert",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
         "age_group": "Adult",
         "makeup_style": "Natural",
         "hair_color": "Light Blonde/Grey",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
         "brand_mentions": [],
         "price_segment": "Unknown",
-        "sentiment_or_vibe": "Festive, Joyful",
-        "color_palette_type": "High Contrast",
+        "sentiment_or_vibe": "Joyful",
+        "color_palette_type": "Neutral",
         "layering_complexity": 1,
-        "focal_point": "Royal blue halter-neck top"
+        "focal_point": "Blue halter-neck top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
     },
     {
         "date_scraped": "2026-08-19",
-        "source_url": "https://midlifechic.com/",
-        "clothing_style": "Casual, Festival",
-        "hairstyle": "Short, layered",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered, swept back",
         "gender": "Female",
         "primary_colors": [
             "Blue",
             "Black",
-            "Grey"
+            "Silver"
         ],
         "is_trendsetter": false,
         "region": "US",
-        "confidence_score": 0.9,
+        "confidence_score": 0.95,
         "image_url": null,
         "top_garment_type": "Halter-neck top",
         "bottom_garment_type": null,
@@ -155,7 +459,7 @@
         "accessories": [
             "Sunglasses",
             "Necklace",
-            "Drink can"
+            "Can"
         ],
         "patterns": [
             "Solid"
@@ -164,37 +468,50 @@
             "Smooth knit"
         ],
         "clothing_fit": "Regular/Tailored",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Halter",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
         "setting": "Urban/Street",
         "seasonality": "Summer",
         "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing, enjoying event",
+        "pose_or_activity": "Posing",
         "age_group": "Adult",
-        "makeup_style": "Not visible",
-        "hair_color": "Grey",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
         "brand_mentions": [],
         "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cheerful, Festival vibe",
+        "sentiment_or_vibe": "Festive",
         "color_palette_type": "High Contrast",
         "layering_complexity": 1,
-        "focal_point": "Blue halter-neck top"
+        "focal_point": "Halter-neck top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
     },
     {
         "date_scraped": "2026-08-19",
-        "source_url": "https://midlifechic.com/",
-        "clothing_style": "Casual Festival",
-        "hairstyle": "Short layered bob",
+        "source_url": "https://www.midlifechic.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, swept-back",
         "gender": "Female",
         "primary_colors": [
             "Blue",
             "Grey",
-            "Brown"
+            "Black"
         ],
         "is_trendsetter": false,
         "region": "US",
-        "confidence_score": 0.95,
+        "confidence_score": 0.9,
         "image_url": null,
         "top_garment_type": "Sleeveless V-neck top",
-        "bottom_garment_type": "Not visible (likely part of a dress or jumpsuit)",
+        "bottom_garment_type": null,
         "footwear_type": null,
         "accessories": [
             "Sunglasses",
@@ -205,382 +522,268 @@
             "Solid"
         ],
         "fabric_textures": [
-            "Smooth fabric"
+            "Smooth"
         ],
         "clothing_fit": "Regular/Tailored",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
         "setting": "Urban/Street",
         "seasonality": "Summer",
-        "weather_conditions": "Sunny, Clear sky",
-        "pose_or_activity": "Enjoying a concert/festival, looking up, smiling",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
         "age_group": "Adult",
         "makeup_style": "Natural",
-        "hair_color": "Grey/Blonde",
+        "hair_color": "Grey",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
         "brand_mentions": [],
         "price_segment": "Unknown",
-        "sentiment_or_vibe": "Joyful, Festive, Relaxed",
+        "sentiment_or_vibe": "Festive",
         "color_palette_type": "High Contrast",
         "layering_complexity": 1,
-        "focal_point": "The bright blue top and the subject's smiling face"
+        "focal_point": "Blue top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
     },
     {
         "date_scraped": "2026-08-19",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long wavy hair with a center part",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White",
-            "Black"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Short-sleeved V-neck blouse",
-        "bottom_garment_type": "White jeans",
-        "footwear_type": null,
-        "accessories": [
-            "Oval earrings",
-            "Ring"
-        ],
-        "patterns": [
-            "Speckled"
-        ],
-        "fabric_textures": [
-            "Woven fabric",
-            "Denim"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Urban/Street",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing, smiling",
-        "age_group": "Young Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Black",
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cheerful, fresh",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Yellow patterned blouse"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, Wavy",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White",
-            "Black"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "V-neck Blouse",
-        "bottom_garment_type": "White Jeans",
-        "footwear_type": null,
-        "accessories": [
-            "Oval Hoop Earrings",
-            "Ring"
-        ],
-        "patterns": [
-            "Floral"
-        ],
-        "fabric_textures": [
-            "Lightweight Woven Fabric",
-            "Denim"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Nature",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing, Smiling",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Black",
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cheerful, Fresh, Summery",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Yellow Floral Blouse"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, wavy",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Short-sleeved blouse",
-        "bottom_garment_type": "Fitted jeans",
-        "footwear_type": null,
-        "accessories": [
-            "Hoop earrings"
-        ],
-        "patterns": [
-            "Floral"
-        ],
-        "fabric_textures": [
-            "Woven fabric",
-            "Denim"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Urban/Street",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing, smiling",
-        "age_group": "Young Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Black",
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cheerful, casual",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Yellow patterned top"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://awake-smile.blogspot.com/",
-        "clothing_style": "Edgy Chic",
-        "hairstyle": "Sleek Wet-Look Bob",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, sleek",
         "gender": "Female",
         "primary_colors": [
             "Black",
-            "Silver",
+            "White",
             "Brown"
         ],
         "is_trendsetter": false,
         "region": "US",
-        "confidence_score": 0.98,
+        "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Black Leather Jacket",
-        "bottom_garment_type": "Sheer Tights",
-        "footwear_type": null,
+        "top_garment_type": "Long-sleeve top",
+        "bottom_garment_type": "Wide-leg pants",
+        "footwear_type": "Flat sandals",
         "accessories": [
-            "Dangling Earrings",
-            "Multi-band Bracelet"
+            "Shoulder bag",
+            "Sunglasses"
         ],
         "patterns": [
             "Solid"
         ],
         "fabric_textures": [
-            "Leather",
-            "Sheer"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Indoors/Studio",
-        "seasonality": "Autumn",
-        "weather_conditions": "Overcast",
-        "pose_or_activity": "Posing",
-        "age_group": "Adult",
-        "makeup_style": "Defined Eyes and Lips",
-        "hair_color": "Brunette",
-        "brand_mentions": [
-            "LOEWE",
-            "Cartier",
-            "Wolford"
-        ],
-        "price_segment": "Luxury",
-        "sentiment_or_vibe": "Sophisticated, Edgy",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 2,
-        "focal_point": "Black Leather Jacket"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://awake-smile.blogspot.com/",
-        "clothing_style": "Edgy Chic",
-        "hairstyle": "Short, sleek bob",
-        "gender": "Female",
-        "primary_colors": [
-            "Black",
-            "Silver"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.98,
-        "image_url": null,
-        "top_garment_type": "Leather peplum jacket",
-        "bottom_garment_type": "Sheer tights",
-        "footwear_type": null,
-        "accessories": [
-            "Drop earrings",
-            "Bracelet"
-        ],
-        "patterns": [
-            "Solid"
-        ],
-        "fabric_textures": [
+            "Smooth knit",
+            "Linen",
             "Leather"
         ],
         "clothing_fit": "Mixed",
-        "setting": "Indoors/Studio",
-        "seasonality": "Autumn",
-        "weather_conditions": null,
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
         "pose_or_activity": "Posing",
         "age_group": "Adult",
         "makeup_style": "Natural",
-        "hair_color": "Dark Brown",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
         "brand_mentions": [],
-        "price_segment": "Luxury",
-        "sentiment_or_vibe": "Sophisticated, Edgy",
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
         "color_palette_type": "Neutral",
-        "layering_complexity": 2,
-        "focal_point": "Leather peplum jacket"
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg white pants",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Minimalist",
+        "color_contrast_strategy": "Neutral with a pop of color"
     },
     {
         "date_scraped": "2026-08-19",
-        "source_url": "https://awake-smile.blogspot.com/",
-        "clothing_style": "Edgy High Fashion",
-        "hairstyle": "Short, slicked-back bob",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Long, straight, middle part",
         "gender": "Female",
         "primary_colors": [
-            "Black",
-            "Silver"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.9,
-        "image_url": null,
-        "top_garment_type": "Oversized leather jacket with peplum waist",
-        "bottom_garment_type": "Sheer black tights",
-        "footwear_type": null,
-        "accessories": [
-            "Dangling earrings",
-            "Bracelets"
-        ],
-        "patterns": [
-            "Solid",
-            "Sheer"
-        ],
-        "fabric_textures": [
-            "Leather",
-            "Sheer"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Indoors/Studio",
-        "seasonality": "Autumn",
-        "weather_conditions": "Unclear",
-        "pose_or_activity": "Posing",
-        "age_group": "Adult",
-        "makeup_style": "Defined eyes, Natural lips",
-        "hair_color": "Dark Brown",
-        "brand_mentions": [],
-        "price_segment": "Luxury",
-        "sentiment_or_vibe": "Edgy, sophisticated, powerful",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 2,
-        "focal_point": "Oversized leather jacket"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://oudailyfashion.wordpress.com/",
-        "clothing_style": "Festival Wear",
-        "hairstyle": "Long, Wavy, Blonde",
-        "gender": "Female",
-        "primary_colors": [
-            "Black",
-            "Brown",
-            "Light Blue"
+            "Pale Yellow",
+            "Light Grey",
+            "Brown"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Sleeveless Tank Dress Bodice",
-        "bottom_garment_type": "Asymmetrical Mini Skirt",
-        "footwear_type": "Ugg Boots",
+        "top_garment_type": "Fitted Collared Shirt",
+        "bottom_garment_type": "Draped Maxi Skirt",
+        "footwear_type": null,
         "accessories": [
-            "Small Handbag",
-            "Bracelet",
-            "Cocktail Glass"
-        ],
-        "patterns": [
-            "Solid",
-            "Textured"
-        ],
-        "fabric_textures": [
-            "Flowy Fabric",
-            "Suede",
-            "Sheepskin"
-        ],
-        "clothing_fit": "Mixed",
-        "setting": "Nature",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Dancing",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Blonde",
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Festival, Relaxed, Bohemian",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 2,
-        "focal_point": "Flowy Mini Dress"
-    },
-    {
-        "date_scraped": "2026-08-19",
-        "source_url": "https://oudailyfashion.wordpress.com/",
-        "clothing_style": "Festival",
-        "hairstyle": "Long, blonde, windblown",
-        "gender": "Female",
-        "primary_colors": [
-            "Black",
-            "Tan",
-            "Brown",
-            "Blue"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 1.0,
-        "image_url": null,
-        "top_garment_type": "Mini dress",
-        "bottom_garment_type": null,
-        "footwear_type": "Ugg boots",
-        "accessories": [
-            "Handbag",
-            "Bracelet",
-            "Drink"
+            "Shoulder Bag"
         ],
         "patterns": [
             "Solid"
         ],
         "fabric_textures": [
-            "Lightweight knit",
+            "Satin",
             "Suede",
-            "Shearling",
-            "Woven"
+            "Flowy fabric"
         ],
         "clothing_fit": "Mixed",
-        "setting": "Urban/Street",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Dancing",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Blonde",
-        "brand_mentions": [
-            "Ugg"
+        "silhouette": "A-line",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned buckle"
         ],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Festive, Carefree",
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Draped Maxi Skirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Long, straight, sleek",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Light Grey",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": "Wide-leg draped skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Silk-like",
+            "Suede"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [],
+        "material_finish": null,
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless chic",
         "color_palette_type": "Neutral",
         "layering_complexity": 2,
-        "focal_point": "Black asymmetrical mini dress"
+        "focal_point": "Draped skirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-19",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Yellow",
+            "Light Grey",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Silky Button-up Shirt",
+        "bottom_garment_type": "Draped Maxi Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Shoulder Bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Silk/Satin",
+            "Suede",
+            "Flowy fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned hardware"
+        ],
+        "material_finish": "Sheer/Translucent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Draped maxi skirt and suede bag",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
     }
 ]
