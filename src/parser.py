@@ -168,9 +168,13 @@ async def scrape_and_process_url(url: str) -> List[Dict[str, Any]]:
     parsed_results = []
     
     async with AsyncWebCrawler(verbose=False) as crawler:
-        result = await crawler.arun(url=url, bypass_cache=True, magic=True)
-        
-        if not result.success or not result.media:
+        try:
+            result = await crawler.arun(url=url, bypass_cache=True, magic=True)
+        except Exception as e:
+            logger.error("Crawl4AI failed to fetch %s: %s", url, e)
+            return []
+            
+        if not getattr(result, 'success', False) or not getattr(result, 'media', None):
             return []
             
         valid_images = [img["src"] for img in result.media.get("images", []) if "src" in img and "logo" not in img.get("src", "").lower()][:3]
