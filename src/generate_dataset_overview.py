@@ -80,7 +80,20 @@ def generate_overview():
         "sentiment_or_vibe": "The aesthetic vibe described.",
         "color_palette_type": "The overall color theory of the outfit.",
         "layering_complexity": "Scale from 1 (simple) to 5 (heavy layering).",
-        "focal_point": "The standout piece that draws the eye."
+        "focal_point": "The standout piece that draws the eye.",
+        "silhouette": "The overall outline or shape of the outfit.",
+        "hemline_length": "The hemline length for bottoms.",
+        "neckline_style": "The cut of the top/dress around the neck.",
+        "waistline_rise": "The rise of the bottoms.",
+        "embellishments": "Visible decorative details.",
+        "hardware_details": "Visible metal or structural components.",
+        "material_finish": "The optical quality of the fabrics.",
+        "occasion": "Intended event or setting for the outfit.",
+        "subculture_aesthetic": "Specific internet aesthetics or micro-trends.",
+        "color_contrast_strategy": "How colors are paired.",
+        "hair_parting": "How the hair is parted.",
+        "hair_finish": "The styling finish of the hair.",
+        "hair_accessories": "Specific hair accessories."
     }
 
     # Generate Markdown Table
