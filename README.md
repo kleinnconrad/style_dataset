@@ -53,42 +53,45 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 ## Pipeline Architecture
 
 ```mermaid
-flowchart LR
-    Main[main.py<br>Pipeline Orchestrator]
-
-    Main -->|1. Init| Disc
-
-    subgraph Phase1 [1. Discovery Phase]
-        direction TB
-        Disc[discovery.py] --> GemSearch{{Gemini Search<br>Dynamic URL Discovery}}
-    end
-
-    GemSearch -->|Target URLs| Parse
-
-    subgraph Phase2 [2. Extraction Phase]
-        direction TB
-        Parse[parser.py] --> Crawl[Crawl4AI<br>Anti-bot bypass]
-        Crawl --> Filter[Filter Logos &<br>Select Top 3 Images]
-        Filter --> Vision{{Gemini 2.5 Flash<br>Vision Analysis}}
-        Vision --> Schema{schema.py<br>Is Valid Outfit?}
-        Schema -->|No: Discard| Discard([Skip])
-    end
-
-    Schema -->|Yes: FashionRecord| Store
-
-    subgraph Phase3 [3. Storage Phase]
-        direction TB
-        Store[storage.py] --> Git[(GitHub 'data/' Folder)]
-        Store --> Local[(Local Downloads)]
-    end
-
-    classDef script fill:#2b3137,stroke:#24292e,stroke-width:2px,color:#fff;
-    classDef model fill:#1a73e8,stroke:#1558d6,stroke-width:2px,color:#fff;
-    classDef logic fill:#005cc5,stroke:#004491,stroke-width:2px,color:#fff;
+sequenceDiagram
+    participant Action as GitHub Actions
+    participant Main as main.py
+    participant Disc as discovery.py
+    participant Parse as parser.py
+    participant Crawl as Crawl4AI
+    participant Gemini as Gemini API
+    participant Store as storage.py
     
-    class Main,Disc,Parse,Store,Schema script;
-    class GemSearch,Vision model;
-    class Crawl,Filter,Git,Local logic;
+    Action->>Main: Trigger daily run
+    activate Main
+    
+    loop Max 3 runs (until > 10 items)
+        Main->>Disc: discover_targets()
+        activate Disc
+        Disc->>Gemini: Search web for blogs
+        Gemini-->>Disc: Return URLs
+        Disc-->>Main: List of target URLs
+        deactivate Disc
+        
+        loop For each URL
+            Main->>Parse: scrape_and_process_url(url)
+            activate Parse
+            Parse->>Crawl: Fetch webpage & extract images
+            Crawl-->>Parse: HTML text & filtered images
+            Parse->>Gemini: Vision analysis (schema.py)
+            Gemini-->>Parse: Validated outfit JSON
+            Parse-->>Main: List of FashionRecords
+            deactivate Parse
+        end
+    end
+    
+    Main->>Store: store_dataset(aggregated_dataset)
+    activate Store
+    Store-->>Main: Save to disk
+    deactivate Store
+    
+    Main-->>Action: Pipeline complete
+    deactivate Main
 ```
 
 ## What It Scrapes
