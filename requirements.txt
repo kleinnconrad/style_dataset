@@ -56,10 +56,6 @@ click==8.4.2
     #   unclecode-litellm
 click-log==0.4.0
     # via alphashape
-colorama==0.4.6
-    # via
-    #   click
-    #   tqdm
 crawl4ai==0.9.2
     # via -r requirements.in
 cryptography==49.0.0
@@ -103,7 +99,7 @@ google-auth-httplib2==0.4.1
     #   google-api-python-client
 google-auth-oauthlib==1.4.0
     # via -r requirements.in
-google-genai==2.17.0
+google-genai==2.18.1
     # via -r requirements.in
 googleapis-common-protos==1.75.0
     # via google-api-core
