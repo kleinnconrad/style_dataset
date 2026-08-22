@@ -1,0 +1,764 @@
+[
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://marissawearsanoutfit.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, natural",
+        "gender": "Female",
+        "primary_colors": [
+            "Fuchsia",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sleeveless maxi dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Smartphone",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": "A-line",
+        "hemline_length": "Maxi",
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [
+            "Tiers"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The fuchsia maxi dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://marissawearsanoutfit.com/",
+        "clothing_style": "Casual, Western-inspired",
+        "hairstyle": "Long, wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Tan",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim mini dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Cowboy boots",
+        "accessories": [
+            "Sunglasses",
+            "Pendant necklace",
+            "Insulated tumbler",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid",
+            "Stitching"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Mini",
+        "neckline_style": "Square",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [
+            "Sunglasses"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Cowboy boots",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Western",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short layered bob with side-swept bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Blue",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved polo shirt, Denim jacket",
+        "bottom_garment_type": "Slim-fit jeans",
+        "footwear_type": "Platform sneakers",
+        "accessories": [
+            "Glasses",
+            "Silver bracelet",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Metal buttons",
+            "Laces"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Red polo shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Blue",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Polo shirt, Denim jacket",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Smartphone"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Metal buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Red polo shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, layered blonde bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Blue",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Polo shirt, Denim jacket",
+        "bottom_garment_type": "Slim-fit jeans",
+        "footwear_type": "Slip-on sneakers",
+        "accessories": [
+            "Smartphone"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Metal buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Everyday chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Red polo shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.insideoutstyleblog.com/",
+        "clothing_style": "Professional Chic",
+        "hairstyle": "Short, sleek bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Pink",
+            "White",
+            "Purple"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin button-up shirt",
+        "bottom_garment_type": "Patterned skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Watch",
+            "Rings"
+        ],
+        "patterns": [
+            "Floral/Abstract"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Velvet"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident, Stylish",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Vibrant blue satin shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.insideoutstyleblog.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Short, sleek, side-parted bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Royal Blue",
+            "Pink",
+            "Purple",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Satin Blouse",
+        "bottom_garment_type": "Patterned Skirt",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Abstract Floral",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Silver/Grey",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Imogen Lamport's Inside Out Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Royal blue satin blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Professional Minimalist",
+        "hairstyle": "Medium-length, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Buttons"
+        ],
+        "hardware_details": [
+            "Silver-toned button rims"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Polished",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Silver-rimmed black buttons",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, layered, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Plum",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold layered necklace",
+            "Gold hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, pointing upwards",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and pointing gesture",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://ericaballstyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, straight/slightly wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Floral V-neck blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Floral blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The treatment being administered",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [
+            "Chest pockets with flaps"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Administering a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Calm",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The treatment being administered",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-22",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium, Neat",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Stitching details"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Light blue chambray shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
