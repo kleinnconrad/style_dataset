@@ -1,0 +1,909 @@
+[
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Unclear",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The treatment being performed",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Unclear",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Facial treatment",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual/Workwear",
+        "hairstyle": "Short/Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Practitioner's chambray shirt and tattoo",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.poplinstyle.com/blog",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, loose waves",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Black",
+            "White",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Pleated midi skirt",
+        "footwear_type": "Mary Jane flats",
+        "accessories": [
+            "Small clutch bag"
+        ],
+        "patterns": [
+            "Striped",
+            "Graphic print"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, comfortable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Red Mary Jane shoes",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.poplinstyle.com/blog",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length, Wavy, Layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Blue",
+            "Black",
+            "White",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Smocked-waist Midi Skirt",
+        "footwear_type": "Mary Jane Flats",
+        "accessories": [
+            "Handbag/Clutch"
+        ],
+        "patterns": [
+            "Striped",
+            "Graphic print",
+            "Polka dots"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Smocking"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Casual Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped midi skirt and red Mary Jane flats",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.poplinstyle.com/blog",
+        "clothing_style": "Contemporary Casual",
+        "hairstyle": "Long, wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Dark Brown",
+            "Mauve",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Textured Knit Sweater",
+        "bottom_garment_type": "Abstract Patterned Trousers",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Abstract",
+            "Gradient"
+        ],
+        "fabric_textures": [
+            "Boucl\u00e9 Knit",
+            "Textured Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Textured brown sweater",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White pants",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled",
+            "Abstract floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved blouse",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "A-line",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "White Pants",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Woven fabric",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://bjonesstyle.com",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim Jacket",
+        "bottom_garment_type": "Textured Skirt",
+        "footwear_type": "Mixed (High Heels, Boots, Flats, Sandals)",
+        "accessories": [
+            "Rings",
+            "Nail polish",
+            "Embellished ankle straps"
+        ],
+        "patterns": [
+            "Embossed",
+            "Embroidered",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Textured fabric",
+            "Satin",
+            "Patent Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [
+            "Embroidery",
+            "Ruffles",
+            "Bows",
+            "Rhinestones"
+        ],
+        "hardware_details": [
+            "Lace-up eyelets"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": null,
+        "hair_parting": null,
+        "hair_finish": null,
+        "hair_accessories": [],
+        "brand_mentions": [
+            "B. Jones Style",
+            "Stuart Weitzman",
+            "Sam Edelman"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Collection of shoes",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://bjonesstyle.com",
+        "clothing_style": "Eclectic Chic",
+        "hairstyle": "Unclear",
+        "gender": "Female",
+        "primary_colors": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Denim Jacket",
+        "bottom_garment_type": "Full Skirt",
+        "footwear_type": "Pointed-toe heels",
+        "accessories": [
+            "Ring",
+            "Nail polish",
+            "Gold chain embellishments"
+        ],
+        "patterns": [
+            "Embossed/Jacquard",
+            "Embroidered"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Textured Woven",
+            "Satin",
+            "Patent Leather",
+            "Suede"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [
+            "Gold embroidery"
+        ],
+        "hardware_details": [
+            "Gold chain"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": null,
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Yellow satin heels",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://bjonesstyle.com",
+        "clothing_style": "Eclectic Maximalist",
+        "hairstyle": "Short Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Green",
+            "Purple",
+            "Blue",
+            "Red",
+            "White",
+            "Yellow",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chunky Knit Sweater",
+        "bottom_garment_type": "Wide-leg Patterned Pants",
+        "footwear_type": "Sandals",
+        "accessories": [
+            "Studded belt",
+            "Sunglasses",
+            "Beanie",
+            "Earrings",
+            "Baseball bat",
+            "Cowboy hat",
+            "Scarf",
+            "Chain necklace"
+        ],
+        "patterns": [
+            "Geometric",
+            "Floral",
+            "Paisley",
+            "Plaid",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Turtleneck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Studs",
+            "Embroidery"
+        ],
+        "hardware_details": [
+            "Studs",
+            "Chain"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [
+            "Hair ties"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, Creative, Bold, Expressive",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "The bold patterns and color combinations",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Clashing/Maximalist"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://thefashionholicdiary.blogspot.com/",
+        "clothing_style": "Evening Wear",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Emerald Green",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cowl neck maxi dress",
+        "bottom_garment_type": "Maxi dress with slit",
+        "footwear_type": "Strappy high heels",
+        "accessories": [
+            "Mini handbag",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Draped",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Small buckle"
+        ],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Emerald green satin maxi dress",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://thefashionholicdiary.blogspot.com/",
+        "clothing_style": "Elegant",
+        "hairstyle": "Long, Straight, Sleek",
+        "gender": "Female",
+        "primary_colors": [
+            "Emerald Green",
+            "Dark Green"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Slip Dress",
+        "bottom_garment_type": "Maxi Dress",
+        "footwear_type": "Heels",
+        "accessories": [
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Silk"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Floor-length",
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Emerald green slip dress",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-08-26",
+        "source_url": "https://thefashionholicdiary.blogspot.com/",
+        "clothing_style": "Evening Wear",
+        "hairstyle": "Long",
+        "gender": "Female",
+        "primary_colors": [
+            "Emerald Green"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Maxi Dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Mini Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-tone hardware"
+        ],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Winter",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Emerald Green Maxi Dress",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    }
+]
