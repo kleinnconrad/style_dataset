@@ -84,7 +84,7 @@ fsspec==2026.6.0
     # via huggingface-hub
 google-api-core==2.31.0
     # via google-api-python-client
-google-api-python-client==2.198.0
+google-api-python-client==2.199.0
     # via -r requirements.in
 google-auth[requests]==2.56.2
     # via
@@ -99,7 +99,7 @@ google-auth-httplib2==0.4.1
     #   google-api-python-client
 google-auth-oauthlib==1.4.0
     # via -r requirements.in
-google-genai==2.18.1
+google-genai==2.19.0
     # via -r requirements.in
 googleapis-common-protos==1.75.0
     # via google-api-core
@@ -234,7 +234,7 @@ pyopenssl==26.3.0
     # via crawl4ai
 pyparsing==3.3.2
     # via httplib2
-python-dotenv==1.2.2
+python-dotenv==1.2.3
     # via
     #   -r requirements.in
     #   crawl4ai
