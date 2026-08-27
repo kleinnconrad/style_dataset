@@ -1,0 +1,879 @@
+[
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Red",
+            "Berry"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Simple top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": null,
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Face and necklaces",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-Up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earring",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Therapist's hands and client's face",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo",
+            "Small hoop earrings"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The herbal compress being applied to the client's eye",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earring",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Chest pockets with flaps",
+            "Contrast stitching"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://www.shelbeeontheedge.com/",
+        "clothing_style": "Casual, Eclectic",
+        "hairstyle": "Long, wavy blonde hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Brown",
+            "Green",
+            "Orange",
+            "Red",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": "Cropped pants",
+        "footwear_type": "Pointed-toe flats",
+        "accessories": [
+            "Scarf",
+            "Beaded necklace",
+            "Glasses"
+        ],
+        "patterns": [
+            "Abstract",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven",
+            "Beaded"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Patch pockets"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable, Eclectic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Scarf",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://www.shelbeeontheedge.com/",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "Long, pulled back, partially covered by hat",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Brown",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Midi dress",
+        "bottom_garment_type": "Midi dress",
+        "footwear_type": "Ankle boots",
+        "accessories": [
+            "Straw hat",
+            "Round woven bag",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Linen",
+            "Straw",
+            "Rattan",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Lace detailing",
+            "Crochet detailing"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, rustic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Midi dress and straw hat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Cottagecore",
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://www.shelbeeontheedge.com/",
+        "clothing_style": "Bohemian, Rustic Casual",
+        "hairstyle": "Long, braided",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Beige",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved ruffled top",
+        "bottom_garment_type": "A-line midi skirt",
+        "footwear_type": "Cowboy boots",
+        "accessories": [
+            "Straw hat",
+            "Round woven bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Linen",
+            "Woven",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Cowboy boots and straw hat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Cottagecore",
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "http://therealellewoods.com/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Medium-length bob, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Taupe",
+            "Greige",
+            "Nude",
+            "Silver",
+            "Black",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless crew-neck top",
+        "bottom_garment_type": "Cropped wide-leg trousers",
+        "footwear_type": "Pointed-toe high heels",
+        "accessories": [
+            "Necklace",
+            "Cuff bracelet",
+            "Stacked bracelets",
+            "Ring",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Silver hardware"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Nude high heels with red soles",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "http://therealellewoods.com/",
+        "clothing_style": "Feminine Romantic Casual",
+        "hairstyle": "Medium-length, straight, side part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Pink",
+            "Green",
+            "Brown",
+            "Taupe"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral print romper",
+        "bottom_garment_type": "Floral print romper shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Chiffon",
+            "Ruffled fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Mini",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [
+            "Gold-tone chain"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Feminine, Romantic, Effortless chic",
+        "color_palette_type": "Pastel",
+        "layering_complexity": 1,
+        "focal_point": "Floral print romper",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "http://therealellewoods.com/",
+        "clothing_style": "Formal, Chic, Evening Wear",
+        "hairstyle": "Shoulder-length bob, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Deep Magenta",
+            "Berry"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Mini Dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Block Heel Sandals",
+        "accessories": [
+            "Clutch bag",
+            "Bracelet",
+            "Ring"
+        ],
+        "patterns": [
+            "Crochet knit pattern"
+        ],
+        "fabric_textures": [
+            "Crochet knit",
+            "Sheer mesh",
+            "Suede"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Mini",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant, Sophisticated",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 2,
+        "focal_point": "The intricate crochet mini dress",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://www.vintagefashionguild.org/forum/",
+        "clothing_style": "Vintage (1950s)",
+        "hairstyle": "Short, wavy, styled bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sheer wrap top",
+        "bottom_garment_type": "Full midi skirt with lace trim",
+        "footwear_type": "High-heeled pumps",
+        "accessories": [
+            "Pearl necklace",
+            "Pearl earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Lace",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Sheer",
+            "Woven",
+            "Lace"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Lace trim",
+            "Embroidery"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "RAYON",
+            "VFG FASHION PARADE",
+            "VINTAGE FASHION GUILD"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant, Classic, Vintage",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Full midi skirt with lace details",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "1950s Vintage",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://www.vintagefashionguild.org/forum/",
+        "clothing_style": "Vintage 1950s",
+        "hairstyle": "Short, wavy bob with side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Cream",
+            "Pastel Pink",
+            "Pastel Yellow",
+            "Pastel Blue",
+            "Pastel Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Wrap top",
+        "bottom_garment_type": "Full midi skirt with apron pocket",
+        "footwear_type": "Pumps",
+        "accessories": [
+            "Apron pocket (integrated)"
+        ],
+        "patterns": [
+            "Solid",
+            "Lace",
+            "Embroidered"
+        ],
+        "fabric_textures": [
+            "Rayon",
+            "Smooth fabric",
+            "Lace"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Lace trim",
+            "Embroidery"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Vintage Fashion Guild",
+            "VFG"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Classic, Elegant, Vintage",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Full midi skirt with apron pocket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Vintage 1950s",
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://www.vintagefashionguild.org/forum/",
+        "clothing_style": "Vintage 1950s",
+        "hairstyle": "Short, wavy bob, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sheer wrap blouse",
+        "bottom_garment_type": "Full midi skirt with lace details",
+        "footwear_type": "High-heeled pumps",
+        "accessories": [
+            "Pearl necklace",
+            "Pearl earrings"
+        ],
+        "patterns": [
+            "Lace",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Sheer",
+            "Woven",
+            "Lace"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Hourglass",
+        "hemline_length": "Midi",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Lace",
+            "Embroidery"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Vintage Fashion Guild"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant, Classic, Vintage",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Full midi skirt with lace details",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Vintage 1950s",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-27",
+        "source_url": "https://lilykitten.com/",
+        "clothing_style": "Vintage-inspired Casual",
+        "hairstyle": "Long, curly, voluminous",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Red",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Polka dot dress",
+        "bottom_garment_type": "Polka dot dress",
+        "footwear_type": null,
+        "accessories": [
+            "Heart-shaped sunglasses",
+            "Dangle earrings",
+            "Red belt",
+            "Ring",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Polka dot",
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned belt buckle",
+            "Gold-toned earrings"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, holding a dog",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful, cheerful, chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and the pug",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
