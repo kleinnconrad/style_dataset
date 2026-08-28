@@ -1,0 +1,603 @@
+[
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Brown buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Practitioner's chambray shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual Professional",
+        "hairstyle": "Unclear",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Turtleneck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Administering treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Unclear",
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Calm",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The light blue button-up shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Relaxed Professional",
+        "hairstyle": "Short, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo",
+            "Gold hoop earring"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Stitching details"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a facial treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on the eye",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Avant-garde Winter",
+        "hairstyle": "Long, straight with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Shaggy Fur Coat",
+        "bottom_garment_type": "Long Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Fur Ushanka Hat"
+        ],
+        "patterns": [
+            "Solid",
+            "Textured (fur)"
+        ],
+        "fabric_textures": [
+            "Shaggy Fur",
+            "Sheepskin",
+            "Smooth Fabric"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Natural fur texture"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Cold, Clear Sky",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Fur Ushanka Hat"
+        ],
+        "brand_mentions": [
+            "ROSEN",
+            "The Rosenrot"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Avant-garde, Winter Chic, Bold",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 4,
+        "focal_point": "The oversized shaggy fur coat and fur hat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "High Fashion Winter",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shaggy Fur Coat",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Fur Ushanka Hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fur",
+            "Shearling"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": "Midi",
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Clear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Editorial, Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "The Shaggy Fur Coat",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Eclectic Winter Fashion",
+        "hairstyle": "Long, straight with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Grey",
+            "Black",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Fur Coat",
+        "bottom_garment_type": "Long Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Ushanka hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shaggy fur",
+            "Curly fur",
+            "Smooth fur"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Oversized",
+        "hemline_length": "Maxi",
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Clear sky, Cold",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with a pop of color",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Dramatic, Winter Chic, Avant-garde",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Oversized fur coat",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "https://rodsmodblog.wordpress.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short, combed back, side part",
+        "gender": "Male",
+        "primary_colors": [
+            "Mustard Yellow",
+            "Light Blue",
+            "Grey",
+            "Dark Brown",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Linen Blazer",
+        "bottom_garment_type": "Tailored Trousers",
+        "footwear_type": "Derby Shoes",
+        "accessories": [
+            "Aviator Sunglasses",
+            "Tie",
+            "Pocket Square",
+            "Lapel Pin"
+        ],
+        "patterns": [
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Linen",
+            "Suede",
+            "Smooth Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Grey",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Dapper",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Mustard yellow linen blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Mod",
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "https://rodsmodblog.wordpress.com/",
+        "clothing_style": "Mod Smart Casual",
+        "hairstyle": "Short, swept back",
+        "gender": "Male",
+        "primary_colors": [
+            "Mustard Yellow",
+            "Light Blue",
+            "Grey",
+            "Dark Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Linen Blazer",
+        "bottom_garment_type": "Linen Trousers",
+        "footwear_type": "Suede Derby Shoes",
+        "accessories": [
+            "Sunglasses",
+            "Tie",
+            "Pocket Square",
+            "Lapel Pin"
+        ],
+        "patterns": [
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Linen",
+            "Suede",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Grey",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Mustard yellow linen blazer and blue mirrored sunglasses",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Mod",
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "https://rodsmodblog.wordpress.com/",
+        "clothing_style": "Mod-inspired Smart Casual",
+        "hairstyle": "Short, swept back",
+        "gender": "Male",
+        "primary_colors": [
+            "Mustard Yellow",
+            "Grey",
+            "Light Blue",
+            "Dark Brown",
+            "Purple"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Textured Blazer",
+        "bottom_garment_type": "Tailored Trousers",
+        "footwear_type": "Suede Loafers",
+        "accessories": [
+            "Sunglasses",
+            "Pocket Square",
+            "Watch"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Textured Wool/Linen Blend",
+            "Cotton",
+            "Wool Blend",
+            "Suede"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde/Grey",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Mustard Yellow Blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Mod",
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-08-28",
+        "source_url": "https://www.stylebee.ca/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chunky Knit Sweater",
+        "bottom_garment_type": "Denim Jeans",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Leaning over a table, examining architectural plans",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, comfortable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chunky Knit Sweater",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
