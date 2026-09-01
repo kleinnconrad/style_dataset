@@ -1,0 +1,798 @@
+[
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://lacarmina.com/blog/",
+        "clothing_style": "Alternative Casual",
+        "hairstyle": "Long, wavy with red highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Dark Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cut-out long-sleeved crop top",
+        "bottom_garment_type": "Patterned maxi skirt",
+        "footwear_type": "Sandals",
+        "accessories": [
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Cut-outs"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "LA Times Travel studios"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy, confident",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Cut-out crop top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Goth",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://lacarmina.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tunic dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Ankle boots",
+        "accessories": [
+            "Sunglasses",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Mini",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Adventurous",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black tunic dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://lacarmina.com/blog/",
+        "clothing_style": "Goth Casual",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved dress",
+        "bottom_garment_type": "Mini-dress",
+        "footwear_type": null,
+        "accessories": [
+            "Watch/Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "A-line",
+        "hemline_length": "Mini",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "Unclear",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Alternative",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Hand gesture and museum artifacts",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Goth",
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Shoulder bag",
+            "Watch",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons",
+            "Watch clasp",
+            "Bag clasp"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The overall clean and minimalist aesthetic",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://jessifrederick.com/",
+        "clothing_style": "Sporty Collegiate",
+        "hairstyle": "Medium length, swept back, textured",
+        "gender": "Male",
+        "primary_colors": [
+            "Navy",
+            "Cream",
+            "Grey",
+            "White",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Varsity Jacket",
+        "bottom_garment_type": "Sweatpants",
+        "footwear_type": null,
+        "accessories": [
+            "Football",
+            "Ring"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Wool",
+            "Leather",
+            "Cotton",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Embroidered patches"
+        ],
+        "hardware_details": [
+            "Snap buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "New Balance"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Sporty, Collegiate, Modern",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Varsity Jacket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Collegiate",
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://jessifrederick.com/",
+        "clothing_style": "Preppy, Sporty Casual",
+        "hairstyle": "Medium-length, natural, swept back",
+        "gender": "Male",
+        "primary_colors": [
+            "Navy",
+            "Cream",
+            "Grey",
+            "White",
+            "Red",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Varsity Jacket, Collared Shirt, Tie",
+        "bottom_garment_type": "Jogger Sweatpants",
+        "footwear_type": "Low-top Sneakers",
+        "accessories": [
+            "American Football"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Wool",
+            "Ribbed Knit",
+            "Cotton",
+            "Smooth Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": null,
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Patches"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "New Balance"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Sporty, Preppy, Collegiate",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Varsity jacket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Preppy",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://j_fashion.livejournal.com/",
+        "clothing_style": "Vibrant Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Pink",
+            "Orange",
+            "Green",
+            "Blue",
+            "Gold",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral Blouse",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Stacked Bracelets",
+            "Beaded Bracelets",
+            "Skull Charm Bracelets"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Smooth Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": null,
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [
+            "Skull charms",
+            "Beads"
+        ],
+        "hardware_details": [
+            "Gold-toned beads"
+        ],
+        "material_finish": "Matte",
+        "setting": "Unclear",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing to display accessories",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Stacked colorful bracelets",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://j_fashion.livejournal.com/",
+        "clothing_style": "Feminine Casual",
+        "hairstyle": "Long, natural, reddish-brown",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Yellow",
+            "Blue",
+            "Green",
+            "Pink",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Floral short-sleeved tunic",
+        "bottom_garment_type": "Yellow pants",
+        "footwear_type": null,
+        "accessories": [
+            "Statement necklace",
+            "Bracelets",
+            "Gold belt"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Metallic"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Belt buckle"
+        ],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Reddish-brown",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Fuchsia pink statement necklace",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://j_fashion.livejournal.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "Blue",
+            "Pink",
+            "Green",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Floral print blouse",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Stacked bracelets",
+            "Stud earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Beaded",
+            "Metallic"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": null,
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Beading"
+        ],
+        "hardware_details": [
+            "Gold-toned chains"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful, vibrant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Stacked bracelets",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Avant-garde Winter Fashion",
+        "hairstyle": "Long with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shaggy Fur Coat",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Fur Ushanka Hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shaggy Fur",
+            "Curly Fur",
+            "Suede"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Oversized",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Dramatic Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Shaggy Fur Coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Winter Fashion",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shaggy Fur Coat",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Fur hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fur",
+            "Shaggy fur"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Oversized",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Clear sky, Cold",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Unclear",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Dramatic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Shaggy fur coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Avant-garde Winter Chic",
+        "hairstyle": "Long, straight with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Faux Fur Coat",
+        "bottom_garment_type": "Dark Wide-leg Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Faux Fur Ushanka Hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Faux Fur",
+            "Shaggy Fur"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Sunny, Cold",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with blush",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Oversized Faux Fur Coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Avant-garde",
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-01",
+        "source_url": "https://www.extrapetite.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "High Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Brown",
+            "Cream",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Sunglasses",
+            "Handbag",
+            "Necklace",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Linen"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
