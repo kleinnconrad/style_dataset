@@ -1,0 +1,736 @@
+[
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://sewliberated.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, grey hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Beige",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cable Knit Cardigan",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Glasses"
+        ],
+        "patterns": [
+            "Cable knit",
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [
+            "Buttons"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Cable knit cardigan",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://sewliberated.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, grey hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Grey",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cable knit cardigan",
+        "bottom_garment_type": "Pants",
+        "footwear_type": null,
+        "accessories": [
+            "Eyeglasses"
+        ],
+        "patterns": [
+            "Cable knit",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Cable knit cardigan",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://sewliberated.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, grey hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "Cream",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Knit Cardigan",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Eyeglasses"
+        ],
+        "patterns": [
+            "Cable knit",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [
+            "Buttons"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Grey",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Knit Cardigan",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://trashtocouture.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight to wavy, side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Tan",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Leopard print cardigan, V-neck camisole",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": "Ankle boots",
+        "accessories": [
+            "Shoulder bag",
+            "Hoop earrings"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Chain strap"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print cardigan",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://trashtocouture.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, natural waves",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed Knit Turtleneck Sweater",
+        "bottom_garment_type": "Plaid Mini Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Flannel"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Mini",
+        "neckline_style": "Turtleneck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Self-fabric tie belt"
+        ],
+        "hardware_details": [
+            "Buttons",
+            "Chain"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, Casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Plaid mini skirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "DIY",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://fashionqueensdiary.com/",
+        "clothing_style": "Avant-garde Streetwear",
+        "hairstyle": "Long, wavy red hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Grey",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped bomber jacket, Turtleneck top",
+        "bottom_garment_type": "Denim jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Fedora hat",
+            "Leather gloves",
+            "Handbag",
+            "Watch"
+        ],
+        "patterns": [
+            "Abstract"
+        ],
+        "fabric_textures": [
+            "Textured",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Turtleneck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [
+            "Gold-toned zipper",
+            "Gold-toned handle"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Fashion-forward, Chic, Edgy",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Voluminous blue patterned jacket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://fashionqueensdiary.com/",
+        "clothing_style": "Street Style",
+        "hairstyle": "Long, wavy, voluminous red hair with middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Grey",
+            "Red",
+            "Olive Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Voluminous Puffed Sleeve Jacket",
+        "bottom_garment_type": "Light Wash Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Felt Hat",
+            "Leather Gloves",
+            "Chain Strap Handbag",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Felt",
+            "Shimmering Textured Fabric",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Voluminous Sleeves"
+        ],
+        "hardware_details": [
+            "Chain Strap"
+        ],
+        "material_finish": "Sheer/Translucent",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "hair_parting": "Middle part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Eclectic Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Voluminous Puffed Sleeve Jacket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://fashionqueensdiary.com/",
+        "clothing_style": "Avant-garde Street Style",
+        "hairstyle": "Long, wavy with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Silver",
+            "White",
+            "Red",
+            "Grey",
+            "Light Blue",
+            "Olive Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Voluminous Bomber Jacket, Turtleneck",
+        "bottom_garment_type": "Denim Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Fedora hat",
+            "Leather gloves",
+            "Structured handbag",
+            "Watch"
+        ],
+        "patterns": [
+            "Abstract print"
+        ],
+        "fabric_textures": [
+            "Metallic",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Turtleneck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [
+            "Gold-toned zipper",
+            "Gold-toned handle"
+        ],
+        "material_finish": "Metallic",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Avant-garde, Bold, Fashion-forward",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Voluminous blue and silver bomber jacket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://reneeruin.com/",
+        "clothing_style": "Rock",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Biker Jacket",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Hoop earrings",
+            "Dark nail polish"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Silver snaps",
+            "Zipper"
+        ],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Dramatic eye makeup",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Renee Ruin"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Biker jacket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Alternative",
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://reneeruin.com/",
+        "clothing_style": "Alternative",
+        "hairstyle": "Mixed (Long, Short, and Bearded)",
+        "gender": "Male",
+        "primary_colors": [
+            "Black",
+            "Dark Grey",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Vest, Blazer, Long Jacket, Long-sleeved top",
+        "bottom_garment_type": "Jeans/Trousers",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Matte Cotton",
+            "Wool Blend"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Dark",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Russian Circles"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Serious, Artistic, Brooding",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "The center person's face and blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length, natural waves",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Black",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped T-shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Crossbody bag"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Striped T-shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-03",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Low Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck T-shirt",
+        "bottom_garment_type": "Straight-leg denim jeans",
+        "footwear_type": "Leather loafers",
+        "accessories": [
+            "Crossbody bag",
+            "Gold necklace",
+            "Gold hoop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold hardware"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The overall clean and simple aesthetic",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
