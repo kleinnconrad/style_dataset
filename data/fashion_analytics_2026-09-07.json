@@ -1,0 +1,953 @@
+[
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Leather belt"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons",
+            "Buckle"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "White button-down shirt and blue jeans combination",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Minimalist fashion",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium length, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Light Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light Brown",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Chambray Button-up Shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Dark Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving and administering a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Facial treatment tool and hands",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Contrast stitching"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a beauty/wellness treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing/Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The hands performing the treatment",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://oneofastyle.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, sleek, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "White",
+            "Blue",
+            "Beige",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Handbag"
+        ],
+        "patterns": [
+            "Snakeskin"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Smooth woven",
+            "Velvet"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold chain"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Harvey Nichols",
+            "Charlotte Tilbury"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, approachable",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Pink knit top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://oneofastyle.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length straight hair with side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "White",
+            "Beige",
+            "Dark Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Handbag",
+            "Ring"
+        ],
+        "patterns": [
+            "Snakeskin print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fine knit",
+            "Woven cotton blend"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold chain (bag)"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Mild",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Harvey Nichols",
+            "Charlotte Tilbury",
+            "Albane McGuinness",
+            "ONE OF A STYLE"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Chic and professional",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Pink top and snakeskin handbag",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://oneofastyle.com",
+        "clothing_style": "Eclectic Chic",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Hot Pink",
+            "Black",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Blazer",
+        "bottom_garment_type": "Tiered Maxi Skirt",
+        "footwear_type": "Combat Boots",
+        "accessories": [
+            "Fedora hat",
+            "Gold hoop earrings",
+            "Bracelet",
+            "Watch"
+        ],
+        "patterns": [
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Crisp fabric",
+            "Smooth fabric",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Bow",
+            "Tiers"
+        ],
+        "hardware_details": [
+            "Lace-up",
+            "Metal"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ONE OF A STYLE"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Bold, Confident, Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Hot pink tiered skirt",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://extrapetite.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Brown",
+            "Cream",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Earrings",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Linen"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing/Sightseeing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://moodandclothes.com",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Pulled back bun/ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Boxy T-shirt/Top",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Smartwatch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "St. John Knit"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Minimalist, Comfortable",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The matching navy set",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://moodandclothes.com",
+        "clothing_style": "Minimalist, Casual",
+        "hairstyle": "Updo/Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Boxy short-sleeve top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "White sneakers",
+        "accessories": [
+            "Wireless earbuds",
+            "Smartwatch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "St. John Knit"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The matching navy set",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Minimalism",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://thefashionholicdiary.blogspot.com/",
+        "clothing_style": "Formal/Party Wear",
+        "hairstyle": "Long, wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Emerald Green",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Maxi Dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Strappy high-heeled sandals",
+        "accessories": [
+            "Mini handbag",
+            "Drop earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Small buckle on handbag"
+        ],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Emerald green maxi dress",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://thefashionholicdiary.blogspot.com/",
+        "clothing_style": "Party Wear",
+        "hairstyle": "Unclear",
+        "gender": "Female",
+        "primary_colors": [
+            "Emerald Green"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Maxi Slip Dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Heels",
+        "accessories": [
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Winter",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant Chic",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "The emerald green maxi slip dress",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://thefashionholicdiary.blogspot.com/",
+        "clothing_style": "Evening Wear",
+        "hairstyle": "Unclear",
+        "gender": "Female",
+        "primary_colors": [
+            "Emerald Green",
+            "Dark Green"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Maxi Slip Dress",
+        "bottom_garment_type": "Maxi Slip Dress",
+        "footwear_type": null,
+        "accessories": [
+            "Top-handle bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Silky"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Draped",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Small metallic hardware on bag"
+        ],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Winter",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": null,
+        "hair_color": null,
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "Emerald green slip dress",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Beige",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Tank top",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Glasses",
+            "Pearl stud earrings",
+            "Bracelet",
+            "Ring",
+            "Flip phone"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven",
+            "Smooth knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, Holding phone",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print blazer cuffs",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Professional Chic",
+        "hairstyle": "Short bob, sleek",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Shell top",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Eyeglasses",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Suiting fabric",
+            "Smooth knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blazer with leopard print cuffs",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-07",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Beige",
+            "Purple"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer, Blouse",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Eyeglasses",
+            "Smartphone",
+            "Ring"
+        ],
+        "patterns": [
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Printed fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Polished",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blazer with leopard print cuffs",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
