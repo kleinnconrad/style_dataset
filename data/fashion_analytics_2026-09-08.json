@@ -1,0 +1,908 @@
+[
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Calm",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The treatment being performed",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Recipient: Short/Medium, Swept back; Practitioner: Unclear, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Forearm tattoo",
+            "Small stud earring"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala tattoo"
+        ],
+        "fabric_textures": [
+            "Chambray/Denim-like cotton",
+            "Cotton jersey"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Small buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Lying down, receiving treatment; Performing treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being applied",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Short",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Tattoo"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton",
+            "Terry cloth"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being applied to the client's eye area",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "High Fashion Editorial",
+        "hairstyle": "Tight cornrows/braids, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Pink",
+            "Magenta",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Knit V-neck sweater and Voluminous high-neck blouse",
+        "bottom_garment_type": "Knit shorts and Ruched high-waist skirt/trousers",
+        "footwear_type": "Over-the-knee boots",
+        "accessories": [
+            "Gold hoop earrings",
+            "Gold bracelets",
+            "Light meter",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chunky knit",
+            "Smooth woven",
+            "Suede",
+            "Fluid drape"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Gathering",
+            "Ruching"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Editorial Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Voluminous pink blouse and over-the-knee boots",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "High Fashion",
+        "hairstyle": "Short, Braided",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Pink",
+            "Magenta"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse, High-neck Blouse",
+        "bottom_garment_type": "Mini skirt, High-waisted skirt",
+        "footwear_type": "Over-the-knee Boots",
+        "accessories": [
+            "Gold hoop earrings",
+            "Gold rings",
+            "Gold bangles",
+            "Smartphone",
+            "Binoculars"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Suede",
+            "Silk",
+            "Textured Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Draping",
+            "Gathering"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Draped high-neck blouse",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "Editorial Fashion",
+        "hairstyle": "Cornrows/Braids",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck sweater",
+        "bottom_garment_type": "Shorts",
+        "footwear_type": "Over-the-knee boots",
+        "accessories": [
+            "Hoop earrings",
+            "Bracelets",
+            "Light meter"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Suede"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Not applicable",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "RUSSH"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Sophisticated Chic",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 2,
+        "focal_point": "Over-the-knee boots",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned yellow blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy, Side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck blouse",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Button"
+        ],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Mustard Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Blouse",
+        "bottom_garment_type": "Fitted Pants",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Dark Blue",
+            "Burgundy"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped Double-breasted Blazer",
+        "bottom_garment_type": "Wide-leg Jeans",
+        "footwear_type": "Chunky Sneakers",
+        "accessories": [
+            "Eyeglasses",
+            "Bandana",
+            "Tote Bag",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Striped",
+            "Paisley"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned Buttons",
+            "Gold-toned Bag Clasp"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Striped Double-breasted Blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Navy Blue",
+            "Dark Blue",
+            "Burgundy",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped double-breasted blazer, Ribbed knit mock neck top",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Scarf",
+            "Glasses",
+            "Shoulder bag",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Striped",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed knit",
+            "Denim",
+            "Cotton blend"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Polished comfort",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Striped blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short bob, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Grey",
+            "White",
+            "Burgundy"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim shirt, Blazer",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Tote bag",
+            "Scarf",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Textured"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Woven",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Blazer and wide-leg jeans combination",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://vanessavaliente.com/blog/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Long, straight with slight wave",
+        "gender": "Female",
+        "primary_colors": [
+            "Coral",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Blazer",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Pearl headband"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Linen",
+            "Pearl"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [
+            "Pearls"
+        ],
+        "hardware_details": [
+            "Button"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [
+            "Headband"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Confident Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Oversized coral blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://vanessavaliente.com/blog/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Medium-length, straight with headband",
+        "gender": "Female",
+        "primary_colors": [
+            "Orange-red",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Blazer",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Headband"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Button"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Headband"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Orange-red blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-08",
+        "source_url": "https://vanessavaliente.com/blog/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Medium-length, straight to wavy, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Coral",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Blazer",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Pearl Headband"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Linen blend",
+            "Padded fabric",
+            "Pearls"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": null,
+        "embellishments": [
+            "Pearls"
+        ],
+        "hardware_details": [
+            "Button"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [
+            "Headband"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Oversized Coral Blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    }
+]
