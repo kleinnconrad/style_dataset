@@ -1,0 +1,435 @@
+[
+    {
+        "date_scraped": "2026-09-09",
+        "source_url": "https://www.petitesideofstyle.com/category/outfit",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Sleek bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Cream",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Jumpsuit",
+        "bottom_garment_type": "Cropped wide-leg pants",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Sunglasses",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Matte",
+            "Linen",
+            "Cotton blend"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Square",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles",
+            "Pearls"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Holiday",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Black ruffled jumpsuit",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-09",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Forearm tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Brown buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Performing a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment being applied",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-09",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Short/medium length, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Small hoop earrings",
+            "Small stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Receiving and administering a beauty treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on the eye",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-09",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Skin Tone"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earring",
+            "Mandala tattoo"
+        ],
+        "patterns": [
+            "Solid",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Receiving a wellness treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing/Wellness",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Herbal compress on the eye",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-09",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Artistic/Statement",
+        "hairstyle": "Not visible",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Red",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Kimono-style striped dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Belt"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Square",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Studs"
+        ],
+        "hardware_details": [
+            "Silver-toned buckle",
+            "Studs"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Unidentifiable",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Statement",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Striped dress",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-09",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Avant-garde",
+        "hairstyle": "Short, dyed red/orange, covered by a headwrap",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "Black",
+            "Red",
+            "Dark Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Gold patterned jacket over a black crew-neck top",
+        "bottom_garment_type": "Dark wash jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Headwrap",
+            "Statement brooch/necklace",
+            "Earrings"
+        ],
+        "patterns": [
+            "Abstract organic pattern"
+        ],
+        "fabric_textures": [
+            "Metallic",
+            "Textured",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Sculptural elements"
+        ],
+        "hardware_details": [],
+        "material_finish": "Metallic",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Red",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Unclear",
+        "hair_accessories": [
+            "Headwrap"
+        ],
+        "brand_mentions": [
+            "Issey Miyake"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Expressive, Joyful, Artistic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "The gold patterned jacket and statement brooch",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-09",
+        "source_url": "https://forestcityfashionista.blogspot.com/",
+        "clothing_style": "Eclectic Artistic",
+        "hairstyle": "Headwrap",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Red",
+            "Silver",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top, Open cardigan",
+        "bottom_garment_type": "Straight-leg pants",
+        "footwear_type": null,
+        "accessories": [
+            "Headwrap",
+            "Glasses",
+            "Long pendant necklace",
+            "Crossbody bag",
+            "Decorative pins"
+        ],
+        "patterns": [
+            "Striped",
+            "Grid"
+        ],
+        "fabric_textures": [
+            "Woven textile",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Decorative pins"
+        ],
+        "hardware_details": [
+            "Gold-toned buckle",
+            "Silver-toned necklace"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Unclear",
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [
+            "Headwrap"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Expressive, Artistic, Creative",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "The striped red and black cardigan and the statement necklace.",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": "Eclectic",
+        "color_contrast_strategy": "Color-blocking"
+    }
+]
