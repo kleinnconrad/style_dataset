@@ -1,0 +1,375 @@
+[
+    {
+        "date_scraped": "2026-09-13",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Casual Minimalist",
+        "hairstyle": "Long, straight, natural with middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Beige",
+            "White",
+            "Dark Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Trench coat over long-sleeve t-shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Tote bag",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Smooth woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-13",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Brown",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Loafers",
+        "accessories": [
+            "Leather belt",
+            "Watch",
+            "Necklace",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Belt buckle",
+            "Shirt buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The overall clean and minimalist aesthetic",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Minimalist",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-13",
+        "source_url": "https://lucycorsetry.com/",
+        "clothing_style": "Formal, Romantic, Fairytale",
+        "hairstyle": "Long, wavy, swept to side",
+        "gender": "Female",
+        "primary_colors": [
+            "Gold",
+            "Champagne",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Strapless Gown Bodice",
+        "bottom_garment_type": "Floor-length Gown Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Ornate hair comb",
+            "Delicate necklace"
+        ],
+        "patterns": [
+            "Floral embroidery"
+        ],
+        "fabric_textures": [
+            "Embroidered fabric",
+            "Sheer fabric",
+            "Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Floor-length",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Embroidery",
+            "Appliqu\u00e9s"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Kneeling",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Ornate hair comb"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Romantic, Ethereal",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "The gown and hair accessory",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": "Fairytale",
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-13",
+        "source_url": "https://ladyinviolet.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Green",
+            "White",
+            "Light Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Midi Dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Smartwatch"
+        ],
+        "patterns": [
+            "Gingham"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Nuuly"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Pastel",
+        "layering_complexity": 1,
+        "focal_point": "The gingham midi dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-13",
+        "source_url": "https://ladyinviolet.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, straight/wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Green",
+            "Beige",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sweater",
+        "bottom_garment_type": "Leggings",
+        "footwear_type": "Heels",
+        "accessories": [
+            "Clutch bag",
+            "Dangling earrings",
+            "Necklace",
+            "Bracelets"
+        ],
+        "patterns": [
+            "Solid",
+            "Floral",
+            "Abstract"
+        ],
+        "fabric_textures": [
+            "Velvet",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Ruffles",
+            "Tiers",
+            "Smocking"
+        ],
+        "hardware_details": [
+            "Zipper"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Mild/Clear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Velvet dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-13",
+        "source_url": "https://ladyinviolet.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Updo/Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patterned Blouse",
+        "bottom_garment_type": "Denim shorts",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Sunglasses",
+            "Watch",
+            "Necklace"
+        ],
+        "patterns": [
+            "Floral/Paisley"
+        ],
+        "fabric_textures": [
+            "Lightweight woven",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
