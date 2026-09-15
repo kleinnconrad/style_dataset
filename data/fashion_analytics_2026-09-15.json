@@ -1,0 +1,661 @@
+[
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Dark Blue",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved knit top",
+        "bottom_garment_type": "Midi A-line skirt",
+        "footwear_type": "White sneakers",
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The overall minimalist silhouette",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Minimalist",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Tied back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray button-up shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Turtleneck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a spa treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light Brown",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The treatment being performed",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short/Medium length, swept back (client); Unclear, likely pulled back (therapist)",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt (therapist); Crew-neck t-shirt (client)",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Mandala tattoo",
+            "Stud earring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Client receiving treatment, therapist performing treatment",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxing",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The facial treatment tool on the client's eye",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://www.styleandminimalism.com/",
+        "clothing_style": "Professional Casual",
+        "hairstyle": "Short/Medium, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Chambray Button-up Shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Tattoo (mandala design on forearm)"
+        ],
+        "patterns": [
+            "Solid",
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Chambray",
+            "Cotton"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Turtleneck",
+        "waistline_rise": null,
+        "embellishments": [
+            "Contrast stitching"
+        ],
+        "hardware_details": [
+            "Dark buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Performing a treatment",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Light brown",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Calm, Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The light blue chambray shirt of the practitioner",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://www.vintagefashionguild.org/forums/",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Updo",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Lace Cape over Formal Dress, Sleeveless Top",
+        "bottom_garment_type": "Full Skirt, Fitted Skirt",
+        "footwear_type": "Open-toe Heels",
+        "accessories": [
+            "Wide-brimmed Hat",
+            "Glasses",
+            "Rings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lace",
+            "Satin",
+            "Matte fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Floral Appliqu\u00e9"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Elegant, Sophisticated",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "The standing woman's formal dress and lace cape",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://www.vintagefashionguild.org/forums/",
+        "clothing_style": "Vintage Formal",
+        "hairstyle": "Short, styled; one with a hat",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Formal dress with lace bodice and cape",
+        "bottom_garment_type": "Full-length formal skirt",
+        "footwear_type": "Heels, Pumps",
+        "accessories": [
+            "Wide-brimmed hat",
+            "Glasses",
+            "Rings"
+        ],
+        "patterns": [
+            "Floral appliques",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Lace",
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Floral appliques",
+            "Lace trim"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Hat"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "The standing woman's light blue dress and black lace cape",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://beauticurve.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Long, wavy hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Off-white",
+            "Leopard print"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Pointed-toe heels",
+        "accessories": [
+            "Tote bag",
+            "Hoop earrings",
+            "Phone"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Leopard print shoes",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://jcathell.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Shoulder-length, wavy, side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "Dark Blue",
+            "Brown",
+            "Black",
+            "Silver",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck sweater",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Mary Jane flats",
+        "accessories": [
+            "Bucket bag",
+            "Sunglasses",
+            "Cuff bracelet",
+            "Earrings"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Suede"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Pom-pom"
+        ],
+        "hardware_details": [
+            "Studs",
+            "Silver bracelet"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [
+            "Sunglasses"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Blue sweater with pom-pom",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, Pixie cut",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Green",
+            "Red",
+            "Yellow",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Striped 3/4 sleeve boat-neck top",
+        "bottom_garment_type": "Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Drop earrings",
+            "Book/Box on head"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Matte"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, laughing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Striped top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Pixie Cut",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Green",
+            "Yellow",
+            "Red",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped 3/4 sleeve boat-neck top",
+        "bottom_garment_type": "A-line skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Book (on head)"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "A-line",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, laughing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Striped top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-15",
+        "source_url": "https://theoutfitrepeater.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Pixie Cut",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green",
+            "Dark Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Striped Long-sleeved Top",
+        "bottom_garment_type": "Solid Green Skirt or Pants",
+        "footwear_type": null,
+        "accessories": [
+            "Drop earrings"
+        ],
+        "patterns": [
+            "Striped"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing expressively, laughing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brown",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "The Outfit Repeater"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Playful, Joyful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Striped top and expressive face",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    }
+]
