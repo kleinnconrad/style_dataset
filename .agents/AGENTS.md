@@ -18,8 +18,9 @@ This file contains foundational instructions and conventions for developing in t
 - Maintain a separate `tests` directory for unit and integration tests to keep the core codebase clean.
 
 ## 2. Dependencies
-- Always maintain a `requirements.txt` file at the root of the project.
-- Any time a new Python dependency is introduced, it must be explicitly added to `requirements.txt` with appropriate version pinning to ensure reproducible builds.
+- Always maintain a `pyproject.toml` and a `uv.lock` file at the root of the project.
+- Any time a new Python dependency is introduced, it must be added to the `dependencies` array in `pyproject.toml`.
+- After modifying dependencies, always run `uv lock` to update the `uv.lock` file and ensure reproducible builds.
 
 ## 3. Environment Execution
 - Execute local scripts using the Conda `myenv` environment to ensure consistency across local development setups.

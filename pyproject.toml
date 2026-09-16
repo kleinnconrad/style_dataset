@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "style-dataset"
+version = "0.1.0"
+description = "A dataset for fashion analytics"
+requires-python = ">=3.11"
+dependencies = [
+    "crawl4ai==0.9.3",
+    "google-genai==2.22.0",
+    "google-api-python-client",
+    "google-auth-httplib2",
+    "google-auth-oauthlib",
+    "python-dotenv==1.2.3",
+    "tenacity==9.1.4",
+    "Pillow==12.3.0",
+    "pydantic"
+]
