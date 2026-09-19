@@ -1,0 +1,966 @@
+[
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Long, straight blonde hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Shoulder bag",
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The clean lines of the white shirt and blue jeans",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Minimalist",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Long, straight hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Off-white"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeve t-shirt",
+        "bottom_garment_type": "Straight-leg jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Tote bag",
+            "Watch",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Canvas"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The clean lines of the outfit",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Minimalist",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://krpersonalstyle.com/blog/",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Wavy, shoulder-length blonde hair (left subject)",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Gold",
+            "Orange",
+            "Green",
+            "Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patterned Blouse (right subject), Double-breasted Blazer (left subject)",
+        "bottom_garment_type": "Denim Jeans (right subject)",
+        "footwear_type": null,
+        "accessories": [
+            "Gold pendant necklace",
+            "Gold rings",
+            "Woven leather crescent bag",
+            "Gold bracelet",
+            "Delicate gold chain"
+        ],
+        "patterns": [
+            "Abstract organic pattern"
+        ],
+        "fabric_textures": [
+            "Smooth woven fabric",
+            "Denim",
+            "Woven leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons",
+            "Gold pendant",
+            "Gold rings",
+            "Gold bracelet"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Interacting/Examining jewelry",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Wet look",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Consultative",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "The patterned blouse and the woven leather bag",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://krpersonalstyle.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Shoulder-length, loose",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Blue",
+            "Black",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Patterned short-sleeve button-up shirt",
+        "bottom_garment_type": "Denim jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Cross-body bag"
+        ],
+        "patterns": [
+            "Abstract print"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Interacting/Exchanging an object",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual, friendly",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Patterned shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://krpersonalstyle.com/blog/",
+        "clothing_style": "Contemporary Casual",
+        "hairstyle": "Medium Length Blonde Hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Olive Green",
+            "Orange",
+            "Blue",
+            "Cream"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer, Patterned Jacket",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Necklace",
+            "Brooch",
+            "Ring",
+            "Bracelet",
+            "Handbag"
+        ],
+        "patterns": [
+            "Abstract Floral"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Textured",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [
+            "Brooch"
+        ],
+        "hardware_details": [
+            "Gold button"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Examining jewelry, Interacting",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Blonde",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Consultative, Stylish",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Patterned jacket, Necklaces",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://thebudgetfashionista.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Not visible",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Gold",
+            "Brown",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blouse",
+        "bottom_garment_type": "Ribbed knit pants or skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Watch",
+            "Pink nail polish"
+        ],
+        "patterns": [
+            "Polka dot",
+            "Ribbed"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": null,
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Watch hardware"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Counting money",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": null,
+        "hair_parting": null,
+        "hair_finish": null,
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Practical",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Money",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://cellajane.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Burgundy",
+            "Maroon"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Knit Cardigan",
+        "bottom_garment_type": "Maxi Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Pearl earrings",
+            "Delicate necklaces",
+            "Rings",
+            "Wine glass"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Satin"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Silver-toned necklaces",
+            "Gold-toned earring settings"
+        ],
+        "material_finish": "Glossy/Patent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Splendid"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 2,
+        "focal_point": "Maxi Skirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://cellajane.com/",
+        "clothing_style": "Elegant Casual",
+        "hairstyle": "Short wavy bob with balayage",
+        "gender": "Female",
+        "primary_colors": [
+            "Burgundy",
+            "Gold",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Oversized shirt dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Statement earrings",
+            "Gold bangles",
+            "Delicate gold bracelets",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Silky"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Draped",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Sheer/Translucent",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Setting a table",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Splendid"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Burgundy shirt dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://40plusstyle.com/",
+        "clothing_style": "Eclectic",
+        "hairstyle": "Unclear",
+        "gender": "Unidentifiable",
+        "primary_colors": [
+            "Mustard Yellow",
+            "Navy",
+            "Black",
+            "Pink",
+            "White",
+            "Blue",
+            "Brown",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top",
+        "bottom_garment_type": "Fitted leggings",
+        "footwear_type": "Over-the-knee boots",
+        "accessories": [
+            "Handbag",
+            "Bracelet",
+            "Clutch",
+            "Beaded embellishments"
+        ],
+        "patterns": [
+            "Solid",
+            "Small check",
+            "Floral embroidery"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Leather",
+            "Embroidered knit",
+            "Textured synthetic",
+            "Patent leather",
+            "Feather/Fringe",
+            "Woven cotton",
+            "Suede"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Beaded embellishments",
+            "Floral embroidery",
+            "Fringe"
+        ],
+        "hardware_details": [
+            "Bracelet"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Walking",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Not visible",
+        "hair_parting": "Unclear",
+        "hair_finish": "Unclear",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Avant-garde",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Footwear",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": "None",
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://stylishpetite.com/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Short, sleek",
+        "gender": "Female",
+        "primary_colors": [
+            "Camel",
+            "Cream",
+            "Black",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Wool Coat, V-neck Cardigan",
+        "bottom_garment_type": "Mini Skirt",
+        "footwear_type": "Strappy High-heeled Sandals",
+        "accessories": [
+            "Sunglasses",
+            "Shoulder Bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Wool",
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Camel Coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://stylishpetite.com/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Buzzcut",
+        "gender": "Female",
+        "primary_colors": [
+            "Camel",
+            "Cream",
+            "Gold",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Wool blend coat, Knit V-neck cardigan",
+        "bottom_garment_type": "Lace-trim mini skirt",
+        "footwear_type": "Strappy high-heeled sandals",
+        "accessories": [
+            "Sunglasses",
+            "Structured handbag",
+            "Gold earrings",
+            "Gold rings",
+            "Gold anklet"
+        ],
+        "patterns": [
+            "Lace",
+            "Woven"
+        ],
+        "fabric_textures": [
+            "Wool blend",
+            "Knit",
+            "Lace",
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Lace trim"
+        ],
+        "hardware_details": [
+            "Gold-toned buttons",
+            "Gold-toned chain strap"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Elegant chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Camel coat",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://stylishpetite.com/",
+        "clothing_style": "Dressy",
+        "hairstyle": "Short, sleek, pulled back",
+        "gender": "Female",
+        "primary_colors": [
+            "Camel",
+            "Cream",
+            "White",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 1.0,
+        "image_url": null,
+        "top_garment_type": "Long wool coat, V-neck cardigan",
+        "bottom_garment_type": "Slip dress",
+        "footwear_type": "Strappy high-heeled sandals",
+        "accessories": [
+            "Sunglasses",
+            "Hoop earrings",
+            "Handbag"
+        ],
+        "patterns": [
+            "Solid",
+            "Lace"
+        ],
+        "fabric_textures": [
+            "Wool",
+            "Knit",
+            "Satin",
+            "Lace"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Lace trim"
+        ],
+        "hardware_details": [
+            "Gold-toned buttons",
+            "Gold-toned chain strap",
+            "Gold-toned clasp"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Long wool coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://pumpsandpushups.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length wavy hair with balayage",
+        "gender": "Female",
+        "primary_colors": [
+            "Blue",
+            "White",
+            "Beige",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Denim button-up shirt",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Gold hoop earrings",
+            "Gold chain bracelet",
+            "Ring",
+            "Top-handle handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "White buttons",
+            "Gold jewelry"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Denim button-up shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://pumpsandpushups.com/",
+        "clothing_style": "Bohemian Casual",
+        "hairstyle": "Long, wavy, layered with highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Orange",
+            "Brown",
+            "Yellow",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Smocked crop top with spaghetti straps",
+        "bottom_garment_type": "Floral midi skirt",
+        "footwear_type": "Strappy metallic sandals",
+        "accessories": [
+            "Gold hoop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral",
+            "Border print"
+        ],
+        "fabric_textures": [
+            "Smocked",
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette with highlights",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "pumps and push-ups"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Floral two-piece set",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-19",
+        "source_url": "https://pumpsandpushups.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Wavy, medium-length hair with highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Dark Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Fitted Ribbed T-shirt",
+        "bottom_garment_type": "High-rise Wide-leg Jeans",
+        "footwear_type": "Ballet Flats",
+        "accessories": [
+            "Bracelet",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Bow"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette with blonde highlights",
+        "hair_parting": "Side part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg jeans",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
