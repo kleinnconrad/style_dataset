@@ -1,0 +1,806 @@
+[
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://oneofastyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Shoulder-length, straight with a slight wave, side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "White",
+            "Blue",
+            "Beige",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Handbag"
+        ],
+        "patterns": [
+            "Snakeskin",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Smooth woven",
+            "Velvet"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold chain",
+            "Gold accents"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing, sitting relaxed",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Harvey Nichols"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Pink knit top and snakeskin handbag",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://oneofastyle.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, straight, sleek",
+        "gender": "Female",
+        "primary_colors": [
+            "Pink",
+            "White",
+            "Beige",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved knit top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Handbag",
+            "Ring"
+        ],
+        "patterns": [
+            "Snakeskin"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Smooth woven",
+            "Velvet (couch)"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold chain",
+            "Gold frame"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Harvey Nichols"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Pink knit top and snakeskin handbag",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://oneofastyle.com/",
+        "clothing_style": "Bold Eclectic Chic",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Hot Pink",
+            "Black",
+            "Gold",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cropped Blazer, Strapless Top",
+        "bottom_garment_type": "Voluminous Tiered Skirt",
+        "footwear_type": "Combat Boots",
+        "accessories": [
+            "Fedora Hat",
+            "Hoop Earrings",
+            "Bracelet",
+            "Watch"
+        ],
+        "patterns": [
+            "Leopard Print"
+        ],
+        "fabric_textures": [
+            "Crisp fabric",
+            "Suiting fabric",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Maxi",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Bow",
+            "Tiers"
+        ],
+        "hardware_details": [
+            "Lace-up"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, Sitting",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Bold, Playful, Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Voluminous Hot Pink Skirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://www.byskylerrenee.com/",
+        "clothing_style": "Feminine Casual",
+        "hairstyle": "Long, wavy, blonde hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shirt dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Gold layered necklaces",
+            "Gold bracelets",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral print"
+        ],
+        "fabric_textures": [
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The floral midi dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://www.byskylerrenee.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shirt dress",
+        "bottom_garment_type": "Midi dress",
+        "footwear_type": null,
+        "accessories": [],
+        "patterns": [
+            "Dotted"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Buttons"
+        ],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Skyler Renee"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Shirt dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://www.byskylerrenee.com/",
+        "clothing_style": "Cottagecore",
+        "hairstyle": "Long Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shirt Dress",
+        "bottom_garment_type": "Midi Dress",
+        "footwear_type": null,
+        "accessories": [
+            "Gold bangles",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral",
+            "Botanical"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Floral midi shirt dress",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Cottagecore",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://fashionway.blog/",
+        "clothing_style": "Contemporary Chic",
+        "hairstyle": "Long, straight, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit top with voluminous sleeves",
+        "bottom_garment_type": "Asymmetrical mini skirt",
+        "footwear_type": "Pointed-toe pumps",
+        "accessories": [
+            "Quilted chain strap bag",
+            "Silver necklace",
+            "Silver bracelets",
+            "Silver rings",
+            "Anklet"
+        ],
+        "patterns": [
+            "Solid",
+            "Quilted"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Linen blend"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Mini",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Ruffles",
+            "Buttons"
+        ],
+        "hardware_details": [
+            "Gold chain",
+            "Dark buttons",
+            "Silver jewelry"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Pink accessories",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Medium-length, voluminous waves",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer",
+        "bottom_garment_type": "Slim-fit jeans",
+        "footwear_type": "Slingback flats",
+        "accessories": [
+            "Layered necklaces",
+            "Watch",
+            "Handbag"
+        ],
+        "patterns": [
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Smooth woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-tone clasps"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print shoes",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Shoulder-length, styled",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Lightweight Knit Top",
+        "bottom_garment_type": "Straight-leg jeans, Slim-fit trousers",
+        "footwear_type": "Flip-flops, Pointed-toe flats",
+        "accessories": [
+            "Laptop",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Woven",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The interaction between the two women and the laptop",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Layered, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Tan",
+            "Mint Green",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared shirt, Blazer",
+        "bottom_garment_type": "Wide-leg jeans, Straight-leg jeans",
+        "footwear_type": "Flip-flops, Pointed-toe flats",
+        "accessories": [
+            "Gold necklace",
+            "Laptop"
+        ],
+        "patterns": [
+            "Solid",
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Knit",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Collaborative",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print flats",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://thehouseblend.com/",
+        "clothing_style": "Elevated Casual",
+        "hairstyle": "Long, wavy hair with a headband",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Blazer",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Pointed-toe heels",
+        "accessories": [
+            "Headband",
+            "Necklace"
+        ],
+        "patterns": [
+            "Patterned",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Smooth suiting fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold pendant"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [
+            "Headband"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "The blazer and wide-leg jeans combination",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://thehouseblend.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Beige",
+            "Blue",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Graphic T-shirt",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Glasses",
+            "Clutch bag"
+        ],
+        "patterns": [
+            "Graphic",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Gabardine",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Stranger Things"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless casual",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Graphic T-shirt and draped trench coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Pop Culture",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-21",
+        "source_url": "https://thehouseblend.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Medium-length, wavy, highlighted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Light Blue",
+            "Blue",
+            "Mint Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Houndstooth Vest, Oversized Button-down Shirt",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": "Pointed-toe Mules",
+        "accessories": [],
+        "patterns": [
+            "Houndstooth"
+        ],
+        "fabric_textures": [
+            "Tweed/Boucl\u00e9",
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette with Blonde Highlights",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Houndstooth vest and mismatched shoes",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    }
+]
