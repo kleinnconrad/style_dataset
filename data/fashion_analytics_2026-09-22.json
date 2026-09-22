@@ -1,0 +1,672 @@
+[
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://trashtocouture.com/",
+        "clothing_style": "Loungewear",
+        "hairstyle": "Medium-length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Pajama top",
+        "bottom_garment_type": "Pajama pants",
+        "footwear_type": null,
+        "accessories": [
+            "Red nail polish",
+            "White bowl",
+            "White mug",
+            "Wooden tray"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Satin/Silky"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Piping"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Sitting, having breakfast in bed",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Red",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The subject's face and the white bowl",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://trashtocouture.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, straight, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Sheer wrap top",
+        "bottom_garment_type": "High-waisted skirt or pants",
+        "footwear_type": null,
+        "accessories": [
+            "Bucket hat"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Sheer",
+            "Lightweight fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print bucket hat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Messy Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Blonde"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Necklace",
+            "Camera"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit",
+            "Smooth woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://diyclothes.net/",
+        "clothing_style": "Folk-inspired Casual",
+        "hairstyle": "Long, wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Red",
+            "Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved blouse",
+        "bottom_garment_type": "Wide-leg pants",
+        "footwear_type": "Mules",
+        "accessories": [
+            "Mesh tote bag"
+        ],
+        "patterns": [
+            "Embroidered",
+            "Geometric"
+        ],
+        "fabric_textures": [
+            "Linen"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Embroidery"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "TAUKO Magazine",
+            "GA-ROSHE",
+            "TRINGA OSMANI"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Embroidered blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Folkcore",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Long, layered, wavy with highlights; Medium length, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Camel",
+            "Blue",
+            "Black",
+            "White",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Ribbed knit polo top, Blazer, T-shirt",
+        "bottom_garment_type": "Wide-leg jeans, Straight-leg jeans",
+        "footwear_type": "Flip-flops, Slingback flats",
+        "accessories": [
+            "Necklaces",
+            "Ring",
+            "Laptop"
+        ],
+        "patterns": [
+            "Solid",
+            "Leopard print"
+        ],
+        "fabric_textures": [
+            "Ribbed knit",
+            "Denim",
+            "Smooth woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Collaborating",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional, Collaborative, Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print shoes",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Business Casual",
+        "hairstyle": "Shoulder-length, styled with a side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Brown",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": "Flats",
+        "accessories": [
+            "Laptop"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Woven"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting, interacting",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Blazer",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://krpersonalstyle.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Wavy, layered",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Blue",
+            "Tan",
+            "White",
+            "Gold",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Button-up Shirt",
+        "bottom_garment_type": "Jeans",
+        "footwear_type": "Flip-flops, Heels",
+        "accessories": [
+            "Gold necklace",
+            "Laptop"
+        ],
+        "patterns": [
+            "Animal print"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Woven",
+            "Knit"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Sitting, Collaborating",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette, Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "KR Personal Style"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Professional Chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Leopard print heels",
+        "occasion": "Office/Professional",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short, layered, side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Taupe"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Layered: White collared shirt under Black short-sleeved knit top",
+        "bottom_garment_type": "Cropped wide-leg trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Eyeglasses",
+            "Earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton",
+            "Woven",
+            "Leather",
+            "Rubber"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Silver buckles"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde/Grey",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "New Balance"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Comfortable chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The layered top and sneakers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Short, blonde, swept back with headband",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy Blue",
+            "White",
+            "Taupe"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Layered top (short-sleeve top over collared shirt)",
+        "bottom_garment_type": "Cropped pants",
+        "footwear_type": "Chunky sneakers",
+        "accessories": [
+            "Tote bag",
+            "Headband"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [
+            "Headband"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Layered top and chunky sneakers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short blonde bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Layered short-sleeved top over collared shirt",
+        "bottom_garment_type": "Cropped wide-leg pants",
+        "footwear_type": "Chunky sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Eyeglasses",
+            "Watch",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Metal rings"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Standing, posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Layered top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-22",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, swept back",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth",
+            "Faux Leather"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": null,
+        "hemline_length": null,
+        "neckline_style": "Off-the-shoulder",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Small metallic ring"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with bold lips",
+        "hair_color": "Red",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "DoYouSpeakGossip"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Choker and pendant necklace",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
