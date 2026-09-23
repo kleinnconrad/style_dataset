@@ -1,0 +1,804 @@
+[
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Medium-length, straight hair with a middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Grey",
+            "Dark Blue",
+            "Black",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Knit Sweater",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": "Ankle Boots",
+        "accessories": [
+            "Shoulder bag",
+            "Necklace",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Matte Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold chain strap",
+            "Watch hardware"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Blonde",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Knit Sweater",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Minimalist",
+        "hairstyle": "Low ponytail/bun with face-framing strands",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck T-shirt",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Necklace",
+            "Hair tie"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Buttons"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [
+            "Hair tie"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Denim jacket",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Drop earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Speckled/Abstract Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned yellow blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Patterned V-neck Blouse",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, reddish-brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Burgundy",
+            "Reddish-brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth knit"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": null,
+        "hemline_length": null,
+        "neckline_style": "Off-the-shoulder",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Small metallic pendant"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Summer",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, smiling",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Reddish-brown",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Approachable chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Subject's face and accessories",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Avant-garde Winter Fashion",
+        "hairstyle": "Long, straight hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Shaggy Fur Coat",
+        "bottom_garment_type": "Long Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Fur Ushanka Hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shaggy Fur",
+            "Curly Fur",
+            "Smooth Fur"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Oversized",
+        "hemline_length": "Maxi",
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Clear, Snowy, Cold",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Oversized Shaggy Fur Coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Winter Fashion, Avant-garde",
+        "hairstyle": "Long, Straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shaggy Fur Coat",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Fur Hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fur",
+            "Shearling"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": "Midi",
+        "neckline_style": "Turtleneck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Cold, Clear sky",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN",
+            "ROSENROT"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Adventurous, Rugged Chic, Editorial",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "The shaggy fur coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Eclectic Winter",
+        "hairstyle": "Long, straight hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Grey",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Multi-textured fur coat",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Fur ushanka hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shaggy fur",
+            "Curly fur",
+            "Smooth fur"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Oversized",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with subtle eye makeup",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Fur ushanka hat"
+        ],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Multi-textured fur coat and fur ushanka hat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Gothic Witchy / Alternative",
+        "hairstyle": "Long wavy hair with pink and purple highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Purple",
+            "Silver",
+            "Iridescent"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Velvet romper",
+        "bottom_garment_type": "Velvet romper shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Wide-brim witch hat",
+            "Choker necklace",
+            "Bat pendant",
+            "Earrings",
+            "Iridescent fairy wings",
+            "Wide belt with bat buckle"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Velvet"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Ruffles",
+            "Zipper detail"
+        ],
+        "hardware_details": [
+            "Zipper",
+            "Oversized buckles",
+            "Metal charms"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette with pink/purple highlights",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [
+            "Witch hat"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful Goth",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Wide-brim witch hat and bat-themed belt buckle",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": "Goth",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Gothic/Halloween",
+        "hairstyle": "Long, straight with purple/pink highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Purple",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Velvet Romper",
+        "bottom_garment_type": "Velvet Romper",
+        "footwear_type": null,
+        "accessories": [
+            "Witch hat",
+            "Choker necklace",
+            "Bat pendant",
+            "Wide belt",
+            "Bat-wing buckle",
+            "Iridescent bat wings",
+            "Earrings",
+            "Tattoos"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Velvet",
+            "Elastic"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Ruffles",
+            "Studs"
+        ],
+        "hardware_details": [
+            "Zipper",
+            "Oversized buckles",
+            "Bat pendant"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette with pink/purple highlights",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Witch hat"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Gothic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Witch hat and bat-wing belt",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": "Gothic",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Gothic, Witchy, Alternative",
+        "hairstyle": "Long, wavy with purple and pink highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Purple",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Velvet Romper",
+        "bottom_garment_type": "Velvet Romper",
+        "footwear_type": null,
+        "accessories": [
+            "Witch hat",
+            "Choker",
+            "Earrings",
+            "Rings",
+            "Wide belt",
+            "Iridescent bat wings"
+        ],
+        "patterns": [
+            "Solid",
+            "Iridescent"
+        ],
+        "fabric_textures": [
+            "Velvet",
+            "Elastic"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [
+            "Zipper",
+            "Oversized buckles",
+            "Charm"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [
+            "Witch hat"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Witchy",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Witch hat and bat-wing belt buckle",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Gothic",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-23",
+        "source_url": "https://www.extrapetite.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "High Ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless Top",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Top-handle Bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth Woven",
+            "Linen Blend"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Standing, interacting with children",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg Trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
