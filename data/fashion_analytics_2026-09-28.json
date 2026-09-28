@@ -1,0 +1,680 @@
+[
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Black",
+            "Beige"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt, Tank top",
+        "bottom_garment_type": "Wide-leg jeans",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Tote bag",
+            "Sunglasses",
+            "Necklace",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Denim",
+            "Linen",
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Blonde",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [
+            "Sunglasses"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg jeans",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Minimalist Chic",
+        "hairstyle": "Medium length, loose waves",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Beige",
+            "Cream",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Shoulder bag",
+            "Necklace",
+            "Watch",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Linen blend",
+            "Cotton twill"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned chain"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 3,
+        "focal_point": "Trench coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://doyouspeakgossip.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Off-the-shoulder top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Choker necklace",
+            "Pendant necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Cord"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": null,
+        "hemline_length": null,
+        "neckline_style": "Off-the-shoulder",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Red",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Approachable, Stylish",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Choker necklace",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://beauticurve.com/",
+        "clothing_style": "Sophisticated Casual",
+        "hairstyle": "Long, wavy, dark brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Off-white",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Collared shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Pointed-toe flats",
+        "accessories": [
+            "Tote bag",
+            "Gold hoop earrings",
+            "Phone"
+        ],
+        "patterns": [
+            "Leopard print",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Suede-like",
+            "Structured cotton",
+            "Smooth leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Beauticurve"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://lacarmina.com/blog/",
+        "clothing_style": "Goth-inspired Casual",
+        "hairstyle": "Long, wavy hair with red highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Dark Blue",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cut-out long-sleeved crop top",
+        "bottom_garment_type": "Patterned maxi skirt",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Necklace",
+            "Pendant"
+        ],
+        "patterns": [
+            "Geometric",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Maxi",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Cut-outs"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Black with red highlights",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "LA Times Travel studios"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Adventurous",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Cut-out long-sleeved crop top",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Goth-inspired",
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://lacarmina.com/blog/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tunic dress",
+        "bottom_garment_type": null,
+        "footwear_type": "Ankle boots",
+        "accessories": [
+            "Sunglasses",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Mini",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "La Carmina"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Adventurous",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The subject's black tunic dress and boots against the desert backdrop",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Goth",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://lacarmina.com/blog/",
+        "clothing_style": "Goth-inspired Casual",
+        "hairstyle": "Long, straight, dark hair, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Short-sleeve mini dress",
+        "bottom_garment_type": "Short-sleeve mini dress",
+        "footwear_type": null,
+        "accessories": [
+            "Bracelet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Mini",
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "La Carmina"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Goth-inspired, adventurous",
+        "color_palette_type": "Monochrome",
+        "layering_complexity": 1,
+        "focal_point": "The subject's pose and the ancient artifacts",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Goth",
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://www.auxiliarymagazine.com/",
+        "clothing_style": "Gothic",
+        "hairstyle": "Voluminous updo with micro-bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Septum piercing",
+            "Dangling earrings",
+            "Chain necklace",
+            "Rings",
+            "Shoulder bag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [
+            "Ornate metal earrings",
+            "Chunky chain necklace"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Smokey eye",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Edgy",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Face and accessories",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Gothic",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "Chic Casual",
+        "hairstyle": "Sleek Low Bun",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Black Velvet Blazer",
+        "bottom_garment_type": "Black Satin Midi Skirt",
+        "footwear_type": "Black Ballet Flats",
+        "accessories": [
+            "Studded Ankle Straps",
+            "Shopping Bag",
+            "Small Black Handbag"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Velvet",
+            "Satin",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": "Midi",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Studs"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny, Clear",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Sophisticated, Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Black satin midi skirt and studded flats",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Monochrome"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "Streetwear",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Blue",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Oversized hoodie",
+        "bottom_garment_type": "Baggy distressed jeans",
+        "footwear_type": "Flat shoes",
+        "accessories": [
+            "Brown leather belt",
+            "Black backpack"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fleece",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Low-rise",
+        "embellishments": [
+            "Distressing/rips"
+        ],
+        "hardware_details": [
+            "Belt buckle"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Casual cool",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Baggy distressed jeans",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Y2K",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-28",
+        "source_url": "https://www.russh.com/",
+        "clothing_style": "Streetwear, Casual Chic, Contemporary",
+        "hairstyle": "Sleek low bun, Short swept-back",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White",
+            "Blue",
+            "Grey",
+            "Red",
+            "Brown"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Blazer, Graphic Sweatshirt, Sheer Lace Crop Top, Hoodie",
+        "bottom_garment_type": "Midi Slip Skirt, Leather Pants, Wide-leg Trousers, Distressed Wide-leg Jeans",
+        "footwear_type": "Studded Ballet Flats, Sneakers, Flat Shoes",
+        "accessories": [
+            "Paper Shopping Bags",
+            "Shoulder Bags",
+            "Backpack",
+            "Belts",
+            "Small bottle/drink"
+        ],
+        "patterns": [
+            "Graphic print",
+            "Lace",
+            "Distressed"
+        ],
+        "fabric_textures": [
+            "Satin",
+            "Leather",
+            "Cotton",
+            "Lace",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Midi",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Studs",
+            "Distressing",
+            "Paint splatters",
+            "Lace"
+        ],
+        "hardware_details": [
+            "Belt buckles"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Fashion-forward, Contemporary",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 3,
+        "focal_point": "Graphic sweatshirt, Sheer lace crop top, Distressed wide-leg jeans",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "None",
+        "color_contrast_strategy": "Color-blocking"
+    }
+]
