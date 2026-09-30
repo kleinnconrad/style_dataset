@@ -1,0 +1,534 @@
+[
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://allthingsrainbow.com",
+        "clothing_style": "Bohemian Festival",
+        "hairstyle": "Long, straight, worn down",
+        "gender": "Female",
+        "primary_colors": [
+            "Purple",
+            "Blue",
+            "Brown",
+            "Orange",
+            "Green",
+            "Pink",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tie-dye tank top",
+        "bottom_garment_type": "Wide-leg crinkle pants",
+        "footwear_type": null,
+        "accessories": [
+            "Wide-brim hat",
+            "Sunglasses",
+            "Umbrella",
+            "Choker necklace",
+            "Pendant necklace",
+            "Star charm necklace",
+            "Beaded bracelets",
+            "Charm bracelets",
+            "Belly chain",
+            "Earrings"
+        ],
+        "patterns": [
+            "Tie-dye",
+            "Paisley",
+            "Mandala"
+        ],
+        "fabric_textures": [
+            "Crinkled fabric",
+            "Cotton/Jersey"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Low-rise",
+        "embellishments": [
+            "Tassels",
+            "Butterfly embellishments",
+            "Charms"
+        ],
+        "hardware_details": [
+            "Silver chain",
+            "Metal frames"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brown",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "All Things Rainbow"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Free-spirited",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Colorful umbrella and sunglasses",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Hippie-chic",
+        "color_contrast_strategy": "Clashing/Maximalist"
+    },
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://allthingsrainbow.com",
+        "clothing_style": "Bohemian/Festival",
+        "hairstyle": "Long, straight",
+        "gender": "Female",
+        "primary_colors": [
+            "Purple",
+            "Blue",
+            "Brown",
+            "Green",
+            "Orange",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Tie-dye tank top",
+        "bottom_garment_type": "Wide-leg crinkled pants",
+        "footwear_type": null,
+        "accessories": [
+            "Wide-brimmed hat",
+            "Sunglasses",
+            "Patterned umbrella",
+            "Layered necklaces",
+            "Bracelets",
+            "Earrings",
+            "Belly chain"
+        ],
+        "patterns": [
+            "Tie-dye",
+            "Geometric",
+            "Paisley",
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Crinkled cotton",
+            "Soft knit",
+            "Felt"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Low-rise",
+        "embellishments": [
+            "Butterfly details",
+            "Tassels"
+        ],
+        "hardware_details": [
+            "Metal chain"
+        ],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Free-spirited",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Patterned umbrella and layered accessories",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Hippie",
+        "color_contrast_strategy": "Clashing/Maximalist"
+    },
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://allthingsrainbow.com",
+        "clothing_style": "Bohemian/Festival Chic",
+        "hairstyle": "Long, straight/wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Purple",
+            "Blue",
+            "Brown",
+            "Green",
+            "Orange",
+            "Pink"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Tie-dye tank top",
+        "bottom_garment_type": "Wide-leg palazzo pants",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Floppy hat",
+            "Umbrella/Parasol",
+            "Beaded bracelets",
+            "Pendant necklace",
+            "Belly chain"
+        ],
+        "patterns": [
+            "Tie-dye",
+            "Geometric",
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Rayon",
+            "Felt",
+            "Embroidered"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Flower",
+            "Beads",
+            "Pendant",
+            "Embroidery"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Colorful umbrella",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Hippie/Bohemian",
+        "color_contrast_strategy": "Clashing/Maximalist"
+    },
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://un-fancy.com",
+        "clothing_style": "Casual, Minimalist",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Dark Blue",
+            "Brown",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew neck sweater",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": "Ankle boots",
+        "accessories": [
+            "Crossbody bag",
+            "Necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned buckle"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The overall minimalist outfit",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://extrapetite.com",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "High ponytail",
+        "gender": "Female",
+        "primary_colors": [
+            "Navy",
+            "White",
+            "Brown",
+            "Teal"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sleeveless crop top",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Flat sandals",
+        "accessories": [
+            "Sunglasses",
+            "Pendant necklace",
+            "Structured handbag",
+            "Hair elastic"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Smooth woven",
+            "Linen blend"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Floor-length",
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Summer",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Interacting with children",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Hair elastic"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed and chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Wide-leg trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://the-rosenrot.com",
+        "clothing_style": "Avant-garde Winterwear",
+        "hairstyle": "Long, straight with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shaggy Fur Coat",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Fur Ushanka Hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shaggy Fur",
+            "Shearling",
+            "Wool"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Oversized",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Luxurious Winter",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Shaggy Fur Coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://the-rosenrot.com",
+        "clothing_style": "Winter Chic",
+        "hairstyle": "Long, straight hair, mostly covered by hat",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Fur Coat",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Fur hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Fur",
+            "Shaggy"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Boxy",
+        "hemline_length": "Midi",
+        "neckline_style": "Turtleneck",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Clear sky, Cold",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Unclear",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN",
+            "ROSENROT"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Luxurious, Adventurous, Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 4,
+        "focal_point": "The oversized fur coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-09-30",
+        "source_url": "https://the-rosenrot.com",
+        "clothing_style": "Eclectic Winter",
+        "hairstyle": "Long, straight black hair with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Shaggy fur coat",
+        "bottom_garment_type": "Long skirt or wide-leg pants",
+        "footwear_type": null,
+        "accessories": [
+            "Fur hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shaggy fur",
+            "Curly shearling",
+            "Smooth fur"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Draped",
+        "hemline_length": null,
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, clear sky",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Fur hat"
+        ],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Avant-garde, Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Shaggy fur coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    }
+]
