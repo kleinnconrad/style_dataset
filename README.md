@@ -11,56 +11,56 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 
 ## Dataset Overview
 <!-- DATASET_OVERVIEW_START -->
-**Last Updated:** 2026-10-01 06:24:40 UTC
+**Last Updated:** 2026-10-01 06:58:24 UTC
 
 - **Total Days/Files:** 110
-- **Total Outfits:** 1349
+- **Total Outfits:** 1350
 
 | Variable | Description | Fill Rate | Distinct Values |
 |----------|-------------|-----------|-----------------|
-| `accessories` | List of visible accessories. | 86.6% (1168) | 528 |
-| `age_group` | Visually estimated age bracket. | 93.6% (1262) | 6 |
-| `bottom_garment_type` | The type of bottom being worn. | 58.8% (793) | 329 |
-| `brand_mentions` | Fashion brands explicitly mentioned. | 10.7% (144) | 82 |
-| `clothing_fit` | The overall fit of the clothing. | 93.4% (1260) | 4 |
-| `clothing_style` | The primary fashion style. | 100.0% (1349) | 259 |
-| `color_contrast_strategy` | How colors are paired. | 39.9% (538) | 5 |
-| `color_palette_type` | The overall color theory of the outfit. | 93.6% (1262) | 5 |
-| `confidence_score` | Model confidence score (0.0 to 1.0). | 100.0% (1349) | 10 |
-| `date_scraped` | Automatically injected date. | 100.0% (1349) | 110 |
-| `embellishments` | Visible decorative details. | 9.4% (127) | 81 |
-| `fabric_textures` | Visually inferred materials. | 93.4% (1260) | 308 |
-| `focal_point` | The standout piece that draws the eye. | 93.4% (1260) | 761 |
-| `footwear_type` | The type of shoes being worn. | 34.4% (464) | 181 |
-| `gender` | The perceived gender of the subject. | 100.0% (1349) | 3 |
-| `hair_accessories` | Specific hair accessories. | 2.1% (28) | 16 |
-| `hair_color` | Subject's hair color. | 92.6% (1249) | 75 |
-| `hair_finish` | The styling finish of the hair. | 39.7% (536) | 6 |
-| `hair_parting` | How the hair is parted. | 39.7% (536) | 5 |
-| `hairstyle` | The primary hairstyle of the subject. | 100.0% (1349) | 654 |
-| `hardware_details` | Visible metal or structural components. | 18.8% (254) | 132 |
-| `hemline_length` | The hemline length for bottoms. | 15.6% (211) | 5 |
+| `accessories` | List of visible accessories. | 86.6% (1169) | 529 |
+| `age_group` | Visually estimated age bracket. | 93.6% (1263) | 6 |
+| `bottom_garment_type` | The type of bottom being worn. | 58.7% (793) | 330 |
+| `brand_mentions` | Fashion brands explicitly mentioned. | 10.7% (144) | 80 |
+| `clothing_fit` | The overall fit of the clothing. | 93.4% (1261) | 4 |
+| `clothing_style` | The primary fashion style. | 100.0% (1350) | 260 |
+| `color_contrast_strategy` | How colors are paired. | 39.9% (539) | 5 |
+| `color_palette_type` | The overall color theory of the outfit. | 93.6% (1263) | 5 |
+| `confidence_score` | Model confidence score (0.0 to 1.0). | 100.0% (1350) | 10 |
+| `date_scraped` | Automatically injected date. | 100.0% (1350) | 110 |
+| `embellishments` | Visible decorative details. | 9.6% (130) | 84 |
+| `fabric_textures` | Visually inferred materials. | 93.4% (1261) | 309 |
+| `focal_point` | The standout piece that draws the eye. | 93.4% (1261) | 763 |
+| `footwear_type` | The type of shoes being worn. | 34.4% (465) | 181 |
+| `gender` | The perceived gender of the subject. | 100.0% (1350) | 3 |
+| `hair_accessories` | Specific hair accessories. | 2.1% (29) | 16 |
+| `hair_color` | Subject's hair color. | 92.5% (1249) | 77 |
+| `hair_finish` | The styling finish of the hair. | 39.8% (537) | 6 |
+| `hair_parting` | How the hair is parted. | 39.8% (537) | 5 |
+| `hairstyle` | The primary hairstyle of the subject. | 100.0% (1350) | 652 |
+| `hardware_details` | Visible metal or structural components. | 19.0% (256) | 136 |
+| `hemline_length` | The hemline length for bottoms. | 15.9% (215) | 5 |
 | `image_url` | Image URL of the subject (GDPR compliant). | 1.0% (13) | 12 |
-| `is_trendsetter` | True if celebrity/model/artist, False if regular person. | 100.0% (1349) | 2 |
-| `layering_complexity` | Scale from 1 (simple) to 5 (heavy layering). | 93.5% (1261) | 4 |
-| `makeup_style` | Subject's makeup style. | 93.5% (1261) | 39 |
-| `material_finish` | The optical quality of the fabrics. | 39.7% (536) | 4 |
-| `neckline_style` | The cut of the top/dress around the neck. | 36.9% (498) | 7 |
-| `occasion` | Intended event or setting for the outfit. | 39.9% (538) | 5 |
-| `patterns` | Patterns visible on the clothing. | 93.5% (1261) | 214 |
-| `pose_or_activity` | What the subject is doing. | 93.5% (1261) | 274 |
-| `price_segment` | Inferred price segment. | 93.6% (1262) | 4 |
-| `primary_colors` | List of dominant colors in the outfit. | 100.0% (1349) | 99 |
-| `region` | Geographic region identified from context ('EU' or 'US'). | 100.0% (1349) | 2 |
-| `seasonality` | The inferred season. | 93.6% (1262) | 5 |
-| `sentiment_or_vibe` | The aesthetic vibe described. | 93.3% (1259) | 442 |
-| `setting` | The setting or background of the photo. | 93.6% (1262) | 5 |
+| `is_trendsetter` | True if celebrity/model/artist, False if regular person. | 100.0% (1350) | 2 |
+| `layering_complexity` | Scale from 1 (simple) to 5 (heavy layering). | 93.5% (1262) | 4 |
+| `makeup_style` | Subject's makeup style. | 93.5% (1262) | 39 |
+| `material_finish` | The optical quality of the fabrics. | 39.8% (537) | 4 |
+| `neckline_style` | The cut of the top/dress around the neck. | 36.7% (496) | 7 |
+| `occasion` | Intended event or setting for the outfit. | 39.9% (539) | 5 |
+| `patterns` | Patterns visible on the clothing. | 93.5% (1262) | 216 |
+| `pose_or_activity` | What the subject is doing. | 93.5% (1262) | 274 |
+| `price_segment` | Inferred price segment. | 93.6% (1263) | 4 |
+| `primary_colors` | List of dominant colors in the outfit. | 100.0% (1350) | 99 |
+| `region` | Geographic region identified from context ('EU' or 'US'). | 100.0% (1350) | 2 |
+| `seasonality` | The inferred season. | 93.6% (1263) | 5 |
+| `sentiment_or_vibe` | The aesthetic vibe described. | 93.3% (1260) | 445 |
+| `setting` | The setting or background of the photo. | 93.6% (1263) | 5 |
 | `silhouette` | The overall outline or shape of the outfit. | 38.6% (521) | 6 |
-| `source_url` | The URL of the webpage where the image was found. | 100.0% (1349) | 208 |
-| `subculture_aesthetic` | Specific internet aesthetics or micro-trends. | 5.3% (71) | 36 |
-| `top_garment_type` | The type of top being worn. | 92.7% (1251) | 608 |
-| `waistline_rise` | The rise of the bottoms. | 24.9% (336) | 3 |
-| `weather_conditions` | Inferred weather. | 76.7% (1035) | 42 |
+| `source_url` | The URL of the webpage where the image was found. | 100.0% (1350) | 208 |
+| `subculture_aesthetic` | Specific internet aesthetics or micro-trends. | 5.4% (73) | 37 |
+| `top_garment_type` | The type of top being worn. | 92.7% (1252) | 608 |
+| `waistline_rise` | The rise of the bottoms. | 24.5% (331) | 3 |
+| `weather_conditions` | Inferred weather. | 76.6% (1034) | 43 |
 <!-- DATASET_OVERVIEW_END -->
 
 ## Pipeline Architecture
