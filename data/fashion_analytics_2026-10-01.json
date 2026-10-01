@@ -1,0 +1,851 @@
+[
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Short bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Brown",
+            "Dark Green",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Cardigan",
+        "bottom_garment_type": "Wide-leg Trousers",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Glasses",
+            "Ring",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Plaid",
+            "Cable Knit"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Buttons"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Plaid wide-leg trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Brown",
+            "Dark Green",
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck Cardigan",
+        "bottom_garment_type": "Wide-leg Plaid Trousers",
+        "footwear_type": "Flat Sandals",
+        "accessories": [
+            "Glasses",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Textured",
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "A-line",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Buttons"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Classic, Comfortable Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Plaid trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.awellstyledlife.com/",
+        "clothing_style": "Classic Casual",
+        "hairstyle": "Short Bob",
+        "gender": "Female",
+        "primary_colors": [
+            "Dark Brown",
+            "Black",
+            "Dark Green",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Cable Knit Cardigan",
+        "bottom_garment_type": "Wide-leg Plaid Trousers",
+        "footwear_type": "Slide Sandals",
+        "accessories": [
+            "Eyeglasses",
+            "Ring",
+            "Smartphone"
+        ],
+        "patterns": [
+            "Cable knit",
+            "Plaid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Woven"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Buttons"
+        ],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Not visible",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Comfortable Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 2,
+        "focal_point": "Plaid trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual Chic",
+        "hairstyle": "Long, straight, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Light Blue",
+            "White",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Button-down shirt",
+        "bottom_garment_type": "Wide-leg trousers",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Delicate necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Linen",
+            "Smooth"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Dark Brunette",
+        "hair_parting": "Middle part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Wide-leg white trousers",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short wavy bob",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Navy",
+            "Gold"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew neck t-shirt, Blazer",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Delicate necklace"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton knit",
+            "Suiting fabric"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Spring",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light brown",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "The blazer",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.ahouseinthehills.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Short Curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Dark Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.8,
+        "image_url": null,
+        "top_garment_type": "Ribbed Knit Sweater",
+        "bottom_garment_type": "Jeans/Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Tablet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Turtleneck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting, Posing",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, Relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Tablet",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.ahouseinthehills.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium length, curly, natural",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Dark Blue",
+            "Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Long-sleeved top",
+        "bottom_garment_type": "Trousers",
+        "footwear_type": null,
+        "accessories": [
+            "Tablet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting, using a tablet",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Kirkland's Home"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, Relaxed",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "The subject and her tablet",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.ahouseinthehills.com",
+        "clothing_style": "Casual",
+        "hairstyle": "Medium-length, curly",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Dark Blue",
+            "Dark Green"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Ribbed Knit Sweater",
+        "bottom_garment_type": "Jeans/Pants",
+        "footwear_type": null,
+        "accessories": [
+            "Tablet"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Ribbed Knit",
+            "Denim"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Sitting, using a tablet",
+        "age_group": "Adult",
+        "makeup_style": "Not visible",
+        "hair_color": "Black",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Kirkland's Home"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cozy, relaxed",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "The subject interacting with the tablet",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Gothic/Witchy Themed",
+        "hairstyle": "Long, wavy with pink/purple streaks",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Silver",
+            "Pink",
+            "Purple"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Velvet Romper",
+        "bottom_garment_type": "Velvet Romper",
+        "footwear_type": null,
+        "accessories": [
+            "Witch hat",
+            "Choker",
+            "Earrings",
+            "Belt",
+            "Bat pendant",
+            "Bat-wing buckle",
+            "Tattoos"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Velvet",
+            "Elastic"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles",
+            "Decorative zipper pull"
+        ],
+        "hardware_details": [
+            "Zipper",
+            "Bat-wing buckle",
+            "Silver pendant",
+            "Earrings"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Phyrra"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Gothic, Playful, Halloween",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Witch hat and bat-wing belt buckle",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": "Goth",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Gothic Witchcore",
+        "hairstyle": "Long, wavy with purple and pink highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Purple",
+            "Silver",
+            "Iridescent"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.98,
+        "image_url": null,
+        "top_garment_type": "Velvet hooded romper",
+        "bottom_garment_type": "Velvet shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Witch hat",
+            "Choker necklace",
+            "Bat-wing belt",
+            "Iridescent bat wings",
+            "Earrings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Velvet",
+            "Metallic"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [
+            "Ruffled sleeves",
+            "Iridescent bat wings"
+        ],
+        "hardware_details": [
+            "Zipper",
+            "Oversized buckle",
+            "Metal studs"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing, smiling, holding hat",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette with purple/pink highlights",
+        "hair_parting": "Side part",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Gothic, Witchy, Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Witch hat and bat-wing belt",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": "Goth",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://phyrra.net/",
+        "clothing_style": "Gothic, Witchy, Alternative",
+        "hairstyle": "Long, wavy with purple/pink highlights",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Purple",
+            "Silver"
+        ],
+        "is_trendsetter": false,
+        "region": "EU",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Velvet Romper",
+        "bottom_garment_type": "Velvet Romper Shorts",
+        "footwear_type": null,
+        "accessories": [
+            "Witch hat",
+            "Choker necklace",
+            "Bat pendant",
+            "Bat-wing accessory",
+            "Wide belt",
+            "Earrings",
+            "Tattoos"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Velvet",
+            "Plush"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": "Mini",
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Ruffles"
+        ],
+        "hardware_details": [
+            "Zipper",
+            "Oversized buckles",
+            "Studs"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Bold lips",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Gothic, Witchy, Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 2,
+        "focal_point": "Witch hat and bat-buckle belt",
+        "occasion": "Night out/Party",
+        "subculture_aesthetic": "Gothic",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, middle part",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "High-rise jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Abstract",
+            "Speckled"
+        ],
+        "fabric_textures": [
+            "Woven",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "High-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Middle part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Putting Me Together"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned yellow blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, Wavy/Curled",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Short-sleeved V-neck blouse",
+        "bottom_garment_type": "White jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven fabric",
+            "Denim"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Nature",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Cheerful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Patterned yellow blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-01",
+        "source_url": "https://www.puttingmetogether.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Long, wavy, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "Yellow",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "V-neck blouse",
+        "bottom_garment_type": "Skinny jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Dangle earrings",
+            "Ring"
+        ],
+        "patterns": [
+            "Floral"
+        ],
+        "fabric_textures": [
+            "Lightweight woven",
+            "Cotton"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "V-neck",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Black",
+        "hair_parting": "Side part",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Yellow patterned blouse",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    }
+]
