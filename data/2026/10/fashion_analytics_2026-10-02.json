@@ -1,375 +1,13 @@
 [
     {
         "date_scraped": "2026-10-02",
-        "source_url": "https://www.un-fancy.com/",
-        "clothing_style": "Minimalist Casual Chic",
-        "hairstyle": "Long, straight, middle part",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Avant-garde Winter Fashion",
+        "hairstyle": "Long, straight black hair with bangs",
         "gender": "Female",
         "primary_colors": [
-            "Black",
-            "Off-white",
-            "Dark Grey"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Long-sleeved knit top",
-        "bottom_garment_type": "Midi A-line skirt",
-        "footwear_type": "Ankle boots",
-        "accessories": [
-            "Crossbody bag",
-            "Necklace",
-            "Watch",
-            "Ring"
-        ],
-        "patterns": [
-            "Plaid"
-        ],
-        "fabric_textures": [
-            "Knit",
-            "Woven",
-            "Leather"
-        ],
-        "clothing_fit": "Mixed",
-        "silhouette": "A-line",
-        "hemline_length": "Midi",
-        "neckline_style": "Crew",
-        "waistline_rise": "High-rise",
-        "embellishments": [],
-        "hardware_details": [
-            "Gold-toned chain"
-        ],
-        "material_finish": "Matte",
-        "setting": "Urban/Street",
-        "seasonality": "Autumn",
-        "weather_conditions": "Overcast",
-        "pose_or_activity": "Posing",
-        "age_group": "Young Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Brunette",
-        "hair_parting": "Middle part",
-        "hair_finish": "Sleek/Smooth",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 2,
-        "focal_point": "Plaid midi skirt",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
-        "color_contrast_strategy": "Neutral with a pop of color"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://awellstyledlife.com/",
-        "clothing_style": "Casual Chic",
-        "hairstyle": "Chin-length Bob",
-        "gender": "Female",
-        "primary_colors": [
-            "Navy Blue",
-            "White",
-            "Dark Denim",
-            "Burgundy",
-            "Silver"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Kimono Jacket",
-        "bottom_garment_type": "Wide-leg Jeans",
-        "footwear_type": null,
-        "accessories": [
-            "Eyeglasses",
-            "Chain Necklace",
-            "Pendant Necklace",
-            "Rings",
-            "Leather Handbag"
-        ],
-        "patterns": [
-            "Geometric",
-            "Paisley"
-        ],
-        "fabric_textures": [
-            "Cotton",
-            "Denim",
-            "Leather"
-        ],
-        "clothing_fit": "Mixed",
-        "silhouette": "Boxy",
-        "hemline_length": "Ankle-crop",
-        "neckline_style": "V-neck",
-        "waistline_rise": "Mid-rise",
-        "embellishments": [],
-        "hardware_details": [],
-        "material_finish": "Matte",
-        "setting": "Urban/Street",
-        "seasonality": "Autumn",
-        "weather_conditions": "Overcast",
-        "pose_or_activity": "Posing",
-        "age_group": "Senior",
-        "makeup_style": "Natural",
-        "hair_color": "Grey",
-        "hair_parting": "Side part",
-        "hair_finish": "Sleek/Smooth",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 3,
-        "focal_point": "Kimono Jacket",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
-        "color_contrast_strategy": "Neutral with a pop of color"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://awellstyledlife.com/",
-        "clothing_style": "Sophisticated Casual",
-        "hairstyle": "Short Bob",
-        "gender": "Female",
-        "primary_colors": [
-            "Navy",
-            "Dark Blue",
-            "White",
-            "Burgundy"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Wrap Top, Kimono Jacket",
-        "bottom_garment_type": "Wide-leg Cropped Jeans",
-        "footwear_type": null,
-        "accessories": [
-            "Glasses",
-            "Necklace",
-            "Rings",
-            "Watch",
-            "Handbag"
-        ],
-        "patterns": [
-            "Geometric"
-        ],
-        "fabric_textures": [
-            "Knit",
-            "Woven",
-            "Denim",
-            "Smooth Leather"
-        ],
-        "clothing_fit": "Mixed",
-        "silhouette": "Boxy",
-        "hemline_length": "Ankle-crop",
-        "neckline_style": "V-neck",
-        "waistline_rise": "Mid-rise",
-        "embellishments": [],
-        "hardware_details": [],
-        "material_finish": "Matte",
-        "setting": "Urban/Street",
-        "seasonality": "Autumn",
-        "weather_conditions": "Overcast",
-        "pose_or_activity": "Posing",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Blonde",
-        "hair_parting": "Side part",
-        "hair_finish": "Sleek/Smooth",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 2,
-        "focal_point": "Kimono Jacket",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
-        "color_contrast_strategy": "Neutral with a pop of color"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://awellstyledlife.com/",
-        "clothing_style": "Modern Classic",
-        "hairstyle": "Short bob, side part",
-        "gender": "Female",
-        "primary_colors": [
-            "Navy Blue",
-            "Grey",
-            "Burgundy"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Wrap top",
-        "bottom_garment_type": "Wide-leg pants",
-        "footwear_type": null,
-        "accessories": [
-            "Handbag",
-            "Glasses",
-            "Necklace",
-            "Earrings"
-        ],
-        "patterns": [
-            "Abstract"
-        ],
-        "fabric_textures": [
-            "Knit",
-            "Textured weave",
-            "Flowing fabric"
-        ],
-        "clothing_fit": "Mixed",
-        "silhouette": "Boxy",
-        "hemline_length": null,
-        "neckline_style": "V-neck",
-        "waistline_rise": "Mid-rise",
-        "embellishments": [
-            "Ruching"
-        ],
-        "hardware_details": [],
-        "material_finish": "Matte",
-        "setting": "Urban/Street",
-        "seasonality": "Autumn",
-        "weather_conditions": "Overcast",
-        "pose_or_activity": "Posing",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Blonde",
-        "hair_parting": "Side part",
-        "hair_finish": "Sleek/Smooth",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Mid-range",
-        "sentiment_or_vibe": "Sophisticated",
-        "color_palette_type": "Neutral",
-        "layering_complexity": 3,
-        "focal_point": "Patterned jacket",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
-        "color_contrast_strategy": "Neutral with a pop of color"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://curatedbykirsten.com/blog/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, wavy, middle part",
-        "gender": "Female",
-        "primary_colors": [
-            "Green",
-            "Blue",
-            "Cream"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Chunky knit sweater",
-        "bottom_garment_type": null,
-        "footwear_type": null,
-        "accessories": [],
-        "patterns": [
-            "Gradient",
-            "Marled"
-        ],
-        "fabric_textures": [
-            "Chunky knit",
-            "Fuzzy yarn"
-        ],
-        "clothing_fit": "Regular/Tailored",
-        "silhouette": "Boxy",
-        "hemline_length": null,
-        "neckline_style": "Crew",
-        "waistline_rise": null,
-        "embellishments": [],
-        "hardware_details": [],
-        "material_finish": "Matte",
-        "setting": "Indoors/Studio",
-        "seasonality": "Autumn",
-        "weather_conditions": "Overcast",
-        "pose_or_activity": "Posing",
-        "age_group": "Young Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Reddish-brown",
-        "hair_parting": "Middle part",
-        "hair_finish": "Natural",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cozy",
-        "color_palette_type": "Earth Tones",
-        "layering_complexity": 1,
-        "focal_point": "Chunky knit sweater",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
-        "color_contrast_strategy": "Tonal/Gradient"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://curatedbykirsten.com/blog/",
-        "clothing_style": "Bohemian Casual",
-        "hairstyle": "Long, wavy hair with highlights",
-        "gender": "Female",
-        "primary_colors": [
-            "White",
-            "Orange",
-            "Red",
-            "Brown"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Sleeveless collared crop top",
-        "bottom_garment_type": "Wide-leg patterned trousers",
-        "footwear_type": "Flat shoes",
-        "accessories": [],
-        "patterns": [
-            "Abstract"
-        ],
-        "fabric_textures": [
-            "Cotton",
-            "Lightweight woven"
-        ],
-        "clothing_fit": "Mixed",
-        "silhouette": "Draped",
-        "hemline_length": "Ankle-crop",
-        "neckline_style": "Crew",
-        "waistline_rise": "High-rise",
-        "embellishments": [],
-        "hardware_details": [
-            "Buttons"
-        ],
-        "material_finish": "Matte",
-        "setting": "Indoors/Studio",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
-        "age_group": "Young Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Brunette",
-        "hair_parting": "Middle part",
-        "hair_finish": "Natural",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Patterned trousers",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": "Bohemian",
-        "color_contrast_strategy": "Neutral with a pop of color"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://curatedbykirsten.com/blog/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, wavy, multi-toned with pink/red highlights",
-        "gender": "Female",
-        "primary_colors": [
-            "Red",
+            "Brown",
+            "Beige",
             "Black",
             "Grey"
         ],
@@ -377,275 +15,670 @@
         "region": "US",
         "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "Sleeveless crop top",
-        "bottom_garment_type": "Patchwork shorts",
+        "top_garment_type": "Multi-textured fur coat",
+        "bottom_garment_type": "Long skirt",
         "footwear_type": null,
         "accessories": [
-            "Bracelet"
+            "Fur ushanka hat"
         ],
         "patterns": [
-            "Patchwork"
+            "Solid"
         ],
         "fabric_textures": [
-            "Smooth knit",
-            "Denim"
+            "Shaggy fur",
+            "Curly fur",
+            "Shearling"
         ],
-        "clothing_fit": "Fitted/Tight",
-        "silhouette": "Fitted/Bodycon",
-        "hemline_length": "Mini",
-        "neckline_style": "Crew",
-        "waistline_rise": "Mid-rise",
-        "embellishments": [
-            "Patchwork seams"
-        ],
-        "hardware_details": [],
-        "material_finish": "Matte",
-        "setting": "Indoors/Studio",
-        "seasonality": "Summer",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing",
-        "age_group": "Young Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Brunette with pink/red highlights",
-        "hair_parting": "Side part",
-        "hair_finish": "Textured/Messy",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Casual",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Patchwork shorts",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
-        "color_contrast_strategy": "Color-blocking"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, wavy, middle part",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Short-sleeved V-neck blouse",
-        "bottom_garment_type": "Denim shorts",
-        "footwear_type": null,
-        "accessories": [
-            "Dangle earrings",
-            "Ring"
-        ],
-        "patterns": [
-            "Abstract floral/scattered pattern"
-        ],
-        "fabric_textures": [
-            "Woven fabric",
-            "Denim"
-        ],
-        "clothing_fit": "Mixed",
+        "clothing_fit": "Oversized",
         "silhouette": "Boxy",
-        "hemline_length": null,
-        "neckline_style": "V-neck",
-        "waistline_rise": "High-rise",
+        "hemline_length": "Maxi",
+        "neckline_style": null,
+        "waistline_rise": null,
         "embellishments": [],
         "hardware_details": [],
         "material_finish": "Matte",
         "setting": "Urban/Street",
-        "seasonality": "Spring",
-        "weather_conditions": "Sunny",
-        "pose_or_activity": "Posing, smiling at camera",
-        "age_group": "Adult",
-        "makeup_style": "Natural",
-        "hair_color": "Black",
-        "hair_parting": "Middle part",
-        "hair_finish": "Textured/Messy",
-        "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Effortless chic",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Yellow patterned blouse",
-        "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
-        "color_contrast_strategy": "Neutral with a pop of color"
-    },
-    {
-        "date_scraped": "2026-10-02",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, Wavy",
-        "gender": "Female",
-        "primary_colors": [
-            "Yellow",
-            "White"
-        ],
-        "is_trendsetter": false,
-        "region": "US",
-        "confidence_score": 0.95,
-        "image_url": null,
-        "top_garment_type": "Floral V-neck Blouse",
-        "bottom_garment_type": "White Skinny Jeans",
-        "footwear_type": null,
-        "accessories": [
-            "Dangle earrings",
-            "Ring"
-        ],
-        "patterns": [
-            "Floral"
-        ],
-        "fabric_textures": [
-            "Lightweight woven fabric",
-            "Denim"
-        ],
-        "clothing_fit": "Mixed",
-        "silhouette": "A-line",
-        "hemline_length": "Ankle-crop",
-        "neckline_style": "V-neck",
-        "waistline_rise": "High-rise",
-        "embellishments": [],
-        "hardware_details": [
-            "Silver button"
-        ],
-        "material_finish": "Matte",
-        "setting": "Nature",
-        "seasonality": "Spring",
-        "weather_conditions": "Sunny",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Clear sky",
         "pose_or_activity": "Posing",
         "age_group": "Young Adult",
         "makeup_style": "Natural",
         "hair_color": "Black",
-        "hair_parting": "Side part",
-        "hair_finish": "Voluminous/Blowout",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
         "hair_accessories": [],
-        "brand_mentions": [],
-        "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cheerful",
-        "color_palette_type": "High Contrast",
-        "layering_complexity": 1,
-        "focal_point": "Floral V-neck Blouse",
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Avant-garde, Bold",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Multi-textured fur coat",
         "occasion": "Everyday casual",
         "subculture_aesthetic": null,
-        "color_contrast_strategy": "Color-blocking"
+        "color_contrast_strategy": "Tonal/Gradient"
     },
     {
         "date_scraped": "2026-10-02",
-        "source_url": "https://www.puttingmetogether.com/",
-        "clothing_style": "Casual",
-        "hairstyle": "Long, wavy, side-parted",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Winter Chic",
+        "hairstyle": "Long, straight",
         "gender": "Female",
         "primary_colors": [
-            "Yellow",
-            "White"
+            "Brown",
+            "Tan",
+            "Black"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "V-neck blouse",
-        "bottom_garment_type": "White pants",
+        "top_garment_type": "Oversized Fur Coat",
+        "bottom_garment_type": null,
         "footwear_type": null,
         "accessories": [
-            "Dangle earrings",
-            "Ring"
+            "Fur Ushanka Hat"
         ],
         "patterns": [
-            "Floral"
+            "Solid"
         ],
         "fabric_textures": [
-            "Woven fabric"
+            "Fur",
+            "Shearling"
         ],
-        "clothing_fit": "Mixed",
+        "clothing_fit": "Oversized",
         "silhouette": "Boxy",
         "hemline_length": null,
-        "neckline_style": "V-neck",
-        "waistline_rise": "Mid-rise",
+        "neckline_style": null,
+        "waistline_rise": null,
         "embellishments": [],
         "hardware_details": [],
         "material_finish": "Matte",
-        "setting": "Nature",
-        "seasonality": "Spring",
-        "weather_conditions": "Sunny",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Cold, Clear sky",
         "pose_or_activity": "Posing",
-        "age_group": "Adult",
+        "age_group": "Young Adult",
         "makeup_style": "Natural",
         "hair_color": "Black",
+        "hair_parting": "Unclear",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Winter Glamour",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Oversized Fur Coat",
+        "occasion": "Formal/Event",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "http://the-rosenrot.com/",
+        "clothing_style": "Avant-garde Winter",
+        "hairstyle": "Long, straight with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "Beige",
+            "Black",
+            "Grey",
+            "White",
+            "Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Oversized Shaggy Fur Coat",
+        "bottom_garment_type": "Long Skirt",
+        "footwear_type": null,
+        "accessories": [
+            "Fur Ushanka Hat"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Shaggy Fur",
+            "Curly Fur",
+            "Smooth Fur"
+        ],
+        "clothing_fit": "Oversized",
+        "silhouette": "Oversized",
+        "hemline_length": "Maxi",
+        "neckline_style": null,
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Winter",
+        "weather_conditions": "Snowy, Cold, Clear sky",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural with a pop of color",
+        "hair_color": "Black",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "ROSEN"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Bold, Editorial, Winter Chic",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 3,
+        "focal_point": "Oversized Shaggy Fur Coat",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "http://www.un-fancy.com/",
+        "clothing_style": "Minimalist Casual",
+        "hairstyle": "Short, natural, side-parted",
+        "gender": "Female",
+        "primary_colors": [
+            "White",
+            "Blue",
+            "Tan"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Crew-neck T-shirt",
+        "bottom_garment_type": "Ankle-crop jeans",
+        "footwear_type": "Sneakers",
+        "accessories": [
+            "Crossbody bag",
+            "Watch",
+            "Rings"
+        ],
+        "patterns": [
+            "Solid"
+        ],
+        "fabric_textures": [
+            "Cotton",
+            "Denim",
+            "Leather"
+        ],
+        "clothing_fit": "Regular/Tailored",
+        "silhouette": "Boxy",
+        "hemline_length": "Ankle-crop",
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [
+            "Gold-toned buckle",
+            "Watch clasp"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Blonde",
         "hair_parting": "Side part",
         "hair_finish": "Natural",
         "hair_accessories": [],
         "brand_mentions": [],
         "price_segment": "Unknown",
-        "sentiment_or_vibe": "Cheerful",
-        "color_palette_type": "High Contrast",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
         "layering_complexity": 1,
-        "focal_point": "Yellow patterned blouse",
+        "focal_point": "The clean, simple lines of the outfit",
         "occasion": "Everyday casual",
-        "subculture_aesthetic": null,
+        "subculture_aesthetic": "Capsule wardrobe",
         "color_contrast_strategy": "Neutral with a pop of color"
     },
     {
         "date_scraped": "2026-10-02",
-        "source_url": "https://www.kendieveryday.com/",
-        "clothing_style": "Casual Chic",
-        "hairstyle": "Medium-length wavy hair",
+        "source_url": "http://www.extrapetite.com/",
+        "clothing_style": "Casual",
+        "hairstyle": "Ponytail",
         "gender": "Female",
         "primary_colors": [
+            "Navy",
             "White",
-            "Dark Brown",
-            "Orange"
+            "Brown",
+            "Teal"
         ],
         "is_trendsetter": false,
         "region": "US",
         "confidence_score": 0.95,
         "image_url": null,
-        "top_garment_type": "T-shirt",
+        "top_garment_type": "Sleeveless top",
         "bottom_garment_type": "Wide-leg trousers",
-        "footwear_type": "Sneakers",
+        "footwear_type": "Flat sandals",
         "accessories": [
             "Sunglasses",
-            "Gold necklace",
-            "Leather tote bag"
+            "Necklace",
+            "Earrings",
+            "Handbag"
         ],
         "patterns": [
-            "Striped"
+            "Solid"
         ],
         "fabric_textures": [
-            "Cotton",
-            "Soft knit",
+            "Woven",
             "Leather"
         ],
         "clothing_fit": "Mixed",
-        "silhouette": "Boxy",
-        "hemline_length": "Ankle-crop",
+        "silhouette": "Draped",
+        "hemline_length": null,
         "neckline_style": "Crew",
         "waistline_rise": "High-rise",
         "embellishments": [],
         "hardware_details": [],
         "material_finish": "Matte",
         "setting": "Urban/Street",
-        "seasonality": "Autumn",
+        "seasonality": "Summer",
         "weather_conditions": "Overcast",
-        "pose_or_activity": "Posing",
+        "pose_or_activity": "Standing, observing",
         "age_group": "Adult",
         "makeup_style": "Natural",
-        "hair_color": "Black",
-        "hair_parting": "Side part",
-        "hair_finish": "Textured/Messy",
-        "hair_accessories": [],
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Sleek/Smooth",
+        "hair_accessories": [
+            "Hair tie"
+        ],
         "brand_mentions": [],
         "price_segment": "Unknown",
         "sentiment_or_vibe": "Effortless chic",
         "color_palette_type": "Neutral",
-        "layering_complexity": 2,
-        "focal_point": "Orange sweatshirt",
+        "layering_complexity": 1,
+        "focal_point": "The sake barrels and the woman's outfit",
         "occasion": "Everyday casual",
         "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "https://oclydia.com/",
+        "clothing_style": "Casual Chic",
+        "hairstyle": "Long, Wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Sweater dress",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses"
+        ],
+        "patterns": [
+            "Herringbone",
+            "Jacquard"
+        ],
+        "fabric_textures": [
+            "Knit"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Spring",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Auburn",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Voluminous/Blowout",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Shoshanna"
+        ],
+        "price_segment": "Luxury",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Sweater dress jacquard pattern",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Color-blocking"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "https://oclydia.com/",
+        "clothing_style": "Beachwear/Resortwear",
+        "hairstyle": "Long, wavy, brown hair",
+        "gender": "Female",
+        "primary_colors": [
+            "Brown",
+            "White",
+            "Black"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Bikini top",
+        "bottom_garment_type": "Bikini bottom",
+        "footwear_type": null,
+        "accessories": [
+            "Sunglasses",
+            "Necklace",
+            "Bracelet"
+        ],
+        "patterns": [
+            "Geometric/Abstract"
+        ],
+        "fabric_textures": [
+            "Smooth"
+        ],
+        "clothing_fit": "Fitted/Tight",
+        "silhouette": "Fitted/Bodycon",
+        "hemline_length": "Mini",
+        "neckline_style": "Halter",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [],
+        "hardware_details": [],
+        "material_finish": "Matte",
+        "setting": "Beach",
+        "seasonality": "Summer",
+        "weather_conditions": "Sunny",
+        "pose_or_activity": "Posing, relaxing",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "No part/Swept back",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Relaxed, vacation",
+        "color_palette_type": "Earth Tones",
+        "layering_complexity": 1,
+        "focal_point": "Patterned bikini",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "https://oclydia.com/",
+        "clothing_style": "Smart Casual",
+        "hairstyle": "Long, wavy",
+        "gender": "Female",
+        "primary_colors": [
+            "Cream",
+            "Black",
+            "Rust",
+            "Light Grey",
+            "Dark Grey",
+            "Light Blue"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.95,
+        "image_url": null,
+        "top_garment_type": "Distressed Knit Sweater",
+        "bottom_garment_type": "Skinny Jeans",
+        "footwear_type": null,
+        "accessories": [
+            "Baker Boy Cap",
+            "Crossbody Bag",
+            "Rings",
+            "Sunglasses",
+            "Pocket Square",
+            "Watch"
+        ],
+        "patterns": [
+            "Solid",
+            "Monogram"
+        ],
+        "fabric_textures": [
+            "Knit",
+            "Denim",
+            "Jersey"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": "Mid-rise",
+        "embellishments": [
+            "Distressing",
+            "Studs"
+        ],
+        "hardware_details": [
+            "Studs",
+            "Watch"
+        ],
+        "material_finish": "Matte",
+        "setting": "Urban/Street",
+        "seasonality": "Autumn",
+        "weather_conditions": "Overcast",
+        "pose_or_activity": "Walking confidently",
+        "age_group": "Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Side part",
+        "hair_finish": "Textured/Messy",
+        "hair_accessories": [],
+        "brand_mentions": [
+            "Lydia McLaughlin"
+        ],
+        "price_segment": "Mid-range",
+        "sentiment_or_vibe": "Effortless chic",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 2,
+        "focal_point": "Baker Boy Cap",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "https://lazykat.fr/",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Medium length, layered with full bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Grey",
+            "Dark Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt with puff sleeves",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Beret",
+            "Star chain hair accessory"
+        ],
+        "patterns": [
+            "Abstract/Organic"
+        ],
+        "fabric_textures": [
+            "Woven fabric",
+            "Felt"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Embroidery"
+        ],
+        "hardware_details": [
+            "Star charms"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Unclear",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Brunette",
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Natural",
+        "hair_accessories": [
+            "Star chain"
+        ],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Beret and patterned shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": null,
+        "color_contrast_strategy": "Tonal/Gradient"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "https://lazykat.fr/",
+        "clothing_style": "Retro Chic",
+        "hairstyle": "Long, straight with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "White/Light Grey"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Collared button-up shirt with puff sleeves",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Beret",
+            "Dangling earrings"
+        ],
+        "patterns": [
+            "Swirling pattern"
+        ],
+        "fabric_textures": [
+            "Smooth fabric",
+            "Felt/Wool"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Embroidery on beret",
+            "Decorative chains"
+        ],
+        "hardware_details": [
+            "Chains"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": null,
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": null,
+        "hair_parting": "Bangs/Fringe",
+        "hair_finish": "Natural",
+        "hair_accessories": [],
+        "brand_mentions": [],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Vintage charm",
+        "color_palette_type": "Neutral",
+        "layering_complexity": 1,
+        "focal_point": "Patterned shirt",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Retro",
+        "color_contrast_strategy": "Neutral with a pop of color"
+    },
+    {
+        "date_scraped": "2026-10-02",
+        "source_url": "https://lazykat.fr/",
+        "clothing_style": "Eclectic Casual",
+        "hairstyle": "Medium-length, wavy with bangs",
+        "gender": "Female",
+        "primary_colors": [
+            "Black",
+            "Light Gray",
+            "Dark Gray"
+        ],
+        "is_trendsetter": false,
+        "region": "US",
+        "confidence_score": 0.9,
+        "image_url": null,
+        "top_garment_type": "Button-up shirt with puff sleeves",
+        "bottom_garment_type": null,
+        "footwear_type": null,
+        "accessories": [
+            "Beret",
+            "Star charm chain"
+        ],
+        "patterns": [
+            "Abstract organic pattern"
+        ],
+        "fabric_textures": [
+            "Woven fabric",
+            "Felt/Wool"
+        ],
+        "clothing_fit": "Mixed",
+        "silhouette": "Boxy",
+        "hemline_length": null,
+        "neckline_style": "Crew",
+        "waistline_rise": null,
+        "embellishments": [
+            "Embroidered text"
+        ],
+        "hardware_details": [
+            "Buttons",
+            "Star charms"
+        ],
+        "material_finish": "Matte",
+        "setting": "Indoors/Studio",
+        "seasonality": "Autumn",
+        "weather_conditions": "Unclear",
+        "pose_or_activity": "Posing",
+        "age_group": "Young Adult",
+        "makeup_style": "Natural",
+        "hair_color": "Light Brown",
+        "hair_parting": "Middle part",
+        "hair_finish": "Natural",
+        "hair_accessories": [
+            "Beret"
+        ],
+        "brand_mentions": [
+            "Lazy Kat"
+        ],
+        "price_segment": "Unknown",
+        "sentiment_or_vibe": "Playful",
+        "color_palette_type": "High Contrast",
+        "layering_complexity": 1,
+        "focal_point": "Beret with embroidered text and star chain",
+        "occasion": "Everyday casual",
+        "subculture_aesthetic": "Drag-inspired",
         "color_contrast_strategy": "Neutral with a pop of color"
     }
 ]
