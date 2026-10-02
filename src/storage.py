@@ -17,11 +17,14 @@ def store_dataset(dataset: List[Dict[str, Any]]) -> None:
     Args:
         dataset (List[Dict[str, Any]]): The aggregated list of extracted fashion records.
     """
-    date_str = datetime.now().strftime("%Y-%m-%d")
+    now = datetime.now()
+    date_str = now.strftime("%Y-%m-%d")
+    year_str = now.strftime("%Y")
+    month_str = now.strftime("%m")
     target_filename = f"fashion_analytics_{date_str}.json"
     
     if os.getenv("GITHUB_ACTIONS") == "true":
-        target_dir = Path("data")
+        target_dir = Path("data") / year_str / month_str
     else:
         # Fallback to local Downloads directory
         target_dir = Path.home() / "Downloads"

@@ -12,15 +12,20 @@ def generate_overview():
         print(f"Directory '{data_dir}' not found.")
         return
 
-    files = [f for f in os.listdir(data_dir) if f.endswith(".json")]
-    total_files = len(files)
+    filepaths = []
+    for root, _, filenames in os.walk(data_dir):
+        for f in filenames:
+            if f.endswith(".json"):
+                filepaths.append(os.path.join(root, f))
+    
+    total_files = len(filepaths)
     
     total_records = 0
     field_stats = defaultdict(lambda: {"filled": 0, "distinct_values": set()})
     all_keys = set()
     
-    for filename in files:
-        filepath = os.path.join(data_dir, filename)
+    for filepath in filepaths:
+        filename = os.path.basename(filepath)
         with open(filepath, 'r', encoding='utf-8') as f:
             try:
                 data = json.load(f)

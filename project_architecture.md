@@ -25,7 +25,9 @@ fashion-analytics-scraper/
 │   ├── schema.py
 │   └── storage.py
 ├── data/
-│   └── (Auto-generated JSON datasets)
+│   └── YYYY/
+│       └── MM/
+│           └── (Auto-generated JSON datasets)
 ├── tests/
 ├── README.md
 └── requirements.txt
