@@ -58,5 +58,5 @@ jobs:
           gh api \
             --method POST \
             -H "Accept: application/vnd.github+json" \
-            /repos/${{ github.repository }}/commits/${COMMIT_SHA}/comments \
+            "/repos/${{ github.repository }}/commits/${COMMIT_SHA}/comments" \
             -f body="$(echo -e "$BODY")"

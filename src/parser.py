@@ -13,11 +13,11 @@ from google.genai.errors import APIError
 import asyncio
 from pydantic import ValidationError, BaseModel, Field
 from schema import FashionRecord
+from tenacity import retry, wait_exponential_jitter, stop_after_attempt, retry_if_exception_type
 
 class FashionExtractionResponse(BaseModel):
     visual_analysis: str = Field(description="Step-by-step detailed visual analysis of the image. Describe the subject, demographics, setting, and break down the outfit from head to toe including fabrics, patterns, and accessories before filling the record.")
     record: FashionRecord
-from tenacity import retry, wait_exponential_jitter, stop_after_attempt, retry_if_exception_type
 
 logger = logging.getLogger(__name__)
 

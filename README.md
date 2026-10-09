@@ -1,4 +1,5 @@
 # Fashion Analytics Scraper
+[![CI](https://github.com/kleinnconrad/style_dataset/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/kleinnconrad/style_dataset/actions/workflows/ci.yml)
 
 An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It dynamically discovers independent fashion blogs, scrapes them using `crawl4ai`, extracts fashion metadata using Google Gemini (`gemini-2.5-flash`), and saves the structured data to the repository.
 
@@ -7,6 +8,7 @@ An autonomous fashion analytics pipeline that runs daily via GitHub Actions. It 
 - [Pipeline Architecture](#pipeline-architecture)
 - [What It Scrapes](#what-it-scrapes)
 - [Dependency Management](#dependency-management)
+- [Continuous Integration](#continuous-integration)
 - [Setup](#setup)
 
 ## Dataset Overview
@@ -119,15 +121,28 @@ The scraper focuses on independent fashion blogs and forums. To ensure enough da
 
 ## Dependency Management
 
-This project uses the "Lockfile Pattern" via `pip-tools` for reproducible builds and streamlined dependency updates.
+This project uses [uv](https://docs.astral.sh/uv/) with a lockfile for reproducible builds.
 
-1. **Top-Level Dependencies**: Defined in `requirements.in`. This file only lists direct dependencies required by the project.
-2. **Pinned Dependencies**: `requirements.txt` is generated automatically from `requirements.in` using `pip-compile`. This locks all dependencies and sub-dependencies to specific versions.
-3. **Automated Updates**: Dependabot is configured (`.github/dependabot.yml`) to automatically check for updates weekly and group all Python dependency updates into a single pull request.
+1. **Dependencies**: `pyproject.toml` declares the direct dependencies; development tools (pytest, ruff) are in the `dev` dependency group.
+2. **Lockfile**: `uv.lock` pins the complete dependency tree. After changing `pyproject.toml`, run `uv lock` and commit both files.
+3. **Automated Updates**: Dependabot (`.github/dependabot.yml`) checks weekly for updates of the Python dependencies (`uv` ecosystem, updating `pyproject.toml` and `uv.lock` together) and of the GitHub Actions, each grouped into a single pull request.
 
-To update dependencies locally, modify `requirements.in` and run:
+## Continuous Integration
+
+The `CI` workflow (`.github/workflows/ci.yml`) runs on every pull request and on pushes to `main`:
+
+| Job | Checks |
+|---|---|
+| `Lint` | `uv.lock` matches `pyproject.toml`; `ruff check`; `actionlint` (including `shellcheck`) on the workflow files |
+| `Tests` | The tests in `tests/` on Python 3.11 and 3.14. They currently verify that every module in `src/` imports with the locked dependencies. |
+| `Conventional Commits` | Every commit of a pull request follows the Conventional Commits format (pull requests only) |
+| `CI passed` | Succeeds only if all jobs above succeeded or were skipped; use it as the single required status check in the branch protection of `main` |
+
+Run the Python checks locally before pushing:
 ```bash
-pip-compile requirements.in
+uv lock --check
+uv run ruff check .
+uv run pytest
 ```
 
 ## Setup
