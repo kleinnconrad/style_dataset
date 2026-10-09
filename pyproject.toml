@@ -9,11 +9,11 @@ description = "A dataset for fashion analytics"
 requires-python = ">=3.11"
 dependencies = [
     "crawl4ai==0.9.4",
-    "google-genai==2.25.0",
+    "google-genai==2.28.0",
     "google-api-python-client",
     "google-auth-httplib2",
     "google-auth-oauthlib",
-    "python-dotenv==1.2.3",
+    "python-dotenv==1.2.4",
     "tenacity==9.1.4",
     "Pillow==12.3.0",
     "pydantic"
@@ -22,7 +22,7 @@ dependencies = [
 [dependency-groups]
 dev = [
     "pytest==9.1.1",
-    "ruff==0.16.9",
+    "ruff==0.16.10",
 ]
 
 [tool.pytest.ini_options]
