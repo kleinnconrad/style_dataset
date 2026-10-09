@@ -1,4 +1,4 @@
-# Antigravity Guidelines
+# Repository Guidelines
 
 This file contains foundational instructions and conventions for developing in this repository. AI agents and developers must strictly adhere to these rules.
 
@@ -11,6 +11,7 @@ This file contains foundational instructions and conventions for developing in t
 - [6. Linting & Validation](#6-linting--validation)
 - [7. Security Best Practices](#7-security-best-practices)
 - [8. Error Handling](#8-error-handling)
+- [9. Version Control & Committing](#9-version-control--committing)
 
 ## 1. Directory Structure
 - The `src` directory is strictly reserved for the core logic of the application. 
@@ -49,3 +50,6 @@ This file contains foundational instructions and conventions for developing in t
 
 ## 8. Error Handling
 - Use specific exception handling (`try...except` blocks) instead of catching generic `Exception`s where possible, and provide informative error messages.
+
+## 9. Version Control & Committing
+- Never run `git commit` or `git push`, and never commit or push through GitHub tools or APIs, without the user's explicit approval of that specific commit. Prepare the changes locally, show the diff and the proposed commit message, and wait for approval. Approval of one commit does not extend to later commits.
