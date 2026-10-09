@@ -17,14 +17,14 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: ${{ github.event_name == 'workflow_run' && 'main' || github.ref }}
           fetch-depth: 2
 
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v42
+        uses: tj-actions/changed-files@v47
         with:
           files: data/*/*/fashion_analytics_*.json
 
