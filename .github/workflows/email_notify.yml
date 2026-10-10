@@ -12,7 +12,11 @@ on:
 jobs:
   send-notification:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
+    # Shadow and dry runs commit no data; their run name contains the mode (see daily_scraper.yml)
+    if: >-
+      ${{ github.event_name == 'push' || (github.event.workflow_run.conclusion == 'success'
+      && !contains(github.event.workflow_run.display_title, 'shadow')
+      && !contains(github.event.workflow_run.display_title, 'dry-run')) }}
     permissions:
       contents: write
     steps:

@@ -1,0 +1,86 @@
+name: Weekly Source Discovery
+run-name: Weekly source discovery (${{ inputs.mode || 'normal' }})
+
+on:
+  schedule:
+    - cron: '0 12 * * 0'   # Sundays 12:00 UTC, away from the daily run at 01:00 UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'normal: update the source registry and commit it; shadow: work on a copy and upload it as an artifact'
+        type: choice
+        options:
+          - normal
+          - shadow
+        default: normal
+
+# Shared with daily_scraper.yml, so that the two never push at the same time
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
+
+jobs:
+  maintain-sources:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    env:
+      MODE: ${{ inputs.mode || 'normal' }}
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v7
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v7
+
+    - name: Set up Python
+      uses: actions/setup-python@v7
+      with:
+        python-version: '3.11'
+
+    - name: Install Dependencies
+      run: uv sync --frozen
+
+    - name: Run Weekly Maintenance
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        if [ "$MODE" = "shadow" ]; then
+          mkdir -p "$RUNNER_TEMP/shadow"
+          if [ -d data/state ]; then
+            cp -r data/state "$RUNNER_TEMP/shadow/"
+          fi
+          uv run python src/discovery.py --output-dir "$RUNNER_TEMP/shadow"
+        else
+          uv run python src/discovery.py
+        fi
+
+    - name: Commit and Push Registry
+      if: ${{ !cancelled() && env.MODE == 'normal' }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/state/
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+          exit 0
+        fi
+        git commit -m "chore: update source registry"
+        for attempt in 1 2 3; do
+          if git pull --rebase && git push; then
+            exit 0
+          fi
+          echo "Push attempt $attempt failed; retrying."
+          sleep $((attempt * 15))
+        done
+        exit 1
+
+    - name: Upload Shadow Output
+      if: ${{ !cancelled() && env.MODE == 'shadow' }}
+      uses: actions/upload-artifact@v7
+      with:
+        name: source-discovery-shadow-${{ github.run_id }}
+        path: ${{ runner.temp }}/shadow
+        retention-days: 14
