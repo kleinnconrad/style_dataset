@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>Example Style</title>
+  <link>https://www.example-style.com</link>
+  <description>Personal style blog</description>
+  <language>en-GB</language>
+  <item>
+    <title>Autumn outfit: camel coat and wide-leg jeans</title>
+    <link>https://www.example-style.com/autumn-outfit/?utm_source=rss&amp;utm_medium=rss</link>
+    <pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
+    <category><![CDATA[Outfits]]></category>
+    <category><![CDATA[Autumn]]></category>
+    <description><![CDATA[Short summary]]></description>
+    <content:encoded><![CDATA[<p>Today I wear my coat.</p><figure><img src="https://www.example-style.com/wp-content/uploads/2026/10/coat-1024x1536.jpg" srcset="https://www.example-style.com/wp-content/uploads/2026/10/coat-683x1024.jpg 683w, https://www.example-style.com/wp-content/uploads/2026/10/coat-1024x1536.jpg 1024w" data-lazy-src="https://www.example-style.com/wp-content/uploads/2026/10/coat.jpg" alt="Camel coat"><figcaption>Coat by Everlane</figcaption></figure>]]></content:encoded>
+  </item>
+  <item>
+    <title>Weekend Reading 10.03.26</title>
+    <link>https://www.example-style.com/weekend-reading/</link>
+    <pubDate>Sat, 03 Oct 2026 09:00:00 +0000</pubDate>
+    <category><![CDATA[Lifestyle]]></category>
+    <description><![CDATA[Links of the week]]></description>
+  </item>
+  <item>
+    <title>Striped shirt three ways</title>
+    <link>https://www.example-style.com/striped-shirt/</link>
+    <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
+    <category><![CDATA[Outfits]]></category>
+    <description><![CDATA[Summary only]]></description>
+  </item>
+  <item>
+    <title>Summer dresses</title>
+    <link>https://www.example-style.com/summer-dresses/</link>
+    <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
+    <category><![CDATA[Outfits]]></category>
+    <description><![CDATA[Older post]]></description>
+  </item>
+</channel>
+</rss>

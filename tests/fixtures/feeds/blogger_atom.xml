@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Seaside Style</title>
+  <link rel="alternate" type="text/html" href="https://seaside.blogspot.com/"/>
+  <updated>2026-10-05T10:00:00Z</updated>
+  <id>tag:blogger.com,1999:blog-1</id>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1.post-2</id>
+    <title type="text">Rainy day layers</title>
+    <published>2026-10-05T10:00:00Z</published>
+    <updated>2026-10-05T10:00:00Z</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="outfits"/>
+    <link rel="alternate" type="text/html" href="https://seaside.blogspot.com/2026/10/rainy-day-layers.html"/>
+    <content type="html">&lt;p&gt;Layers for rain&lt;/p&gt;&lt;img src="https://blogger.googleusercontent.com/img/a/rain.jpg"/&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1.post-1</id>
+    <title type="text">Book club picks</title>
+    <published>2026-09-28T10:00:00Z</published>
+    <updated>2026-09-28T10:00:00Z</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="books"/>
+    <link rel="alternate" type="text/html" href="https://seaside.blogspot.com/2026/09/book-club.html"/>
+    <content type="html">&lt;p&gt;Books&lt;/p&gt;</content>
+  </entry>
+</feed>
