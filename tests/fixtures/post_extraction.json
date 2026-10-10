@@ -1,0 +1,82 @@
+{
+  "visual_analysis": "Image 1: a woman, full body, on a city street in a camel coat over a cream sweater, wide-leg jeans and white sneakers, carrying a brown tote. Image 2: the same woman in the same outfit, upper body. Image 3: a leather tote on a table, no person. Image 4: a second woman, full body, indoors in a black satin midi dress. Images 1 and 2 show the same outfit. Image 3 shows no outfit.",
+  "outfits": [
+    {
+      "framing": "Full body",
+      "photo_context": "Blogger or private person",
+      "gender": "Female",
+      "age_group": "Adult",
+      "style_category": "Minimalist",
+      "style_detail": "  Relaxed   autumn minimalism ",
+      "aesthetic_tags": ["Quiet luxury/Old money", "Quiet luxury/Old money"],
+      "aesthetic_other": "",
+      "garments": [
+        {"garment_type": "Coat", "description": "Camel wool coat", "primary_color": "Camel/Tan", "secondary_color": "Not applicable", "pattern": "Solid", "material": "Knit/Wool", "fit": "Oversized", "length": "Knee", "neckline": "Not applicable", "rise": "Not applicable", "leg_shape": "Not applicable", "finish": "Matte", "design_details": ["Buttons", "Pockets", "Buttons"]},
+        {"garment_type": "Sweater", "description": null, "primary_color": "Beige/Cream", "secondary_color": "Not applicable", "pattern": "Solid", "material": "Cashmere", "fit": "Relaxed", "length": "Hip", "neckline": "Crew", "rise": "Not applicable", "leg_shape": "Not applicable", "finish": "Matte", "design_details": []},
+        {"garment_type": "Jeans", "description": "Wide-leg jeans", "primary_color": "Denim blue", "secondary_color": "Not applicable", "pattern": "Solid", "material": "Denim", "fit": "Relaxed", "length": "Full-length", "neckline": "Not applicable", "rise": "High-rise", "leg_shape": "Wide", "finish": "Matte", "design_details": ["Pockets"]},
+        {"garment_type": "Sneakers", "description": null, "primary_color": "White", "secondary_color": "Not applicable", "pattern": "Solid", "material": "Leather", "fit": "Not applicable", "length": "Not applicable", "neckline": "Not applicable", "rise": "Not applicable", "leg_shape": "Not applicable", "finish": "Matte", "design_details": []},
+        {"garment_type": "Tote", "description": "Woven leather tote", "primary_color": "Brown", "secondary_color": "Not applicable", "pattern": "Solid", "material": "Leather", "fit": "Not applicable", "length": "Not applicable", "neckline": "Not applicable", "rise": "Not applicable", "leg_shape": "Not applicable", "finish": "Matte", "design_details": []}
+      ],
+      "focal_garment_index": 1,
+      "layering_complexity": 2,
+      "overall_fit": "Mixed",
+      "silhouette": "Straight/Column",
+      "color_palette_type": "Neutral",
+      "color_contrast_strategy": "All neutrals",
+      "occasion": "Everyday casual",
+      "setting": "Urban/Street",
+      "season": "Autumn",
+      "weather": "Overcast",
+      "hair_length": "Shoulder-length",
+      "hair_texture": "Wavy",
+      "hair_style_type": "Down",
+      "hair_color": "Blonde",
+      "hair_parting": "Middle part",
+      "hair_finish": "Natural",
+      "makeup_style": "Natural/Minimal",
+      "brand_mentions": ["Everlane", "everlane", "Gucci"],
+      "price_segment": "Mid-range",
+      "image_indexes": [2, 1, 2, 9]
+    },
+    {
+      "framing": "Full body",
+      "photo_context": "Blogger or private person",
+      "gender": "Female",
+      "age_group": "Young Adult",
+      "style_category": "Formal/Evening",
+      "style_detail": null,
+      "aesthetic_tags": [],
+      "aesthetic_other": null,
+      "garments": [
+        {"garment_type": "Dress", "description": "Black satin slip midi dress", "primary_color": "Black", "secondary_color": "Not applicable", "pattern": "Solid", "material": "Silk/Satin", "fit": "Fitted", "length": "Midi", "neckline": "V-neck", "rise": "Not applicable", "leg_shape": "Not applicable", "finish": "Glossy/Patent", "design_details": ["Slit"]},
+        {"garment_type": "Heels/Pumps", "description": null, "primary_color": "Black", "secondary_color": "Not applicable", "pattern": "Solid", "material": "Leather", "fit": "Not applicable", "length": "Not applicable", "neckline": "Not applicable", "rise": "Not applicable", "leg_shape": "Not applicable", "finish": "Glossy/Patent", "design_details": []},
+        {"garment_type": "Earrings", "description": "Gold hoops", "primary_color": "Gold", "secondary_color": "Not applicable", "pattern": "Not applicable", "material": "Metal", "fit": "Not applicable", "length": "Not applicable", "neckline": "Not applicable", "rise": "Not applicable", "leg_shape": "Not applicable", "finish": "Metallic", "design_details": []}
+      ],
+      "focal_garment_index": 7,
+      "layering_complexity": 9,
+      "overall_fit": "Fitted/Tight",
+      "silhouette": "Fitted/Bodycon",
+      "color_palette_type": "Monochrome",
+      "color_contrast_strategy": "Monochrome",
+      "occasion": "Night out/Party",
+      "setting": "Indoors/Studio",
+      "season": "Unclear",
+      "weather": "Not visible",
+      "hair_length": "Long",
+      "hair_texture": "Straight",
+      "hair_style_type": "Down",
+      "hair_color": "Dark brown",
+      "hair_parting": "Side part",
+      "hair_finish": "Sleek/Smooth",
+      "makeup_style": "Bold lips",
+      "brand_mentions": [],
+      "price_segment": "Unknown",
+      "image_indexes": [4]
+    }
+  ],
+  "rejected_images": [
+    {"index": 3, "reason": "Product/flat lay"},
+    {"index": 1, "reason": "Other"},
+    {"index": 12, "reason": "Collage"}
+  ]
+}
