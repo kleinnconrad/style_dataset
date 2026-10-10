@@ -24,9 +24,7 @@ Usage:
     uv run python scripts/try_extraction.py posts.json --out extraction_review
 """
 import argparse
-import hashlib
 import html
-import io
 import json
 import logging
 import sys
@@ -40,8 +38,8 @@ SRC_DIR = Path(__file__).resolve().parents[1] / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
+import requests  # noqa: E402
 from dotenv import load_dotenv  # noqa: E402
-from PIL import Image  # noqa: E402
 
 from extraction import (  # noqa: E402
     ExtractionError,
@@ -52,7 +50,7 @@ from extraction import (  # noqa: E402
     RunStopError,
     extraction_hash,
 )
-from parser import download_and_resize_image  # noqa: E402
+from images import dhash, fetch_image_bytes, open_image, to_jpeg  # noqa: E402
 from records import PostMetadata, SourceMetadata, build_records, is_excluded  # noqa: E402
 from schema import ImageRef, OutfitRecord  # noqa: E402
 from settings import Settings  # noqa: E402
@@ -119,20 +117,20 @@ def prepare_images(
     inputs: list[ImageInput] = []
     refs: list[ImageRef] = []
     files: list[str] = []
-    for number, image in enumerate(post.get("images", []), start=1):
+    for number, item in enumerate(post.get("images", []), start=1):
         if len(inputs) >= max_images:
             logger.warning("Post %d: more than %d images; the rest is skipped.", post_number, max_images)
             break
-        jpeg = download_and_resize_image(image["url"])
-        if jpeg is None:
+        try:
+            image = open_image(fetch_image_bytes(item["url"], post["url"]))
+        except (requests.RequestException, OSError, ValueError) as e:
+            logger.warning("Post %d, image %d skipped: %s", post_number, number, e)
             continue
+        jpeg = to_jpeg(image)
         file_name = f"post{post_number:02d}_img{number:02d}.jpg"
         (out_dir / "images" / file_name).write_bytes(jpeg)
-        with Image.open(io.BytesIO(jpeg)) as img:
-            width, height = img.size
-        inputs.append(ImageInput(jpeg=jpeg, alt=image.get("alt"), caption=image.get("caption")))
-        # Hash of the JPEG bytes; sufficient to tell the images of this review apart
-        refs.append(ImageRef(hash=hashlib.sha256(jpeg).hexdigest()[:16], width=width, height=height))
+        inputs.append(ImageInput(jpeg=jpeg, alt=item.get("alt"), caption=item.get("caption")))
+        refs.append(ImageRef(hash=dhash(image), width=image.width, height=image.height))
         files.append(f"images/{file_name}")
     return inputs, refs, files
 

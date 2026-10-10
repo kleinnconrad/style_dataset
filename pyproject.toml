@@ -8,6 +8,7 @@ version = "0.1.0"
 description = "A dataset for fashion analytics"
 requires-python = ">=3.11"
 dependencies = [
+    "beautifulsoup4==4.15.0",
     "crawl4ai==0.9.4",
     "google-genai==2.28.0",
     "google-api-python-client",

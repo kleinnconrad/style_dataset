@@ -3,7 +3,6 @@ Extracts images and parses them into structured records using Google Gemini.
 """
 import os
 import logging
-import requests
 from datetime import datetime
 from typing import List, Dict, Optional, Any
 from crawl4ai import AsyncWebCrawler
@@ -12,6 +11,7 @@ from google.genai import types
 from google.genai.errors import APIError
 import asyncio
 from pydantic import ValidationError, BaseModel, Field
+from images import download_and_resize_image
 from schema import FashionRecord
 from tenacity import retry, wait_exponential_jitter, stop_after_attempt, retry_if_exception_type
 
@@ -29,46 +29,6 @@ logger = logging.getLogger(__name__)
 async def _generate_with_retry(client: genai.Client, model: str, contents: list, config: types.GenerateContentConfig):
     """Executes the generate_content API call with exponential backoff retries."""
     return await client.aio.models.generate_content(model=model, contents=contents, config=config)
-
-def download_and_resize_image(url: str, max_size: tuple = (1024, 1024)) -> Optional[bytes]:
-    """
-    Downloads an image from a URL, resizes it using Pillow, and returns it as a byte array.
-    
-    Args:
-        url (str): The URL of the image to download.
-        max_size (tuple): Max width and height for resizing.
-        
-    Returns:
-        Optional[bytes]: The resized image content as JPEG bytes, or None if it fails.
-    """
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-        response = requests.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
-        
-        from PIL import Image
-        import io
-        img = Image.open(io.BytesIO(response.content))
-        
-        # Handle transparency correctly
-        if img.mode in ('RGBA', 'LA') or (img.mode == 'P' and 'transparency' in img.info):
-            img = img.convert('RGBA')
-            bg = Image.new('RGB', img.size, (255, 255, 255))
-            bg.paste(img, mask=img.split()[3])
-            img = bg
-        elif img.mode != 'RGB':
-            img = img.convert('RGB')
-            
-        img.thumbnail(max_size, Image.Resampling.LANCZOS)
-        
-        img_byte_arr = io.BytesIO()
-        img.save(img_byte_arr, format='JPEG', quality=85)
-        return img_byte_arr.getvalue()
-    except Exception as e:
-        logger.error("Failed to download or resize image %s: %s", url, e)
-        return None
 
 async def parse_image_and_context(image_url: str, text_context: str, source_url: str) -> Optional[Dict[str, Any]]:
     """
