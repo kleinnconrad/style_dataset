@@ -23,6 +23,7 @@ logger = logging.getLogger(__name__)
 STATE_FILE_VERSION = 1
 POSTS_FILE = "posts.json"
 IMAGES_FILE = "images.json"
+RUN_LOG_FILE = "run_log.jsonl"
 # Failed attempts after which a post is given up. Quota and server errors do not count.
 MAX_ATTEMPTS = 3
 # Images whose 64-bit dHash differs in at most this many bits count as the same image
@@ -51,6 +52,19 @@ def atomic_write_text(path: Path, text: str) -> None:
         with contextlib.suppress(FileNotFoundError):
             os.unlink(tmp_name)
         raise
+
+
+def append_run_log(state_dir: Path, entry: Mapping[str, Any]) -> None:
+    """Appends one line with the summary of a run to ``run_log.jsonl``.
+
+    Args:
+        state_dir: Folder of the state files.
+        entry: JSON-compatible summary of the run.
+    """
+    path = state_dir / RUN_LOG_FILE
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "a", encoding="utf-8", newline="\n") as handle:
+        handle.write(json.dumps(entry, ensure_ascii=False, sort_keys=True) + "\n")
 
 
 def dump_entries(collection: str, entries: Mapping[str, Mapping[str, Any]], version: int = STATE_FILE_VERSION) -> str:

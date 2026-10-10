@@ -63,6 +63,8 @@ class SourceEntry(BaseModel):
     origin: SourceOrigin
     country: Optional[str] = None
     country_basis: CountryBasis = "unknown"
+    country_lookup: Optional[date] = Field(
+        default=None, description="Date of the last country lookup with Gemini; repeated after half a year.")
     language: Optional[str] = None
     legacy_records: int = 0
     added: date

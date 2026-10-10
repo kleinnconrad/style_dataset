@@ -36,14 +36,13 @@ from records import PostMetadata, SourceMetadata, build_records, is_excluded
 from schema import ImageRef
 from settings import Settings
 from sources import SourceEntry, SourceRegistry, record_feed_result, record_post_outcome, seed_from_legacy
-from state import PipelineState, PostEntry, atomic_write_text
+from state import PipelineState, PostEntry, append_run_log, atomic_write_text
 from storage import append_records
 from urls import normalize_url
 
 logger = logging.getLogger(__name__)
 
 LEGACY_DATA_DIR = Path(__file__).resolve().parents[1] / "data"
-RUN_LOG_FILE = "run_log.jsonl"
 DRY_RUN_REPORT_FILE = "dry_run_report.json"
 FEED_WORKERS = 8
 
@@ -411,8 +410,5 @@ class DailyRun:
             {"source": source_id, "from": old, "to": new} for source_id, old, new in self.registry.apply_rules(self.today)
         ]
         self._save()
-        log_path = self.settings.state_dir / RUN_LOG_FILE
-        log_path.parent.mkdir(parents=True, exist_ok=True)
-        entry = {"finished_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), **self.stats.to_dict()}
-        with open(log_path, "a", encoding="utf-8", newline="\n") as handle:
-            handle.write(json.dumps(entry, ensure_ascii=False, sort_keys=True) + "\n")
+        append_run_log(self.settings.state_dir,
+                       {"finished_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), **self.stats.to_dict()})

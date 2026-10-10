@@ -1,15 +1,34 @@
+# The workflow name is referenced by email_notify.yml; keep both in sync
 name: Manual Fashion Analytics Pipeline
+run-name: Fashion analytics pipeline (${{ inputs.mode || 'normal' }})
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 1:00 AM UTC (2:00 AM CET)
-  workflow_dispatch:      # Allows manual execution via the GitHub UI
+    - cron: '0 1 * * *'   # 01:00 UTC (02:00 CET)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'normal: process posts and commit the data; shadow: process into a temporary folder and upload it as an artifact; dry-run: no model calls, report only'
+        type: choice
+        options:
+          - normal
+          - shadow
+          - dry-run
+        default: normal
+
+# Shared with source_discovery.yml, so that the two never push at the same time
+concurrency:
+  group: data-writes
+  cancel-in-progress: false
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-22.04
+    timeout-minutes: 120
     permissions:
       contents: write
+    env:
+      MODE: ${{ inputs.mode || 'normal' }}
 
     steps:
     - name: Checkout Repository
@@ -30,22 +49,58 @@ jobs:
       env:
         DEBIAN_FRONTEND: noninteractive  # Forces apt-get to skip user prompts
       run: |
-        uv run playwright install chromium --with-deps  # Explicitly installs with auto-yes flags
+        uv run playwright install chromium --with-deps
         uv run crawl4ai-setup
+
+    # Shadow and dry runs work on a copy of the state, so that they select the same posts as a normal run
+    - name: Prepare Output Folder
+      if: env.MODE != 'normal'
+      run: |
+        mkdir -p "$RUNNER_TEMP/$MODE"
+        if [ -d data/state ]; then
+          cp -r data/state "$RUNNER_TEMP/$MODE/"
+        fi
 
     - name: Execute Pipeline
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
-        uv run python src/main.py
-        uv run python src/generate_dataset_overview.py
+        case "$MODE" in
+          normal) uv run python src/main.py ;;
+          shadow) uv run python src/main.py --output-dir "$RUNNER_TEMP/shadow" ;;
+          dry-run) uv run python src/main.py --dry-run --output-dir "$RUNNER_TEMP/dry-run" ;;
+          *) echo "Unknown mode: $MODE"; exit 1 ;;
+        esac
+
+    # The next two steps also run after a failed pipeline step, so that processed posts are kept
+    - name: Update Dataset Overview
+      if: ${{ !cancelled() && env.MODE == 'normal' }}
+      run: uv run python src/generate_dataset_overview.py
 
     - name: Commit and Push Data
+      if: ${{ !cancelled() && env.MODE == 'normal' }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/ README.md
-        if ! git diff --staged --quiet; then
-          git commit -m "chore: add daily fashion data"
-          git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+          exit 0
         fi
+        git commit -m "chore: add daily fashion data"
+        for attempt in 1 2 3; do
+          if git pull --rebase && git push; then
+            exit 0
+          fi
+          echo "Push attempt $attempt failed; retrying."
+          sleep $((attempt * 15))
+        done
+        exit 1
+
+    - name: Upload Run Output
+      if: ${{ !cancelled() && env.MODE != 'normal' }}
+      uses: actions/upload-artifact@v7
+      with:
+        name: pipeline-${{ env.MODE }}-${{ github.run_id }}
+        path: ${{ runner.temp }}/${{ env.MODE }}
+        retention-days: 14

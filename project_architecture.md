@@ -1,74 +1,86 @@
 # Fashion Analytics Pipeline Architecture
 
-This document specifies the decoupled, agentic architecture for an autonomous fashion analytics pipeline that runs daily via GitHub Actions and stores structured data securely.
+This document describes the structure of the pipeline: the directory layout, the daily and the weekly run, and how failures are handled. The modules are described in [src/README.md](src/README.md).
 
 ## Table of Contents
-- [1. Project Directory Structure](#1-project-directory-structure)
-- [2. Configuration & Workflow Files](#2-configuration--workflow-files)
-- [3. Core Source Code Modules](#3-core-source-code-modules)
-- [4. Setup Steps](#4-setup-steps)
+- [1. Directory Structure](#1-directory-structure)
+- [2. Daily Run](#2-daily-run)
+- [3. Weekly Run](#3-weekly-run)
+- [4. Failure Handling](#4-failure-handling)
+- [5. Setup Steps](#5-setup-steps)
 
 ---
 
-## 1. Project Directory Structure
+## 1. Directory Structure
 
 ```text
-fashion-analytics-scraper/
+style_dataset/
 ├── .github/
+│   ├── dependabot.yml
 │   └── workflows/
-│       └── daily_scraper.yml
-├── src/
-│   ├── __init__.py
-│   ├── discovery.py
-│   ├── main.py
-│   ├── parser.py
-│   ├── schema.py
-│   └── storage.py
+│       ├── ci.yml                  # lint, tests, commit messages
+│       ├── daily_scraper.yml       # daily run, 01:00 UTC
+│       ├── email_notify.yml        # commit comment after data commits
+│       └── source_discovery.yml    # weekly maintenance, Sundays 12:00 UTC
 ├── data/
-│   └── YYYY/
-│       └── MM/
-│           └── (Auto-generated JSON datasets)
-├── tests/
-├── README.md
-└── requirements.txt
+│   ├── YYYY/MM/fashion_analytics_YYYY-MM-DD.json   # records of one UTC day
+│   └── state/                      # sources.json, posts.json, images.json, run_log.jsonl
+├── scripts/
+│   └── try_extraction.py           # manual evaluation of the extraction
+├── src/                            # pipeline modules
+├── tests/                          # offline unit and integration tests, fixtures
+├── pyproject.toml
+├── uv.lock
+└── README.md
 ```
 
 ---
 
-## 2. Configuration & Workflow Files
+## 2. Daily Run
 
-### `requirements.txt`
-Specifies the necessary dependencies for the project, including `crawl4ai`, `pydantic`, `google-genai`, `requests`, and `tenacity`.
+`src/main.py` starts the run; `src/pipeline.py` executes it.
 
-### `.github/workflows/daily_scraper.yml`
-An automated GitHub Actions workflow configured to execute the pipeline daily at 00:00 UTC. It installs dependencies, runs the extraction via `src/main.py`, and automatically commits and pushes the generated dataset artifacts into the `data/` directory.
-
----
-
-## 3. Core Source Code Modules
-
-### `src/schema.py`
-Defines the strict structural rules for the AI's output using Pydantic (`FashionRecord`). This forces the Gemini API to respond in a predictable, validated JSON format.
-
-### `src/discovery.py`
-Responsible for dynamically finding target websites using the `google-genai` SDK and Google Search grounding to search the web for active, independent fashion blogs. Features exponential backoff (`tenacity`) to handle API limits.
-
-### `src/parser.py`
-Manages the extraction and categorization of fashion data. Utilizes `crawl4ai`'s `AsyncWebCrawler` with anti-bot bypass parameters. Dispatches the extracted images and text contexts to the Gemini Vision API for classification according to `schema.py`.
-
-### `src/storage.py`
-Handles saving the finalized dataset. It detects the execution environment and directs the JSON output either to the local `Downloads` directory (when run locally) or the `data/` directory (when executed within GitHub Actions).
-
-### `src/main.py`
-The primary orchestrator. Iterates over discovered targets, executes asynchronous web crawling and vision extraction jobs, and processes retries if the total item count falls below required thresholds. Finally, it aggregates the results and triggers `storage.py`.
+1. Load the source registry. If it is empty, seed it from the domains of the legacy records.
+2. Fetch the feeds of the active and probation sources and update their feed statistics.
+3. Select the posts: published within 30 days, not yet processed or due for a retry, not about clearly unrelated topics; at most 3 per source, 40 per run and 10 from sources on probation.
+4. For each post:
+   1. Take the content from the feed if it includes images, else render the page with crawl4ai.
+   2. Select the article element and extract text, image candidates, links and the canonical URL.
+   3. Skip the post if it was already processed under its canonical URL, or if it is republished.
+   4. Download the image candidates, filter them by size and shape, and remove duplicates by dHash.
+   5. Send all images and the post text to Gemini in one request.
+   6. Build the records, without outfits of minors, and merge them into the day file.
+   7. Save the post state, the image state and the source registry.
+5. Give up pending posts older than 30 days, apply the source lifecycle rules, save, and append a line to the run log.
+6. The workflow updates the README overview and commits `data/` and `README.md`.
 
 ---
 
-## 4. Setup Steps
+## 3. Weekly Run
 
-### 1. Environment Variables
-1. Set `GEMINI_API_KEY` in a local `.env` file or export it directly in your shell.
+`src/discovery.py` maintains the registry:
 
-### 2. GitHub Secrets Setup
-1. Add the `GEMINI_API_KEY` repository secret under **Settings > Secrets and Variables > Actions**.
-2. Ensure repository workflow permissions are set to allow Actions to push commits to the repository to update the `data/` directory.
+1. Fetch the feeds of dormant and broken sources and apply the lifecycle rules, so that sources that publish again return.
+2. Ask Gemini with Google Search for the country and language of sources whose country was so far inferred only from the domain or the feed language (20 domains per request).
+3. Ask Gemini with Google Search for new personal style blogs, with a search focus that changes every week. Evaluate each candidate with the admission rules and store it with its status; at most 10 are admitted per week.
+
+The workflow commits `data/state/`.
+
+---
+
+## 4. Failure Handling
+
+- **One post fails:** the post stays pending and is retried in later runs. Failures that concern the post itself (missing page, unusable model response) count as attempts; after 3 attempts the post is given up. Server errors, rate limits and quota errors do not count.
+- **Quota or call budget reached:** extraction stops; all processed posts are saved.
+- **Gemini rejects the request** (for example an invalid API key): the run stops, saves its progress and exits with code 1, so that the workflow fails visibly.
+- **Run interrupted** between writing records and writing state: the next run processes the post again and replaces its earlier records.
+- **Blocked or invalid model response:** the images are split into two requests; images of a failed half are not marked as analyzed.
+- **Concurrent pushes:** both data workflows share a concurrency group, pull with rebase and retry the push up to three times.
+
+---
+
+## 5. Setup Steps
+
+1. Add the `GEMINI_API_KEY` repository secret under **Settings > Secrets and variables > Actions**. For local runs, set it in a `.env` file.
+2. Allow workflows to push to the repository under **Settings > Actions > General > Workflow permissions**.
+3. For local runs, install the browser once: `uv run playwright install chromium`.
