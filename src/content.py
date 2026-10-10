@@ -21,7 +21,8 @@ from urls import domain_id
 
 # Tried one at a time, in this order, because a comma-separated selector would
 # return the first match in page order instead of the first selector that matches
-ARTICLE_SELECTORS = (".entry-content", ".post-content", ".post-body", "article", "main")
+ARTICLE_SELECTORS = (".entry-content", ".post-content", ".post-body", ".post-entry", ".full-post", ".entry", "article",
+                     "main")
 MIN_ARTICLE_TEXT_CHARS = 200
 # Elements inside the article that hold navigation, sharing buttons, comments or related posts
 NOISE_SELECTORS = ("script", "style", "template", "form", "nav", "aside", "iframe", "[class*=related]",

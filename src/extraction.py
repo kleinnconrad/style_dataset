@@ -13,6 +13,7 @@ import logging
 import os
 import re
 import time
+import typing
 from dataclasses import dataclass, field
 from typing import Any, Callable, Optional, Sequence
 
@@ -21,7 +22,15 @@ from google import genai
 from google.genai import errors, types
 from pydantic import ValidationError
 
-from schema import OutfitExtraction, PostExtraction, describe_models
+from schema import (
+    GARMENT_CATEGORY_BY_TYPE,
+    GARMENT_TYPES_BY_CATEGORY,
+    BaseColor,
+    Material,
+    OutfitExtraction,
+    PostExtraction,
+    describe_models,
+)
 from settings import Settings
 
 logger = logging.getLogger(__name__)
@@ -45,6 +54,13 @@ MAX_IMAGE_CONTEXT_CHARS = 300
 # Image preprocessing; part of the extraction hash
 IMAGE_MAX_SIDE_PX = 1024
 IMAGE_JPEG_QUALITY = 85
+# Words of the vocabularies that are never brand names, such as a "JEANS:" heading in a post
+GENERIC_BRAND_TERMS = frozenset(
+    part.strip().casefold()
+    for value in (*GARMENT_CATEGORY_BY_TYPE, *GARMENT_TYPES_BY_CATEGORY, *typing.get_args(BaseColor),
+                  *typing.get_args(Material), "Shoes", "Boots", "Bag", "Jacket", "Top", "Accessories", "Outfit")
+    for part in (value, *value.split("/"))
+)
 
 SYSTEM_INSTRUCTION = """\
 You extract structured fashion data from the photos of one blog post.
@@ -422,7 +438,7 @@ def _verified_brands(brands: Sequence[str], reference_text: str) -> list[str]:
     verified: dict[str, str] = {}
     for brand in brands:
         name = " ".join(brand.split())
-        if len(name) < 2 or name.casefold() in verified:
+        if len(name) < 2 or name.casefold() in verified or name.casefold() in GENERIC_BRAND_TERMS:
             continue
         if re.search(r"(?<!\w)" + re.escape(name) + r"(?!\w)", reference_text, flags=re.IGNORECASE):
             verified[name.casefold()] = name
@@ -591,6 +607,8 @@ class GeminiExtractor:
             response_schema=PostExtraction,
             temperature=TEMPERATURE,
             media_resolution=MEDIA_RESOLUTION,
+            # No tools are used; disabling automatic function calling also avoids an SDK warning per call
+            automatic_function_calling=types.AutomaticFunctionCallingConfig(disable=True),
             thinking_config=(
                 types.ThinkingConfig(thinking_budget=THINKING_BUDGET) if THINKING_BUDGET is not None else None
             ),

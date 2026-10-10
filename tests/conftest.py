@@ -1,4 +1,6 @@
-"""Shared test helpers: a fake web for the fetcher functions and an RSS builder."""
+"""Shared test helpers: a fake web for the fetcher functions, an RSS builder and an image builder."""
+import io
+import random
 from collections.abc import Callable, Sequence
 from datetime import date, datetime, timezone
 from email.utils import format_datetime
@@ -7,6 +9,7 @@ from xml.sax.saxutils import escape
 
 import pytest
 import requests
+from PIL import Image
 
 from feeds import HttpResponse
 
@@ -56,10 +59,34 @@ def make_rss(items: Sequence[tuple[str, str, date]], language: Optional[str] = "
             ).encode("utf-8")
 
 
+def make_jpeg(seed: int, size: tuple[int, int] = (600, 900)) -> bytes:
+    """Builds a JPEG of a smooth random picture; different seeds give clearly different dHashes.
+
+    Args:
+        seed: Seed of the picture.
+        size: Width and height in pixels.
+
+    Returns:
+        bytes: The JPEG data.
+    """
+    rng = random.Random(seed)
+    grid = Image.new("L", (12, 18))
+    grid.putdata([rng.randrange(256) for _ in range(12 * 18)])
+    buffer = io.BytesIO()
+    grid.resize(size, Image.Resampling.BICUBIC).convert("RGB").save(buffer, format="JPEG")
+    return buffer.getvalue()
+
+
 @pytest.fixture
 def web() -> FakeWeb:
     """A fresh fake web per test."""
     return FakeWeb()
+
+
+@pytest.fixture
+def jpeg() -> Callable[..., bytes]:
+    """The JPEG builder."""
+    return make_jpeg
 
 
 @pytest.fixture

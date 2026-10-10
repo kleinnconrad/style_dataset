@@ -134,6 +134,14 @@ def test_response_is_cleaned() -> None:
     assert extractor.usage.total_tokens == 1250
 
 
+def test_generic_words_are_not_brands() -> None:
+    payload = fixture_payload()
+    payload["outfits"][0]["brand_mentions"] = ["JEANS", "Sweater", "Everlane", "Camel"]
+    post = PostContext(title="Fall outfit", published_date=None, text="JEANS: Everlane. Sweater in camel.")
+    extractor, _, _ = make_extractor([make_response(payload)])
+    assert extractor.extract(post, IMAGES).extraction.outfits[0].brand_mentions == ["Everlane"]
+
+
 def test_images_without_outfit_or_rejection_are_unassigned() -> None:
     payload = fixture_payload()
     payload["outfits"].pop()
